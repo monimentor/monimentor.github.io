@@ -9,7 +9,7 @@
 <body>
   <div class="flex">
     <div>
-    <video id="myVideo" controls width="250"  autoplay muted>
+    <video id="myVideo" controls autoplay muted>
       <source src="Moni_waving.webm" type="video/webm" />
     </video>
   </div>
@@ -42,7 +42,9 @@ background-position: center;
 
   video {
     pointer-events: none; /* Optional: prevents any interaction at all */
-    background: transparent
+    background: transparent;
+    width: 50%;
+    margin-left: 25%;
   }
 </style>
 <script>
