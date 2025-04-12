@@ -7,32 +7,54 @@
 <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
 </head>
 <body>
-  <div style="text-align: center;">
-<div style="font-size: 70px" class="text-gradient"><span style="font-size: 70px">m</span>onimentor</div>
-<div style="font-size: 20px; padding-bottom: 4px;">Digitale weerbaarheid voor het hele gezin</div><div>Gezonde schermgewoontes, samen geleerd.</div>
-</div>
+  <div class="flex">
+    <div>
+    <video id="myVideo" controls width="250"  autoplay muted>
+      <source src="Moni_waving.webm" type="video/webm" />
+    </video>
+  </div>
+  </div>
 </body>
 <style>
-  html, body {
-  height: 100%;
+  body {
+  /* height: 100%; */
   margin: 0;
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #0f1211;
+  font-family: "Inter", sans-serif;
+  /* background-image: url("background.png"); */
+    /* background: linear-gradient(45deg, #cefcf9 0%, #fbfaff 50%, #fafff4 100%); */
+  background-image: url("background.png");
+  background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
 }
-  div {
-    color: rgb(193, 223, 193);
-    font-family: "Inter", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: normal;
+  
+  video::-internal-media-controls-overlay-cast-button,
+  video::-webkit-media-controls {
+    display: none !important;
   }
-  .text-gradient {
-    /* font-weight: bold; */
-    background-image: linear-gradient(45deg, #34D399, #065F46);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+
+  .flex {
+    display: flex;
+  }
+
+  video {
+    pointer-events: none; /* Optional: prevents any interaction at all */
+    background: transparent
   }
 </style>
+<script>
+  const video = document.getElementById('myVideo');
+
+  video.addEventListener('ended', () => {
+    // Wait 2 seconds before replaying
+    setTimeout(() => {
+      video.currentTime = 0;
+      video.play();
+    }, 4000);
+  });
+</script>
 </html>
 
