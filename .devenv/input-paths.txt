@@ -1,4 +1,0 @@
-/Users/maarten/qabam/projects/monimentor.github.io/.devenv.flake.nix
-/Users/maarten/qabam/projects/monimentor.github.io/devenv.lock
-/Users/maarten/qabam/projects/monimentor.github.io/devenv.nix
-/Users/maarten/qabam/projects/monimentor.github.io/devenv.yaml
