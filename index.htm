@@ -1,64 +1,132 @@
-<html>
+<!DOCTYPE html>
+<html lang="nl">
 <head>
-  <title>Monimentor - Voor een digitaal weerbaar gezin: gezonde schermgewoontes, samen geleerd.
-</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Monimentor - Voor een digitaal weerbaar gezin: gezonde schermgewoontes, samen geleerd.</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,100..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css"> 
 </head>
 <body>
-  <div class="flex">
-    <div>
-      <img src="Moni_waving.gif" alt="Moni Waving" style="width: 50%; margin-left: 25%;">
-      <img src="logo.png" alt="Monimentor Logo" style="width: 50%; margin-left: 25%;">
-      <p style="text-align: center; color:#0a062f ; font-size: 20px; margin-top: 10px;">Hallo! Ik ben Moni. Welkom op de website van Monimentor.</p>
-      <p style="text-align: center; color:#0a062f ; font-size: 20px;">Ik ben hier om jou en je gezin te helpen met gezonde schermgewoontes.</p>
-      <p style="text-align: center; color:#0a062f ; font-size: 20px;">Laten we samen leren hoe we verantwoord met schermen kunnen omgaan.</p>
-      <p style="text-align: center; color:#FF8650 ; font-size: 20px;">Binnenkort gaan we starten!</p>
-  </div>
-  </div>
-</body>
-<style>
-  body {
-  /* height: 100%; */
-  margin: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-family: "Nunito", sans-serif;
-    /* background: linear-gradient(45deg, #cefcf9 0%, #fbfaff 50%, #fafff4 100%); */
-  background-image: url("background.png");
-  background-repeat: no-repeat;
-background-size: cover;
-background-position: center;
-}
+    <div class="main-container">
+      <div class="video-background-wrapper">
   
-  video::-internal-media-controls-overlay-cast-button,
-  video::-webkit-media-controls {
-    display: none !important;
-  }
+        <video id="myVideo" class="content-video" autoplay loop muted playsinline>
+            <source src="Moni_dances_around.webm" type="video/webm">
+            Je browser ondersteunt deze video niet.
+        </video>
+        
+        </div><img src="logo.png" alt="Monimentor Logo" class="content-logo">
+        
+        <p class="intro-text">Hallo! Ik ben Moni. Welkom op de website van Monimentor.</p>
+        <p class="intro-text">Ik ben hier om jou en je gezin te helpen met gezonde schermgewoontes.</p>
+        <p class="intro-text">Laten we samen leren hoe we verantwoord met schermen kunnen omgaan.</p>
+        <p class="status-text">Binnenkort gaan we starten!</p>
+        
+    </div> <script>
+        const video = document.getElementById('myVideo');
 
-  .flex {
-    display: flex;
-  }
+        // Controleer of het video element bestaat voordat je de listener toevoegt
+        if (video) {
+            video.addEventListener('ended', () => {
+                // Wacht 4 seconden voor opnieuw afspelen
+                setTimeout(() => {
+                    video.currentTime = 0;
+                    video.play().catch(error => console.log("Play interrupted:", error)); // Voeg error handling toe
+                }, 4000);
+            });
+        } else {
+            console.error("Video element met ID 'myVideo' niet gevonden.");
+        }
+    </script>
 
-  video {
-    pointer-events: none; /* Optional: prevents any interaction at all */
-    background: transparent;
-    width: 50%;
-    margin-left: 25%;
-  }
-</style>
-<script>
-  const video = document.getElementById('myVideo');
-
-  video.addEventListener('ended', () => {
-    // Wait 2 seconds before replaying
-    setTimeout(() => {
-      video.currentTime = 0;
-      video.play();
-    }, 4000);
-  });
-</script>
+</body>
 </html>
+<style> 
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: "Inter", sans-serif; 
+    background: linear-gradient(90deg, #cefcf9 0%, #fbfaff 50%, #fafff4 100%); 
+    min-height: 100vh; 
+    display: grid;
+    place-items: center;   
+}
 
+.main-container {
+    
+    max-width: 700px; 
+    width: 90%;
+    padding: 0px; 
+    background: rgba(255, 255, 255, 0.3);
+    border-radius: 20px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);   
+    text-align: center;
+}
+
+.video-background-wrapper {
+  width: 100%; 
+  margin-bottom: 20px; 
+  display: flex; 
+  justify-content: center; 
+  background: linear-gradient(
+      to bottom, 
+     #e7f3ef 0%,
+     #EFE3E6 100%
+     
+  );
+  border-top-right-radius: 20px; border-top-left-radius: 20px;
+  background-alpha: 0.5;
+}
+
+.content-video {
+    display: block;
+    width: 100%; 
+    max-width: 250px; 
+    height: auto; 
+    margin-left: auto; 
+    margin-right: auto; 
+    background: transparent;
+    pointer-events: none;
+}
+
+video::-internal-media-controls-overlay-cast-button,
+video::-webkit-media-controls {
+    display: none !important;
+}
+
+.content-logo {
+    display: block; 
+    max-width: 250px; 
+    height: auto; 
+    margin-left: auto; 
+    margin-right: auto;
+    margin-bottom: 25px; 
+}
+
+
+.main-container p {
+    line-height: 1.5; 
+    margin-top: 0; 
+    margin-bottom: 15px;
+}
+
+.intro-text {
+  font-size:medium;
+  color: #0a062f;
+  line-height: 1.5; 
+  margin-top: 0; 
+  margin-bottom: 15px; 
+  text-align: center; 
+}
+
+.status-text {
+    color: #FF8650;
+    font-size: large;
+    font-weight: bold; 
+    text-align: center;
+}
+
+</style>
