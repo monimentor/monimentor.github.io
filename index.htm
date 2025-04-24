@@ -7,7 +7,10 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,100..900&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="style.css"> 
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
 </head>
 <body>
     <div class="main-container">
@@ -15,7 +18,6 @@
   
         <video id="myVideo" class="content-video" autoplay loop muted playsinline>
             <source src="Moni_dances_around.webm" type="video/webm">
-            Je browser ondersteunt deze video niet.
         </video>
         
         </div><img src="logo.png" alt="Monimentor Logo" class="content-logo">
@@ -25,21 +27,63 @@
         <p class="intro-text">Laten we samen leren hoe we verantwoord met schermen kunnen omgaan.</p>
         <p class="status-text">Binnenkort gaan we starten!</p>
         
-    </div> <script>
+    </div> 
+    <script>
         const video = document.getElementById('myVideo');
-
-        // Controleer of het video element bestaat voordat je de listener toevoegt
         if (video) {
             video.addEventListener('ended', () => {
-                // Wacht 4 seconden voor opnieuw afspelen
                 setTimeout(() => {
                     video.currentTime = 0;
-                    video.play().catch(error => console.log("Play interrupted:", error)); // Voeg error handling toe
-                }, 4000);
+                    video.play().catch(error => console.log("Play interrupted:", error)); 
+                }, 1000);
             });
         } else {
             console.error("Video element met ID 'myVideo' niet gevonden.");
         }
+        document.addEventListener('DOMContentLoaded', function() {
+            const videoElement = document.getElementById('myVideo');
+        
+            if (videoElement) {
+        
+            
+              function restartVideoLoop() {
+                if (document.visibilityState === 'visible') {
+                  videoElement.currentTime = 0; 
+                  videoElement.play().catch(error => {
+                    console.log('Video play prevented:', error);
+                  });
+                }
+              }
+      
+              document.addEventListener('visibilitychange', function() {
+                if (document.visibilityState === 'visible') {
+                  //console.log('Page is visible, attempting to restart video loop.');
+                  restartVideoLoop();
+                } else {
+                  // Optioneel: pauzeer de video expliciet als de pagina onzichtbaar wordt
+                  // videoElement.pause();
+                  //console.log('Page is hidden, pausing video.');
+                }
+              });
+        
+              window.addEventListener('pageshow', function(event) {
+                if (event.persisted) {
+                  //console.log('Page restored from bfcache, attempting to restart video loop.');
+                } else {
+                  //console.log('Page loaded normally.');
+                }
+                 restartVideoLoop(); 
+              });
+        
+               if (videoElement.paused || videoElement.ended) {
+                   restartVideoLoop();
+               }
+        
+        
+            } else {
+              //console.error("Video element with ID 'myVideo' not found.");
+            }
+          });
     </script>
 
 </body>
