@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang="nl">
 <head>
-    <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-J0XCC1G000"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-J0XCC1G000"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -40,7 +39,7 @@
         .text-error { color: #DC2626; }
         .bg-secondary-500 { background-color: #FF8650; }
         .text-accent-700 { color: #059669; }
-        .bg-video { background-color: #CCCCFF; } /* primary-100, gebruikt voor video-container achtergrond */
+        .bg-video { background-color: #E5E1FF; } /* primary-100, gebruikt voor video-container achtergrond */
 
         body {
             font-family: 'Inter', sans-serif;
@@ -49,7 +48,7 @@
             min-height: 100vh;
             display: flex;
             flex-direction: column;
-            align-items: center;
+            align-items: center; /* Houd deze om de video/logo/intro-tekst te centreren */
             justify-content: flex-start;
             padding: 0;
             margin: 0;
@@ -480,14 +479,43 @@
         const emailInput = document.getElementById('emailInput');
         const formMessage = document.getElementById('formMessage');
 
-        signupForm.addEventListener('submit', function(event) {
-            event.preventDefault();
+        // **BELANGRIJK: VERVANG DEZE URL MET DE WEB-APP URL VAN JE GOOGLE APPS SCRIPT**
+        const GOOGLE_APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbyX3uI0ChaBH3-3fkyfR_K0DvCGgoizMMdUFGjWL4kGe215HzjxEbobFNJ1O_FLv3L0/exec'; 
+
+        signupForm.addEventListener('submit', async function(event) {
+            event.preventDefault(); // Voorkom standaard formulier indiening
             const email = emailInput.value;
 
-            if (email && /\S+@\S+\.\S+/.test(email)) {
-                formMessage.textContent = 'Bedankt! We hebben je e-mailadres ontvangen: ' + email + '. We nemen snel contact met je op over de gesloten test!';
-                formMessage.className = 'mt-4 text-sm text-accent-600';
-                emailInput.value = ''; 
+            if (email && /\S+@\S+\.\S+/.test(email)) { // Eenvoudige e-mail validatie
+                formMessage.textContent = 'Bezig met verzenden...';
+                formMessage.className = 'mt-4 text-sm text-neutral-600';
+
+                try {
+                    const response = await fetch(GOOGLE_APPS_SCRIPT_URL, {
+                        method: 'POST',
+                        mode: 'no-cors', // Vereist voor Apps Script als je geen CORS headers instelt
+                        cache: 'no-cache',
+                        headers: {
+                            'Content-Type': 'application/json',
+                        },
+                        body: JSON.stringify({ email: email }),
+                    });
+
+                    // Omdat 'no-cors' mode wordt gebruikt, kunnen we de respons niet direct parsen.
+                    // We gaan ervan uit dat de aanvraag succesvol is als er geen netwerkfout is.
+                    // Voor een robuustere oplossing, zou je CORS op de Apps Script moeten configureren
+                    // en dan response.json() gebruiken.
+                    
+                    formMessage.textContent = 'Bedankt! We hebben je e-mailadres ontvangen. We nemen snel contact met je op over de gesloten test!';
+                    formMessage.className = 'mt-4 text-sm text-accent-600';
+                    emailInput.value = '';
+
+                } catch (error) {
+                    console.error('Fout bij verzenden formulier:', error);
+                    formMessage.textContent = 'Er is een fout opgetreden bij het verzenden. Probeer het later opnieuw.';
+                    formMessage.className = 'mt-4 text-sm text-error';
+                }
+
             } else {
                 formMessage.textContent = 'Vul een geldig e-mailadres in.';
                 formMessage.className = 'mt-4 text-sm text-error';
