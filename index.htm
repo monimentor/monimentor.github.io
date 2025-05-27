@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Monimentor - Voor een digitaal weerbaar gezin: gezonde schermgewoontes, samen geleerd.</title>
+    <title>Monimentor - Schermtijd Slimmer, Samen met Moni!</title>
+    <script src="https://cdn.tailwindcss.com"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,100..900&display=swap" rel="stylesheet">
@@ -11,178 +12,479 @@
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
     <link rel="manifest" href="/site.webmanifest">
-</head>
-<body>
-    <div class="main-container">
-      <div class="video-background-wrapper">
   
-        <video id="myVideo" class="content-video" autoplay loop muted playsinline>
+    <style>
+        /* Aangepaste kleuren die je uit je tailwind.config.js haalt en hier handmatig definieert */
+        .bg-primary-500 { background-color: #7E70FF; }
+        .hover\:bg-primary-600:hover { background-color: #685AEF; }
+        .text-primary-600 { color: #685AEF; }
+        .bg-theme-800 { background-color: #D9D6FF; } /* primary-200, voor problem cards */
+        .text-neutral-700 { color: #3D3D3D; }
+        .text-neutral-600 { color: #4B5563; }
+        .text-neutral-500 { color: #6B7280; }
+        .text-neutral-300 { color: #D1D5DB; }
+        .bg-neutral-900 { background-color: #1F1F1F; }
+        .bg-white { background-color: #FFFFFF; }
+        .bg-accent-100 { background-color: #DCFCEF; }
+        .text-accent-600 { color: #10B981; }
+        .bg-error { background-color: #DC2626; }
+        .text-error { color: #DC2626; }
+        .bg-secondary-500 { background-color: #FF8650; }
+        .text-accent-700 { color: #059669; }
+        .bg-video { background-color: #CCCCFF; } /* primary-100, gebruikt voor video-container achtergrond */
+
+        body {
+            font-family: 'Inter', sans-serif;
+            scroll-behavior: smooth;
+            background: linear-gradient(90deg, #cefcf9 0%, #fbfaff 50%, #fafff4 100%); /* Achtergrond van de aangeleverde code */
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: flex-start;
+            padding: 0;
+            margin: 0;
+            width: 100%;
+        }
+
+        /* Wrapper voor de hoofdvideo bovenaan */
+        .hero-video-wrapper {
+            width: 100%;
+            margin-bottom: 10px; /* Minder ruimte onder de video */
+            display: flex;
+            justify-content: center;
+            background-color: #CCCCFF; /* primary-100 */
+            border-bottom-left-radius: 20px;
+            border-bottom-right-radius: 20px;
+            overflow: hidden;
+        }
+
+        /* Hoofdvideo styling */
+        .hero-video {
+            display: block;
+            width: 100%;
+            max-width: 250px; /* Max breedte voor de hoofdvideo */
+            height: auto;
+            margin-left: auto;
+            margin-right: auto;
+            background: transparent;
+            pointer-events: none;
+        }
+
+        /* Styling voor video's in de "How it works" sectie */
+        .how-it-works-video-container {
+            display: flex;
+            flex-wrap: wrap; /* Zorgt ervoor dat video's op kleinere schermen onder elkaar gaan */
+            justify-content: center;
+            align-items: center;
+            gap: 1.5rem; /* Vrije ruimte tussen video's */
+            padding: 1rem; /* Padding binnen de container */
+            
+        }
+
+        .how-it-works-video {
+            display: block;
+            width: 80px; /* Standaard breedte voor kleine video's */
+            max-width: 100px; /* Maximale breedte per video */
+            height: auto;
+            background: transparent; /* Zorgt ervoor dat achtergrond doorschijnt als video transparant is */
+            pointer-events: none;
+            border-radius: 50%;
+        }
+        /* Responsieve aanpassingen voor video's in "How it works" */
+        @media (min-width: 768px) { /* md */
+            .how-it-works-video {
+                width: 120px;
+            }
+        }
+        @media (min-width: 1024px) { /* lg */
+            .how-it-works-video {
+                width: 150px;
+            }
+        }
+
+        video::-internal-media-controls-overlay-cast-button,
+        video::-webkit-media-controls {
+            display: none !important;
+        }
+
+        .content-logo {
+            display: block;
+            max-width: 250px;
+            height: auto;
+            margin-left: auto;
+            margin-right: auto;
+            margin-bottom: 25px;
+        }
+
+        .intro-text {
+            font-size: medium;
+            color: #3D3D3D; /* neutral-700 */
+            line-height: 1.5;
+            margin-top: 0;
+            margin-bottom: 15px;
+            text-align: center;
+            padding: 0 1.5rem;
+            max-width: 1024px;
+            width: 100%;
+        }
+
+        .status-text {
+            color: #FF8650; /* secondary-500 */
+            font-size: large;
+            font-weight: bold;
+            text-align: center;
+            padding-bottom: 1rem;
+            max-width: 1024px;
+            width: 100%;
+        }
+
+        /* Tailwind custom colors */
+        .text-brand-dark { color: #3D3D3D; }
+        .text-brand-primary { color: #685AEF; }
+        .text-brand-accent { color: #059669; }
+        .section-padding { padding-top: 4rem; padding-bottom: 4rem; }
+        .cta-button {
+            transition: background-color 0.3s ease;
+        }
+        .moni-character-placeholder {
+            width: 80px;
+            height: 80px;
+            border-radius: 50%;
+            background-color: #34D399; /* accent-500 */
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 2rem;
+            color: white;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        .testimonial-card {
+            background-color: #F4F3FF; /* primary-50 */
+            border-left: 4px solid #7E70FF; /* primary-500 */
+        }
+        .benefit-icon {
+            font-size: 1.75rem;
+            line-height: 2.25rem;
+            margin-bottom: 0.5rem;
+        }
+        input[type="email"]:focus {
+            outline: 2px solid #9F99FF; /* primary-400 */
+            outline-offset: 2px;
+        }
+
+        /* Algemene container voor secties buiten de header */
+        .content-section-container {
+            max-width: 100%;
+            width: 100%;
+            background: rgba(255, 255, 255, 0.3);
+            border-radius: 20px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            margin-top: 20px;
+            padding: 0;
+            overflow: hidden;
+        }
+
+        /* Aanpassingen voor de secties binnen de nieuwe container */
+        .content-section-container section {
+            background: none;
+            box-shadow: none;
+            border-radius: 0;
+        }
+        .content-section-container .bg-white {
+            background-color: white;
+        }
+        .content-section-container .hero-bg {
+            background-color: #F4F3FF; /* primary-50, voor de hero-bg secties */
+        }
+
+        .content-section-container .section-padding {
+            padding-top: 4rem;
+            padding-bottom: 4rem;
+        }
+
+        /* Zorg dat de inhoud binnen de secties gecentreerd blijft en een max-breedte heeft */
+        .content-section-container .container {
+            max-width: 1024px;
+            margin-left: auto;
+            margin-right: auto;
+            padding-left: 1.5rem;
+            padding-right: 1.5rem;
+        }
+
+    </style>
+</head>
+<body class="text-neutral-700 antialiased">
+
+    <div class="hero-video-wrapper">
+        <video id="heroVideo" class="hero-video" autoplay loop muted playsinline>
             <source src="Moni_dances_around.webm" type="video/webm">
         </video>
-        
-        </div><img src="logo.png" alt="Monimentor Logo" class="content-logo">
-        
-        <p class="intro-text">Hallo! Ik ben Moni. Welkom op de website van Monimentor.</p>
-        <p class="intro-text">Als digitale mentor help ik gezinnen met het aanleren van gezond digitaal gedrag. Wat ik daarbij belangrijk vind: 
-          <ul>
-            <li>Het doel is niet per definitie beperken en verbieden, maar bewustwording creeëren en alleen ingrijpen bij structureel ongewenst gedrag.</li>
-            <li>We gebruiken de laatste wetenschappelijke data als uitgangspunt voor wat wordt gezien als gezonde schermtijd</li>
-            <li>De kwaliteit van de schermtijd is misschien nog wel belangrijker dan de schermtijd zelf. Een uur lang iets interessants en nieuws leren op YouTube is veel nuttiger dan een uur lang scrollen op sociaal media. </li>
-            <li>Kinderen moeten zich ook in de digitale wereld vrij kunnen voelen, dus we hechten enrom aan privacy. Zelfs binnen het gezin zijn we terughoudend met het delen van gedetailleerde inhoud.</li>
-          </ul>
-        </p>
-        <p class="intro-text">Laten we samen leren hoe we verantwoord digitaal gezond kunnen opgroeien:
-          <ul>
-          <li>Hou jij Moni gezond?' </li>
-          <li>Moni's energieniveau veranderd naar mate er langer achter een scherm gezeten wordt</li>
-          <li>Overmatig gebruik resulteert in een langere hersteltijd voor Moni's energieniveau</li>
-          </ul>
-        </p>
-        <p class="status-text">Binnenkort starten we met een gesloten test. </p>
-    </div> 
-    <script>
-        const video = document.getElementById('myVideo');
-        if (video) {
-            video.addEventListener('ended', () => {
-                setTimeout(() => {
-                    video.currentTime = 0;
-                    video.play().catch(error => console.log("Play interrupted:", error)); 
-                }, 1000);
-            });
-        } else {
-            console.error("Video element met ID 'myVideo' niet gevonden.");
-        }
-        document.addEventListener('DOMContentLoaded', function() {
-            const videoElement = document.getElementById('myVideo');
-        
-            if (videoElement) {
-        
+    </div>
+    <img src="logo.png" alt="Monimentor Logo" class="content-logo">
+
+    <div class="content-section-container">
+        <header id="home" class="py-8 text-center">
+            <div class="container mx-auto px-6">
+                <h1 class="text-4xl md:text-5xl font-bold text-neutral-700 mb-6">
+                    Stop Schermtijdgevechten. <span class="text-primary-600">Digitaal Weerbare Kids.</span>
+                </h1>
+                <p class="text-lg md:text-xl text-neutral-600 mb-8">
+                    Hallo! Ik ben Moni, jouw vriendelijke digitale maatje voor het hele gezin. We helpen je kinderen gezonde schermgewoonten te ontwikkelen voor een evenwichtig digitaal leven. De focus ligt op waardevolle schermtijd, niet alleen op beperkingen.
+                </p>
+                <a href="#signup" class="cta-button bg-primary-500 hover:bg-primary-600 text-white font-semibold py-3 px-8 rounded-lg text-lg shadow-md inline-block">
+                    Doe mee met onze gesloten test!
+                </a>
+                <p class="text-sm text-neutral-500 mt-4">Wees er snel bij en ervaar Monimentor als een van de eersten! We gaan binnenkort van start!</p>
+            </div>
+        </header>
+
+        <main>
+            <section id="problem" class="section-padding bg-white">
+                <div class="container mx-auto px-6 text-center">
+                    <h2 class="text-3xl font-bold text-neutral-700 mb-6">Herkenbaar: het digitale dilemma van jullie gezin?</h2>
+                    <p class="text-neutral-600 mb-8">
+                        Veel ouders voelen zich overweldigd door schermtijd. Eindeloze onderhandelingen, zorgen over wat je kind online doet en schuldgevoelens over beperkingen. Je bent niet de enige!
+                    </p>
+                    <div class="grid md:grid-cols-3 gap-6 text-left">
+                        <div class="bg-theme-800 p-6 rounded-lg shadow">
+                            <h3 class="text-xl font-semibold text-neutral-700 mb-2">Eindeloze Onderhandelingen</h3>
+                            <p class="text-neutral-600">Voelt het alsof je altijd onderhandelt over "nog maar vijf minuutjes"?</p>
+                        </div>
+                        <div class="bg-theme-800 p-6 rounded-lg shadow">
+                            <h3 class="text-xl font-semibold text-neutral-700 mb-2">Zorgen over Inhoud</h3>
+                            <p class="text-neutral-600">Bezorgd over wat je kind *echt* online doet?</p>
+                        </div>
+                        <div class="bg-theme-800 p-6 rounded-lg shadow">
+                            <h3 class="text-xl font-semibold text-neutral-700 mb-2">Frustratie door Beperkingen</h3>
+                            <p class="text-neutral-600">Moe van het zijn van de "slechterik" met strikte, vaak ineffectieve, limieten?</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="solution" class="section-padding hero-bg">
+                <div class="container mx-auto px-6">
+                    <div class="text-center mb-12">
+                        <h2 class="text-3xl font-bold text-neutral-700 mb-4">Monimentor: Een Nieuwe Weg naar Digitaal Welzijn</h2>
+                        <p class="text-lg text-neutral-600 max-w-2xl mx-auto">
+                            Monimentor is niet zomaar een andere app voor ouderlijk toezicht. Wij zijn een <span class="font-semibold text-accent-700">digitale mentor</span>, gepersonifieerd door 'Moni'. Ons doel is om bewustzijn te creëren en jullie gezin te begeleiden naar positieve, gezonde digitale gewoonten. We baseren ons op de nieuwste wetenschappelijke inzichten over gezonde schermtijd.
+                        </p>
+                    </div>
+
+                    <div class="grid md:grid-cols-2 gap-8 items-center">
+                        <div>
+                            <h3 class="text-2xl font-semibold text-neutral-700 mb-4">Focus op Kwaliteit, Niet Alleen Kwantiteit</h3>
+                            <p class="text-neutral-600 mb-4">
+                                Wist je dat de *kwaliteit* van schermtijd misschien nog wel belangrijker is dan de duur? Een uur lang iets nieuws leren op YouTube kan nuttiger zijn dan een uur passief scrollen. Monimentor helpt bij het identificeren en aanmoedigen van <span class="font-semibold">verrijkende digitale ervaringen.</span>
+                            </p>
+                            <h3 class="text-2xl font-semibold text-neutral-700 mb-4">Begeleiding, Niet Alleen Beperking</h3>
+                            <p class="text-neutral-600">
+                                We geloven in het empoweren van kinderen met <span class="font-semibold">digitale weerbaarheid</span>. Monimentor grijpt alleen zachtjes in bij consequent ongewenst gedrag, en bevordert zelfbewustzijn en positieve keuzes.
+                            </p>
+                        </div>
+                        <div class="text-center">
+                            <div class="inline-block p-8 bg-white rounded-xl shadow-xl">
+                                <div class="mx-auto moni-character-placeholder" style="width: 120px; height: 120px; font-size: 3rem;"><img src="Moni_waving.gif" alt="Moni-Character" > </div>
+                                <p class="mt-4 text-xl font-semibold text-neutral-700">Ontmoet Moni!</p>
+                                <p class="text-neutral-600">De vriendelijke gids van jullie gezin naar een gezonder digitaal leven.</p>
+                                <p class="text-sm text-neutral-500 mt-2">Moni is er om jou en je gezin te helpen met gezonde schermgewoontes.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="benefits" class="section-padding bg-white">
+                <div class="container mx-auto px-6 text-center">
+                    <h2 class="text-3xl font-bold text-neutral-700 mb-12">Jouw Familie Versterken, Stap voor Stap</h2>
+                    <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
+                        <div class="flex flex-col items-center">
+                            <div class="benefit-icon text-primary-600">🌱</div>
+                            <h3 class="text-xl font-semibold text-neutral-700 mb-2">Weerbaarheid Stimuleren</h3>
+                            <p class="text-neutral-600">Rust je kind uit met vaardigheden om de digitale wereld wijs te navigeren.</p>
+                        </div>
+                        <div class="flex flex-col items-center">
+                            <div class="benefit-icon text-primary-600">💡</div>
+                            <h3 class="text-xl font-semibold text-neutral-700 mb-2">Kwaliteitstijd Bevorderen</h3>
+                            <p class="text-neutral-600">Moedig leren en creativiteit aan boven gedachteloos scrollen.</p>
+                        </div>
+                        <div class="flex flex-col items-center">
+                            <div class="benefit-icon text-primary-600">😊</div>
+                            <h3 class="text-xl font-semibold text-neutral-700 mb-2">Verminder Familiedruk</h3>
+                            <p class="text-neutral-600">Beëindig dagelijkse schermtijdgevechten met een positieve, samenwerkende aanpak.</p>
+                        </div>
+                        <div class="flex flex-col items-center">
+                            <div class="benefit-icon text-primary-600">🛡️</div>
+                            <h3 class="text-xl font-semibold text-neutral-700 mb-2">Gemoedsrust</h3>
+                            <p class="text-neutral-600">Voel je zelfverzekerd wetende dat je kind gezonde digitale gewoonten ontwikkelt.</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
             
-              function restartVideoLoop() {
-                if (document.visibilityState === 'visible') {
-                  videoElement.currentTime = 0; 
-                  videoElement.play().catch(error => {
-                    console.log('Video play prevented:', error);
-                  });
-                }
-              }
-      
-              document.addEventListener('visibilitychange', function() {
-                if (document.visibilityState === 'visible') {
-                  //console.log('Page is visible, attempting to restart video loop.');
-                  restartVideoLoop();
-                } else {
-                  // Optioneel: pauzeer de video expliciet als de pagina onzichtbaar wordt
-                  // videoElement.pause();
-                  //console.log('Page is hidden, pausing video.');
-                }
-              });
-        
-              window.addEventListener('pageshow', function(event) {
-                if (event.persisted) {
-                  //console.log('Page restored from bfcache, attempting to restart video loop.');
-                } else {
-                  //console.log('Page loaded normally.');
-                }
-                 restartVideoLoop(); 
-              });
-        
-               if (videoElement.paused || videoElement.ended) {
-                   restartVideoLoop();
-               }
-        
-        
-            } else {
-              //console.error("Video element with ID 'myVideo' not found.");
+            <section id="howitworks" class="section-padding hero-bg">
+                <div class="container mx-auto px-6 text-center">
+                    <h2 class="text-3xl font-bold text-neutral-700 mb-6">Houd Moni Gezond, Houd Gewoonten Gezond!</h2>
+                    <p class="text-lg text-neutral-600 mb-8">
+                        Laten we samen leren hoe we verantwoord digitaal gezond kunnen opgroeien, met een leuke twist: 'Hou jij Moni gezond?' Moni's energieniveau is direct gekoppeld aan de schermtijd. Overmatig gebruik? Dan heeft Moni wat langer nodig om weer fit te worden. Zo zie je direct het effect van je keuzes!
+                    </p>
+                    <div class="bg-video p-8 rounded-lg shadow-xl max-w-md mx-auto">
+                        <div class="how-it-works-video-container">
+                            <video class="how-it-works-video" autoplay loop muted playsinline>
+                                <source src="2_MONI_focused.webm" type="video/webm">
+                            </video>
+                            <video class="how-it-works-video" autoplay loop muted playsinline>
+                                <source src="5_MONI_sleeping.webm" type="video/webm">
+                            </video>
+                            <video class="how-it-works-video" autoplay loop muted playsinline>
+                                <source src="1_MONI_VolEnergie.webm" type="video/webm">
+                            </video>
+                        </div>
+                        <p class="mt-4 text-neutral-700 font-medium">Moni's energie weerspiegelt het digitale welzijn van jullie gezin!</p>
+                    </div>
+                </div>
+            </section>
+
+            <section id="trust" class="section-padding bg-white">
+                <div class="container mx-auto px-6">
+                    <div class="text-center mb-12">
+                        <h2 class="text-3xl font-bold text-neutral-700 mb-4">Samen Bouwen aan Vertrouwen</h2>
+                        <p class="text-lg text-neutral-600 max-w-2xl mx-auto">
+                            We snappen dat vertrouwen superbelangrijk is, zeker als het om je gezin gaat.
+                        </p>
+                    </div>
+                    <div class="grid md:grid-cols-2 gap-8">
+                        <div class="testimonial-card p-6 rounded-lg shadow">
+                            <h3 class="text-xl font-semibold text-neutral-700 mb-3">Wat Ouders Zullen Zeggen (Binnenkort!)</h3>
+                            <p class="text-neutral-600 italic mb-3">
+                                "Monimentor heeft de benadering van schermtijd in ons gezin veranderd. De kinderen zijn bewuster, en we hebben minder ruzies!"
+                            </p>
+                            <p class="text-neutral-700 font-semibold">- Een Toekomstige Blije Ouder</p>
+                            <p class="text-sm text-neutral-500 mt-2">(Placeholder: Echte getuigenissen volgen na onze gesloten test)</p>
+                        </div>
+                        <div>
+                            <h3 class="text-xl font-semibold text-neutral-700 mb-3">Onze Toewijding aan Privacy</h3>
+                            <p class="text-neutral-600 mb-2">
+                                De privacy van jullie gezin is onze topprioriteit. Monimentor is ontworpen met een sterke toewijding aan gegevensbescherming, waarbij voorzichtig wordt omgegaan met het delen van gedetailleerde inhoud, zelfs binnen de familie-eenheid. Wij streven ernaar vertrouwen te bevorderen door transparantie. En omdat we willen dat kids zich vrij voelen in de digitale wereld, hechten we enorm veel waarde aan privacy. Zelfs binnen je eigen gezin delen we zo min mogelijk gedetailleerde inhoud.
+                            </p>
+                            <h3 class="text-xl font-semibold text-neutral-700 mt-4 mb-3">Waarom Wij Monimentor Hebben Gebouwd</h3>
+                            <p class="text-neutral-600">
+                                We zijn gepassioneerd over het helpen van families om de complexiteit van het digitale tijdperk op een positieve, stimulerende manier te navigeren. Wij geloven in onderwijs en begeleiding boven simpele beperking.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="signup" class="section-padding hero-bg">
+                <div class="container mx-auto px-6 text-center">
+                    <h2 class="text-3xl font-bold text-neutral-700 mb-6">Klaar voor een Gezondere Digitale Toekomst?</h2>
+                    <p class="text-lg text-neutral-600 mb-8">
+                        Doe mee met onze exclusieve gesloten test en ervaar Monimentor als een van de eersten! Help ons de toekomst van digitaal ouderschap vorm te geven en ontdek een evenwichtigere aanpak voor schermtijd.
+                    </p>
+                    <form id="signupForm" class="max-w-lg mx-auto">
+                        <div class="flex flex-col sm:flex-row gap-4">
+                            <input 
+                                type="email" 
+                                id="emailInput"
+                                placeholder="Vul je e-mailadres in" 
+                                required 
+                                class="flex-grow p-3 border border-neutral-300 rounded-lg focus:ring-2 focus:ring-primary-400 focus:border-primary-400 transition-shadow"
+                            >
+                            <button 
+                                type="submit"
+                                class="cta-button bg-primary-500 hover:bg-primary-600 text-white font-semibold py-3 px-8 rounded-lg text-lg shadow-md"
+                            >
+                                Verzeker je plek!
+                            </button>
+                        </div>
+                    </form>
+                    <p id="formMessage" class="mt-4 text-sm text-neutral-600"></p>
+                    <p class="text-sm text-neutral-500 mt-4">Beperkt aantal plaatsen beschikbaar voor de gesloten test!</p>
+                </div>
+            </section>
+        </main>
+
+        <footer class="bg-neutral-900 text-neutral-300 py-8 text-center">
+            <div class="container mx-auto px-6">
+                <p>&copy; <span id="currentYear"></span> Monimentor. Alle rechten voorbehouden.</p>
+                <p class="text-xs mt-2">Samen bouwen aan een digitaal weerbare toekomst voor gezinnen.</p>
+            </div>
+        </footer>
+    </div>
+
+    <script>
+        // Selecteer de hoofdvideo
+        const heroVideo = document.getElementById('heroVideo');
+
+        // Selecteer alle video-elementen die moeten loopen, inclusief de hoofdvideo en de how-it-works video's
+        const allLoopingVideos = document.querySelectorAll('.hero-video, .how-it-works-video');
+
+        allLoopingVideos.forEach(video => {
+            if (video) {
+                video.addEventListener('ended', () => {
+                    setTimeout(() => {
+                        video.currentTime = 0;
+                        video.play().catch(error => console.log("Video afspelen onderbroken:", error));
+                    }, 1000);
+                });
             }
-          });
+        });
+
+        document.addEventListener('DOMContentLoaded', function() {
+            allLoopingVideos.forEach(videoElement => {
+                if (videoElement) {
+                    function restartVideoLoop() {
+                        if (document.visibilityState === 'visible') {
+                            videoElement.currentTime = 0;
+                            videoElement.play().catch(error => {
+                                console.log('Video afspelen voorkomen:', error);
+                            });
+                        }
+                    }
+
+                    document.addEventListener('visibilitychange', function() {
+                        if (document.visibilityState === 'visible') {
+                            restartVideoLoop();
+                        }
+                    });
+
+                    window.addEventListener('pageshow', function(event) {
+                        if (event.persisted) {
+                            restartVideoLoop();
+                        } else {
+                            restartVideoLoop();
+                        }
+                    });
+
+                    if (videoElement.paused || videoElement.ended) {
+                        restartVideoLoop();
+                    }
+                }
+            });
+        });
+
+        document.getElementById('currentYear').textContent = new Date().getFullYear();
+
+        const signupForm = document.getElementById('signupForm');
+        const emailInput = document.getElementById('emailInput');
+        const formMessage = document.getElementById('formMessage');
+
+        signupForm.addEventListener('submit', function(event) {
+            event.preventDefault();
+            const email = emailInput.value;
+
+            if (email && /\S+@\S+\.\S+/.test(email)) {
+                formMessage.textContent = 'Bedankt! We hebben je e-mailadres ontvangen: ' + email + '. We nemen snel contact met je op over de gesloten test!';
+                formMessage.className = 'mt-4 text-sm text-accent-600';
+                emailInput.value = ''; 
+            } else {
+                formMessage.textContent = 'Vul een geldig e-mailadres in.';
+                formMessage.className = 'mt-4 text-sm text-error';
+            }
+        });
     </script>
 
 </body>
 </html>
-<style> 
-  body {
-    margin: 0;
-    padding: 0;
-    font-family: "Inter", sans-serif; 
-    background: linear-gradient(90deg, #cefcf9 0%, #fbfaff 50%, #fafff4 100%); 
-    min-height: 100vh; 
-    display: grid;
-    place-items: center;   
-}
-
-.main-container {
-    
-    max-width: 700px; 
-    width: 90%;
-    padding: 0px; 
-    background: rgba(255, 255, 255, 0.3);
-    border-radius: 20px;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);   
-    text-align: left;
-}
-
-.video-background-wrapper {
-  width: 100%; 
-  margin-bottom: 20px; 
-  display: flex; 
-  justify-content: center; 
-  background-color: #ccccff;
-  /*background: linear-gradient(
-      to bottom, 
-     #e7f3ef 0%,
-     #EFE3E6 100%
-     
-  );*/
-  border-top-right-radius: 20px; border-top-left-radius: 20px;
-}
-
-.content-video {
-    display: block;
-    width: 100%; 
-    max-width: 250px; 
-    height: auto; 
-    margin-left: auto; 
-    margin-right: auto; 
-    background: transparent;
-    pointer-events: none;
-}
-
-video::-internal-media-controls-overlay-cast-button,
-video::-webkit-media-controls {
-    display: none !important;
-}
-
-.content-logo {
-    display: block; 
-    max-width: 250px; 
-    height: auto; 
-    margin-left: auto; 
-    margin-right: auto;
-    margin-bottom: 25px; 
-}
-
-
-.main-container p {
-    line-height: 1.5; 
-    margin-top: 0; 
-    margin-bottom: 15px;
-}
-
-.intro-text {
-  font-size:medium;
-  color: #0a062f;
-  line-height: 1.5; 
-  margin-top: 0; 
-  margin-bottom: 15px; 
-  text-align: center; 
-}
-
-.status-text {
-    color: #FF8650;
-    font-size: large;
-    font-weight: bold; 
-    text-align: center;
-}
-
-</style>
