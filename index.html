@@ -389,10 +389,12 @@
         
             document.getElementById('currentYear').textContent = new Date().getFullYear();
 
-            const signupForm = document.getElementById('signupForm');
-            const emailInput = document.getElementById('emailInput');
-            const formMessage = document.getElementById('formMessage');
-            const GOOGLE_APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzIdsSO33BIDqa-b590IRiiFArJgg4cdhWQ9Hd6_Pp6gU2JCsKZAXIhXtKDkQzA9aQN/exec'; 
+             const signupForm = document.getElementById('signupForm');
+        const emailInput = document.getElementById('emailInput');
+        const submitButton = document.getElementById('submitButton');
+        const formMessage = document.getElementById('formMessage');
+
+            const GOOGLE_APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzr4sIcG0T8X739oy1on95nD0jXY1xtAI5crpXACOgh9Z3eXczN3dvaxsXKadtx3tpw/exec'; 
 
             if (signupForm) {
     signupForm.addEventListener('submit', async function(event) {
