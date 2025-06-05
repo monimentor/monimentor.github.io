@@ -38,6 +38,9 @@
     build.exec = ''    # Ensure npm dependencies are installed
     npm install
 
+    kill $(lsof -ti :8001)
+
+
     # Copy index.html to docs folder
     npm run copy:html
 
@@ -51,6 +54,7 @@
     # Start the local web server using 'serve' in the background
     # It will serve files from the 'docs' directory on port 8001
     npx serve ./docs -l 8001 &
+
 
     echo "Development server running at http://localhost:8001"
     echo "Tailwind CSS watcher is active." 

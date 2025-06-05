@@ -92,21 +92,43 @@
         }
     </style>
 </head>
-<body class="font-['Inter',_sans-serif] text-neutral-700 antialiased scroll-smooth bg-gradient-to-r from-accent-teal-light via-[#f0f4f8] to-[#f8fcf0] min-h-[400vh] flex flex-col items-center justify-start p-0 m-0 w-full overflow-x-hidden">
+
+
+
+<body class="font-['Inter',_sans-serif] text-neutral-700 antialiased scroll-smooth bg-gradient-to-r from-accent-teal-light via-[#f0f4f8] to-[#f8fcf0] min-h-full flex flex-col items-center justify-start p-0 m-0 w-full">
+
+<!-- logo header-->
+<header class="bg-primary-50 sticky top-0 z-50 w-full inset-shadow-sm py-2">
+  <div class=" container mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="flex flex-col items-center">
+      
+    
+          <img class="h-8 w-auto mx-auto" src="/assets/Logo_Moni.png" alt="Monimentor Logo">
+    
+        
+        <p class="text-gray-500 whitespace-nowrap">
+          <span class="text-[10px]">de app voor een digitaal gezond gezin.</span>
+        </p>
+      
+      
+    </div>
+  </div>
+</header>
 
     <!-- Hero Section -->
-    <div class="w-full min-h-screen flex flex-col items-center justify-center bg-neutral-50 rounded-b-[20px] shadow-[0_4px_12px_rgba(0,0,0,0.05)] sticky top-0 z-20 py-8 px-4 sm:px-0">
+    <div class=""overflow-x-hidden>
+    <div class="w-screen min-h-screen flex flex-col items-center justify-center bg-neutral-50 rounded-b-[20px] shadow-[0_4px_12px_rgba(0,0,0,0.05)] sticky top-0 z-20 py-8 px-4 sm:px-0">
         <div class="hero-scale-wrapper flex flex-col items-center justify-center w-full transition-[transform,opacity] duration-100 ease-linear origin-center">
-            <div class="w-full flex justify-center bg-accent-teal-light rounded-[20px] overflow-hidden mb-4 max-w-[300px] sm:max-w-[250px] md:max-w-[300px]">
+        
+            <div class="w-full flex justify-center bg-accent-teal-light rounded-[20px] overflow-hidden mb-4 max-w-[300px] sm:max-w-[250px] md:max-w-[300px] shadow-md">
                 <video id="heroVideo" class="block w-full h-auto bg-transparent pointer-events-none" autoplay loop muted playsinline>
                     <source src="/assets/Moni_dances_around.webm" type="video/webm">
                     Your browser does not support the video tag.
                 </video>
             </div>
-            <img src="/assets/logo.png" alt="Monimentor Logo" class="block max-w-[240px] sm:max-w-[280px] md:max-w-[300px] h-auto mb-6">
             <div class="hero-text-container max-w-[800px] w-[90%] sm:w-full text-center px-4">
                 <h1 class="text-3xl sm:text-4xl md:text-5xl font-bold text-neutral-700 mb-6 fade-in-up">
-                    Stop schermtijdgevechten. <span class="text-primary-600">Digitaal Weerbare kids.</span>
+                    Van schermstrijd <span class="text-primary-600"><br>naar digitale balans</span>
                 </h1>
                 <p class="text-base sm:text-lg md:text-xl text-neutral-600 mb-8 fade-in-up">
                     Hallo! Ik ben Moni, jouw vriendelijke digitale maatje voor het hele gezin. We helpen je kinderen gezonde schermgewoonten te ontwikkelen voor een evenwichtig digitaal leven. Focus op waardevolle schermtijd, niet alleen op beperkingen.
@@ -122,7 +144,7 @@
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="w-6 h-6 mt-2 fill-current"><path d="M12 21l-8-8 1.41-1.41L11 17.17V3h2v14.17l5.59-5.58L20 13z"/></svg>
         </div>
     </div>
-
+</div></div>
     <div style="height: 5vh; width: 100%; position: relative; z-index: 5;"></div>
 
     <div class="content-section-container max-w-full w-full bg-white/30 rounded-[20px] shadow-[0_4px_12px_rgba(0,0,0,0.1)] p-0 overflow-hidden relative z-10 opacity-0 transform scale-95 transition-all duration-[800ms] ease-out origin-top">
@@ -300,10 +322,10 @@
         
         
 
-       <footer class="bg-neutral-900 text-neutral-300 py-8 text-center w-full">
-    <div class="max-w-screen-lg mx-auto px-6">
-         <a href="https://www.linkedin.com/company/monimentor/" target="_blank" rel="noopener noreferrer" class="mr-3 text-neutral-300 hover:text-blue-400 transition-colors duration-300">
-                <span class="[&>svg]:h-5 [&>svg]:w-5">
+       <footer class="bg-primary-50 text-neutral-800 py-6 text-center w-full">
+    <div class="flex flex-col max-w-screen-lg mx-auto px-6 m-3 items-center justify-center">
+         <a href="https://www.linkedin.com/company/monimentor/" target="_blank" rel="noopener noreferrer" class="mr-3 text-neutral-500 hover:text-blue-500 transition-colors duration-300">
+                <span class="[&>svg]:h-10 [&>svg]:w-10 py-3">
                     <svg
                         xmlns="http://www.w3.org/2000/svg"
                         fill="currentColor"
@@ -313,7 +335,7 @@
                     </svg>
                 </span>
             </a>
-        <p class="text-sm sm:text-base flex items-center justify-center">
+        <p class="text-sm sm:text-base">
            
             &copy; <span id="currentYear"></span> Monimentor. Alle rechten voorbehouden.
         </p>
