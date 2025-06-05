@@ -31,17 +31,17 @@
         npm run copy:html & # Ensure HTML is copied
         npm run copy:assets & # Ensure assets are copied
         npm run tailwind:watch &
-        npx serve ./dist -l 8001 &
+        npx serve ./docs -l 8001 &
     
       '';
       };
     build.exec = ''    # Ensure npm dependencies are installed
     npm install
 
-    # Copy index.html to dist folder
+    # Copy index.html to docs folder
     npm run copy:html
 
-    # Copy all assets to dist/assets folder
+    # Copy all assets to docs/assets folder
     npm run copy:assets
 
     # Start Tailwind CSS watcher in the background using the defined script
@@ -49,8 +49,8 @@
     npm run tailwind:build &
 
     # Start the local web server using 'serve' in the background
-    # It will serve files from the 'dist' directory on port 8001
-    npx serve ./dist -l 8001 &
+    # It will serve files from the 'docs' directory on port 8001
+    npx serve ./docs -l 8001 &
 
     echo "Development server running at http://localhost:8001"
     echo "Tailwind CSS watcher is active." 
