@@ -1,0 +1,536 @@
+<!DOCTYPE html>
+<html lang="nl" class="h-full overflow-x-hidden">
+<head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-J0XCC1G000"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-J0XCC1G000');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Monimentor - Schermtijd Slimmer, Samen met Moni!</title>
+    <link rel="stylesheet" href="./output.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,100..900&display=swap" rel="stylesheet">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest"> 
+  
+    <style>
+        /* Minimal custom styles retained for animations and specific behaviors */
+        html {
+            font-family: 'Inter', sans-serif;
+        }
+
+        .content-section-container.is-revealed {
+            opacity: 1;
+            transform: scale(1);
+        }
+
+        .fade-in-up {
+            opacity: 0;
+            transform: translateY(20px);
+            transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+        }
+        .fade-in-up.is-visible {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .fade-in {
+            opacity: 0;
+            transition: opacity 0.8s ease-out;
+        }
+        .fade-in.is-visible {
+            opacity: 1;
+        }
+        
+        .scroll-indicator.is-visible {
+            opacity: 1;
+        }
+
+        @keyframes customBounce {
+            0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
+            40% { transform: translateY(-10px); }
+            60% { transform: translateY(-5px); }
+        }
+
+        @keyframes orbFloat {
+            0% { transform: translate3d(-50%, -50%, 0) scale(1); }
+            15% { transform: translate3d(-70%, -30%, 0) scale(1.1); }
+            30% { transform: translate3d(-30%, -70%, 0) scale(0.9); }
+            45% { transform: translate3d(-80%, -20%, 0) scale(1.15); }
+            60% { transform: translate3d(-20%, -80%, 0) scale(0.85); }
+            75% { transform: translate3d(-60%, -40%, 0) scale(1.05); }
+            100% { transform: translate3d(-50%, -50%, 0) scale(1); }
+        }
+
+        /* Scrollbar hiding for benefits carousel */
+        .benefits-carousel::-webkit-scrollbar { display: none; }
+        .benefits-carousel { 
+            -ms-overflow-style: none;  /* IE and Edge */
+            scrollbar-width: none;  /* Firefox */
+        }
+
+        /* Styles for animated text reveal - initial state for spans, JS will override */
+        .animated-text-reveal .word-wrapper { 
+            display: inline-block; 
+            white-space: nowrap; 
+        }
+        .animated-text-reveal .word-wrapper span { 
+            display: inline-block; 
+            white-space: pre; 
+            opacity: 0.3;
+            color: rgba(61, 61, 61, 0.35); 
+            transform: translateY(2px) scale(0.98); 
+            transition: color 0.1s ease-out, transform 0.1s ease-out, opacity 0.1s ease-out; 
+        }
+    </style>
+</head>
+<body class="font-['Inter',_sans-serif] text-neutral-700 antialiased scroll-smooth bg-gradient-to-r from-accent-teal-light via-[#f0f4f8] to-[#f8fcf0] min-h-[400vh] flex flex-col items-center justify-start p-0 m-0 w-full overflow-x-hidden">
+
+    <!-- Hero Section -->
+    <div class="w-full min-h-screen flex flex-col items-center justify-center bg-neutral-50 rounded-b-[20px] shadow-[0_4px_12px_rgba(0,0,0,0.05)] sticky top-0 z-20 py-8 px-4 sm:px-0">
+        <div class="hero-scale-wrapper flex flex-col items-center justify-center w-full transition-[transform,opacity] duration-100 ease-linear origin-center">
+            <div class="w-full flex justify-center bg-accent-teal-light rounded-[20px] overflow-hidden mb-4 max-w-[300px] sm:max-w-[250px] md:max-w-[300px]">
+                <video id="heroVideo" class="block w-full h-auto bg-transparent pointer-events-none" autoplay loop muted playsinline>
+                    <source src="/assets/Moni_dances_around.webm" type="video/webm">
+                    Your browser does not support the video tag.
+                </video>
+            </div>
+            <img src="/assets/logo.png" alt="Monimentor Logo" class="block max-w-[240px] sm:max-w-[280px] md:max-w-[300px] h-auto mb-6">
+            <div class="hero-text-container max-w-[800px] w-[90%] sm:w-full text-center px-4">
+                <h1 class="text-3xl sm:text-4xl md:text-5xl font-bold text-neutral-700 mb-6 fade-in-up">
+                    Stop schermtijdgevechten. <span class="text-primary-600">Digitaal Weerbare kids.</span>
+                </h1>
+                <p class="text-base sm:text-lg md:text-xl text-neutral-600 mb-8 fade-in-up">
+                    Hallo! Ik ben Moni, jouw vriendelijke digitale maatje voor het hele gezin. We helpen je kinderen gezonde schermgewoonten te ontwikkelen voor een evenwichtig digitaal leven. Focus op waardevolle schermtijd, niet alleen op beperkingen.
+                </p>
+                <a href="#signup" class="cta-button inline-block bg-primary-500 hover:bg-primary-600 text-white font-semibold py-3 px-6 sm:px-8 rounded-lg text-lg shadow-md transition-all duration-300 ease-in-out hover:-translate-y-0.5 hover:shadow-[0_6px_12px_rgba(0,0,0,0.15)] fade-in-up">
+                    Doe mee als test gezin!
+                </a>
+                <p class="text-xs sm:text-sm text-neutral-500 mt-4 fade-in-up">Wees er snel bij en ervaar Monimentor als een van de eersten! We gaan binnenkort van start!</p>
+            </div>
+        </div>
+        <div class="scroll-indicator flex flex-col items-center text-neutral-500 text-sm animate-[customBounce_2s_infinite] opacity-0 transition-opacity duration-500 ease-out py-10 px-4 bottom-2">
+            Scroll naar beneden
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="w-6 h-6 mt-2 fill-current"><path d="M12 21l-8-8 1.41-1.41L11 17.17V3h2v14.17l5.59-5.58L20 13z"/></svg>
+        </div>
+    </div>
+
+    <div style="height: 5vh; width: 100%; position: relative; z-index: 5;"></div>
+
+    <div class="content-section-container max-w-full w-full bg-white/30 rounded-[20px] shadow-[0_4px_12px_rgba(0,0,0,0.1)] p-0 overflow-hidden relative z-10 opacity-0 transform scale-95 transition-all duration-[800ms] ease-out origin-top">
+        <main>
+            <section id="problem" class="py-12 bg-white">
+                <div class="max-w-screen-lg mx-auto px-6 text-center">
+                    <h2 class="text-2xl sm:text-3xl font-bold text-neutral-700 mb-6 fade-in-up">Herkenbaar: het digitale dilemma van jullie gezin?</h2>
+                    <p class="text-neutral-600 mb-8 fade-in-up">
+                        Veel ouders voelen zich overweldigd door schermtijd. Eindeloze onderhandelingen, zorgen over wat je kind online doet en schuldgevoelens over beperkingen. Je bent niet de enige!
+                    </p>
+                    <div class="grid md:grid-cols-3 gap-6 text-left">
+                        <div class="p-6 rounded-lg shadow bg-white fade-in-up">
+                            <h3 class="text-lg sm:text-xl font-semibold text-neutral-700 mb-2">Eindeloze onderhandelingen</h3>
+                            <p class="text-sm sm:text-base text-neutral-600">Voelt het alsof je altijd onderhandelt over "nog maar vijf minuutjes"?</p>
+                        </div>
+                        <div class="p-6 rounded-lg shadow bg-white fade-in-up">
+                            <h3 class="text-lg sm:text-xl font-semibold text-neutral-700 mb-2">Zorgen over inhoud</h3>
+                            <p class="text-sm sm:text-base text-neutral-600">Bezorgd over wat je kind *echt* online doet?</p>
+                        </div>
+                        <div class="p-6 rounded-lg shadow bg-white fade-in-up">
+                            <h3 class="text-lg sm:text-xl font-semibold text-neutral-700 mb-2">Frustratie door Beperkingen</h3>
+                            <p class="text-sm sm:text-base text-neutral-600">Moe van het zijn van de "slechterik" met strikte, vaak ineffectieve, limieten?</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="solution" class="py-12 bg-neutral-50 overflow-hidden"> 
+                <div class="max-w-screen-lg mx-auto px-6">
+                    <div class="text-center mb-12 relative min-h-[70vh] sm:min-h-[80vh] md:min-h-screen flex flex-col items-center justify-center py-8 z-[1]">
+                        <div class="light-orb-background absolute top-1/2 left-1/2 w-[300px] h-[300px] sm:w-[450px] sm:h-[450px] md:w-[600px] md:h-[600px] bg-[radial-gradient(circle_at_center,_#7E70FF_10%,_rgba(126,112,255,0)_50%)] rounded-full blur-[100px] sm:blur-[150px] opacity-70 -translate-x-1/2 -translate-y-1/2 animate-[orbFloat_20s_infinite_alternate_ease-in-out] -z-10"></div>
+                        <h2 class="font-bold text-neutral-700 mb-4 text-3xl sm:text-4xl md:text-5xl text-center leading-tight relative z-[2] animated-text-reveal" id="solutionHeadline">
+                            Een nieuwe weg naar digitaal welzijn
+                        </h2>
+                        <p class="text-neutral-600 max-w-2xl mx-auto text-base sm:text-lg mt-4 text-center leading-tight relative z-[2] animated-text-reveal" id="solutionParagraph">
+                            Monimentor is niet zomaar een andere app voor ouderlijk toezicht. Wij zijn een <span class="font-semibold text-accent-teal">digitale mentor</span>, gepersonifieerd door 'Moni'. Ons doel is om bewustzijn te creëren en jullie gezin te begeleiden naar positieve, gezonde digitale gewoonten. We baseren ons op de nieuwste wetenschappelijke inzichten over gezonde schermtijd.
+                        </p>
+                    </div>
+
+                    <div class="grid md:grid-cols-2 gap-8 items-center">
+                        <div class="fade-in-up">
+                            <h3 class="text-xl sm:text-2xl font-semibold text-neutral-700 mb-4">Focus op kwaliteit, Niet alleen kwantiteit</h3>
+                            <p class="text-neutral-600 mb-4 text-sm sm:text-base">
+                                Wist je dat de *kwaliteit* van schermtijd misschien nog wel belangrijker is dan de duur? Een uur lang iets nieuws leren op YouTube kan nuttiger zijn dan een uur passief scrollen. Monimentor helpt bij het identificeren en aanmoedigen van <span class="font-semibold">verrijkende digitale ervaringen.</span>
+                            </p>
+                            <h3 class="text-xl sm:text-2xl font-semibold text-neutral-700 mb-4">Begeleiding, Niet Alleen Beperking</h3>
+                            <p class="text-neutral-600 text-sm sm:text-base">
+                                We geloven in het empoweren van kinderen met <span class="font-semibold">digitale weerbaarheid</span>. Monimentor grijpt alleen zachtjes in bij consequent ongewenst gedrag, en bevordert zelfbewustzijn en positieve keuzes.
+                            </p>
+                        </div>
+                        <div class="text-center fade-in-up">
+                            <div class="inline-block p-6 sm:p-8 bg-white rounded-xl shadow-xl">
+                                <div class="mx-auto w-[100px] h-[100px] sm:w-[120px] sm:h-[120px] text-[3rem] rounded-full p-[3%] bg-primary-500 flex items-center justify-center overflow-hidden">
+                                     <img src="/assets/Moni_waving.gif" alt="Moni Character Waving" class="w-full h-full object-cover" onerror="this.style.display='none'; this.parentElement.innerHTML = '<span class=\'text-white text-4xl\'>Moni</span>';">
+                                </div>
+                                <p class="mt-4 text-lg sm:text-xl font-semibold text-neutral-700">Ontmoet Moni!</p>
+                                <p class="text-neutral-600 text-sm sm:text-base">De vriendelijke gids van jullie gezin naar een gezonder digitaal leven.</p>
+                                <p class="text-xs sm:text-sm text-neutral-500 mt-2">Moni is er om jou en je gezin te helpen met gezonde schermgewoontes.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="benefits" class="py-12 bg-white">
+                <div class="max-w-screen-lg mx-auto px-6 text-center">
+                    <h2 class="text-2xl sm:text-3xl font-bold text-neutral-700 mb-12 fade-in-up">Jouw familie versterken, stap voor stap</h2>
+                    <div class="benefits-carousel flex overflow-x-scroll [scroll-snap-type:x_mandatory] scrolling-touch gap-6 sm:gap-8 pb-6 px-6">
+                        <div class="flex-none w-4/5 max-w-[280px] sm:max-w-[300px] [scroll-snap-align:center] flex flex-col items-center text-center p-6 rounded-lg shadow bg-white transition-all duration-300 hover:shadow-lg hover:-translate-y-1 fade-in-up md:w-[45%] lg:w-[30%]">
+                            <img src="/assets/icon-resilience.png" alt="Weerbaarheid Icoon" class="w-20 h-20 sm:w-24 sm:h-24 object-contain mb-4 rounded-xl" onerror="this.onerror=null; this.src='https://placehold.co/96x96/DCFCEF/059669?text=Icon';">
+                            <h3 class="text-lg sm:text-xl font-semibold text-neutral-700 mb-2">Weerbaarheid stimuleren</h3>
+                            <p class="text-sm sm:text-base text-neutral-600">Rust je kind uit met vaardigheden om de digitale wereld wijs te navigeren.</p>
+                        </div>
+                        <div class="flex-none w-4/5 max-w-[280px] sm:max-w-[300px] [scroll-snap-align:center] flex flex-col items-center text-center p-6 rounded-lg shadow bg-white transition-all duration-300 hover:shadow-lg hover:-translate-y-1 fade-in-up md:w-[45%] lg:w-[30%]">
+                            <img src="/assets/icon-creativity.png" alt="Kwaliteitstijd Icoon" class="w-20 h-20 sm:w-24 sm:h-24 object-contain mb-4 rounded-xl" onerror="this.onerror=null; this.src='https://placehold.co/96x96/DCFCEF/059669?text=Icon';">
+                            <h3 class="text-lg sm:text-xl font-semibold text-neutral-700 mb-2">Kwaliteitstijd bevorderen</h3>
+                            <p class="text-sm sm:text-base text-neutral-600">Moedig leren en creativiteit aan boven gedachteloos scrollen.</p>
+                        </div>
+                        <div class="flex-none w-4/5 max-w-[280px] sm:max-w-[300px] [scroll-snap-align:center] flex flex-col items-center text-center p-6 rounded-lg shadow bg-white transition-all duration-300 hover:shadow-lg hover:-translate-y-1 fade-in-up md:w-[45%] lg:w-[30%]">
+                            <img src="/assets/icon-diner.png" alt="Familiedruk Icoon" class="w-20 h-20 sm:w-24 sm:h-24 object-contain mb-4 rounded-xl" onerror="this.onerror=null; this.src='https://placehold.co/96x96/DCFCEF/059669?text=Icon';">
+                            <h3 class="text-lg sm:text-xl font-semibold text-neutral-700 mb-2">Verminder familiedruk</h3>
+                            <p class="text-sm sm:text-base text-neutral-600">Beëindig dagelijkse schermtijdgevechten met een positieve, samenwerkende aanpak.</p>
+                        </div>
+                        <div class="flex-none w-4/5 max-w-[280px] sm:max-w-[300px] [scroll-snap-align:center] flex flex-col items-center text-center p-6 rounded-lg shadow bg-white transition-all duration-300 hover:shadow-lg hover:-translate-y-1 fade-in-up md:w-[45%] lg:w-[30%]">
+                            <img src="/assets/icon-family.png" alt="Gemoedsrust Icoon" class="w-20 h-20 sm:w-24 sm:h-24 object-contain mb-4 rounded-xl" onerror="this.onerror=null; this.src='https://placehold.co/96x96/DCFCEF/059669?text=Icon';">
+                            <h3 class="text-lg sm:text-xl font-semibold text-neutral-700 mb-2">Gemoedsrust</h3>
+                            <p class="text-sm sm:text-base text-neutral-600">Voel je zelfverzekerd wetende dat je kind gezonde digitale gewoonten ontwikkelt.</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            
+            <section id="howitworks" class="py-12 bg-neutral-50">
+                <div class="max-w-screen-lg mx-auto px-6 text-center">
+                    <h2 class="text-2xl sm:text-3xl font-bold text-neutral-700 mb-6 fade-in-up">Houd Moni gezond, houd gewoonten gezond!</h2>
+                    <p class="text-base sm:text-lg text-neutral-600 mb-8 fade-in-up">
+                        Laten we samen leren hoe we verantwoord digitaal gezond kunnen opgroeien, met een leuke twist: 'Hou jij Moni gezond?' Moni's energieniveau is direct gekoppeld aan de schermtijd. Overmatig gebruik? Dan heeft Moni wat langer nodig om weer fit te worden. Zo zie je direct het effect van je keuzes!
+                    </p>
+                    <div class="bg-accent-teal-light p-6 sm:p-8 rounded-lg shadow-xl max-w-md mx-auto fade-in-up">
+                        <div class="flex flex-wrap justify-center items-center gap-4 sm:gap-6 p-4">
+                            <video class="block w-[70px] sm:w-[80px] h-auto bg-transparent pointer-events-none rounded-full md:w-[100px] lg:w-[120px]" autoplay loop muted playsinline>
+                                <source src="/assets/2_MONI_focused.webm" type="video/webm">
+                            </video>
+                            <video class="block w-[70px] sm:w-[80px] h-auto bg-transparent pointer-events-none rounded-full md:w-[100px] lg:w-[120px]" autoplay loop muted playsinline>
+                                <source src="/assets/5_MONI_sleeping.webm" type="video/webm">
+                            </video>
+                            <video class="block w-[70px] sm:w-[80px] h-auto bg-transparent pointer-events-none rounded-full md:w-[100px] lg:w-[120px]" autoplay loop muted playsinline>
+                                <source src="/assets/1_MONI_VolEnergie.webm" type="video/webm">
+                            </video>
+                        </div>
+                        <p class="mt-4 text-neutral-700 font-medium text-sm sm:text-base">Moni's energie weerspiegelt het digitale welzijn van jullie gezin!</p>
+                    </div>
+                </div>
+            </section>
+
+            <section id="trust" class="py-12 bg-white">
+                <div class="max-w-screen-lg mx-auto px-6">
+                    <div class="text-center mb-12 fade-in-up">
+                        <h2 class="text-2xl sm:text-3xl font-bold text-neutral-700 mb-4">Samen bouwen aan vertrouwen</h2>
+                        <p class="text-base sm:text-lg text-neutral-600 max-w-2xl mx-auto">
+                            We snappen dat vertrouwen superbelangrijk is, zeker als het om je gezin gaat.
+                        </p>
+                    </div>
+                    <div class="grid md:grid-cols-2 gap-8">
+                        <div class="p-6 rounded-lg shadow fade-in-up bg-slate-50"> 
+                            <h3 class="text-lg sm:text-xl font-semibold text-neutral-700 mb-3">Wat ouders zullen zeggen (Binnenkort!)</h3>
+                            <p class="text-neutral-600 italic mb-3 text-sm sm:text-base">
+                                "Monimentor heeft de benadering van schermtijd in ons gezin veranderd. De kinderen zijn bewuster, en we hebben minder ruzies!"
+                            </p>
+                            <p class="text-neutral-700 font-semibold text-sm sm:text-base">- Een toekomstige blije ouder</p>
+                            <p class="text-xs sm:text-sm text-neutral-500 mt-2">(Placeholder: Echte getuigenissen volgen na onze gesloten test)</p>
+                        </div>
+                        <div class="fade-in-up">
+                            <h3 class="text-lg sm:text-xl font-semibold text-neutral-700 mb-3">Onze toewijding aan privacy</h3>
+                            <p class="text-neutral-600 mb-2 text-sm sm:text-base">
+                                De privacy van jullie gezin is onze topprioriteit. Monimentor is ontworpen met een sterke toewijding aan gegevensbescherming, waarbij voorzichtig wordt omgegaan met het delen van gedetailleerde inhoud, zelfs binnen de familie-eenheid. Wij streven ernaar vertrouwen te bevorderen door transparantie. En omdat we willen dat kids zich vrij voelen in de digitale wereld, hechten we enorm veel waarde aan privacy. Zelfs binnen je eigen gezin delen we zo min mogelijk gedetailleerde inhoud.
+                            </p>
+                            <h3 class="text-lg sm:text-xl font-semibold text-neutral-700 mt-4 mb-3">Waarom wij Monimentor hebben gebouwd</h3>
+                            <p class="text-neutral-600 text-sm sm:text-base">
+                                We zijn gepassioneerd over het helpen van families om de complexiteit van het digitale tijdperk op een positieve, stimulerende manier te navigeren. Wij geloven in onderwijs en begeleiding boven simpele beperking.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="signup" class="py-12 bg-neutral-50">
+                <div class="max-w-screen-lg mx-auto px-6 text-center">
+                    <h2 class="text-2xl sm:text-3xl font-bold text-neutral-700 mb-6 fade-in-up">Klaar voor een gezondere digitale toekomst?</h2>
+                    <p class="text-base sm:text-lg text-neutral-600 mb-8 fade-in-up">
+                        Doe mee met onze exclusieve gesloten test en ervaar Monimentor als een van de eersten! Help ons de toekomst van digitaal ouderschap vorm te geven en ontdek een evenwichtigere aanpak voor schermtijd.
+                    </p>
+                    <form id="signupForm" class="max-w-lg mx-auto fade-in-up">
+                        <div class="flex flex-col sm:flex-row gap-4">
+                            <input 
+                                type="email" 
+                                id="emailInput"
+                                placeholder="Vul je e-mailadres in" 
+                                required 
+                                class="flex-grow p-3 border border-neutral-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-primary-500 transition-shadow text-sm sm:text-base"
+                            >
+                            <button 
+                                type="submit"
+                                class="bg-primary-500 hover:bg-primary-600 text-white font-semibold py-3 px-8 rounded-lg text-lg shadow-md transition-all duration-300 ease-in-out hover:-translate-y-0.5 hover:shadow-[0_6px_12px_rgba(0,0,0,0.15)]"
+                            >
+                                Verzeker je plek!
+                            </button>
+                        </div>
+                    </form>
+                    <p id="formMessage" class="mt-4 text-sm text-neutral-600 min-h-[1.25rem]"></p> 
+                    <p class="text-xs sm:text-sm text-neutral-500 mt-4 fade-in-up">Beperkt aantal plaatsen beschikbaar voor de gesloten test!</p>
+                </div>
+            </section>
+        </main>
+        
+        
+
+       <footer class="bg-neutral-900 text-neutral-300 py-8 text-center w-full">
+    <div class="max-w-screen-lg mx-auto px-6">
+         <a href="https://www.linkedin.com/company/monimentor/" target="_blank" rel="noopener noreferrer" class="mr-3 text-neutral-300 hover:text-blue-400 transition-colors duration-300">
+                <span class="[&>svg]:h-5 [&>svg]:w-5">
+                    <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        fill="currentColor"
+                        viewBox="0 0 448 512">
+                        <path
+                        d="M100.3 448H7.4V148.9h92.9zM53.8 108.1C24.1 108.1 0 83.5 0 53.8a53.8 53.8 0 0 1 107.6 0c0 29.7-24.1 54.3-53.8 54.3zM447.9 448h-92.7V302.4c0-34.7-.7-79.2-48.3-79.2-48.3 0-55.7 37.7-55.7 76.7V448h-92.8V148.9h89.1v40.8h1.3c12.4-23.5 42.7-48.3 87.9-48.3 94 0 111.3 61.9 111.3 142.3V448z" />
+                    </svg>
+                </span>
+            </a>
+        <p class="text-sm sm:text-base flex items-center justify-center">
+           
+            &copy; <span id="currentYear"></span> Monimentor. Alle rechten voorbehouden.
+        </p>
+        <p class="text-xs sm:text-sm mt-2">Samen bouwen aan een digitaal weerbare toekomst voor gezinnen.</p>
+    </div>
+</footer>
+
+    <script>
+        const allLoopingVideos = document.querySelectorAll('#heroVideo, #howitworks video'); 
+
+        allLoopingVideos.forEach(video => {
+            if (video) {
+                video.addEventListener('ended', () => {
+                    video.currentTime = 0;
+                    video.play().catch(error => console.warn("Video replay interrupted:", error.message)); // Changed to warn for less noise
+                });
+
+                const observer = new IntersectionObserver((entries) => {
+                    entries.forEach(entry => {
+                        if (entry.isIntersecting) {
+                            video.play().catch(e => console.warn("Video play on intersect failed:", e.message)); // Changed to warn
+                        }
+                    });
+                }, { threshold: 0.5 });
+                observer.observe(video);
+            }
+        });
+        
+        document.addEventListener('DOMContentLoaded', function() {
+            allLoopingVideos.forEach(videoElement => {
+                if (videoElement) {
+                    videoElement.play().catch(error => {
+                        console.warn('Initial video play prevented by browser:', error.message); // Changed to warn
+                    });
+                }
+            });
+
+            const heroElements = document.querySelectorAll('.hero-text-container .fade-in-up');
+            heroElements.forEach((element, index) => {
+                element.style.transitionDelay = `${index * 0.1}s`;
+                element.classList.add('is-visible'); 
+            });
+
+            const scrollIndicator = document.querySelector('.scroll-indicator');
+            if (scrollIndicator) {
+                setTimeout(() => {
+                    scrollIndicator.classList.add('is-visible');
+                }, 1000); 
+            }
+        
+            document.getElementById('currentYear').textContent = new Date().getFullYear();
+
+            const signupForm = document.getElementById('signupForm');
+            const emailInput = document.getElementById('emailInput');
+            const formMessage = document.getElementById('formMessage');
+            const GOOGLE_APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbyX3uI0ChaBH3-3fkyfR_K0DvCGgoizMMdUFGjWL4kGe215HzjxEbobFNJ1O_FLv3L0/exec'; 
+
+            if (signupForm) { 
+                signupForm.addEventListener('submit', async function(event) {
+                    event.preventDefault(); 
+                    const email = emailInput.value;
+
+                    if (email && /\S+@\S+\.\S+/.test(email)) { 
+                        formMessage.textContent = 'Bezig met verzenden...';
+                        formMessage.className = 'mt-4 text-sm text-neutral-600 min-h-[1.25rem]';
+
+                        try {
+                            const formData = new FormData();
+                            formData.append('email', email);
+                        
+                            await fetch(GOOGLE_APPS_SCRIPT_URL, {
+                                method: 'POST',
+                                mode: 'no-cors', 
+                                body: formData, 
+                            });
+                            
+                            formMessage.textContent = 'Bedankt! We hebben je e-mailadres ontvangen. We nemen snel contact met je op over de gesloten test!';
+                            formMessage.className = 'mt-4 text-sm text-accent-600 min-h-[1.25rem]'; // Using defined accent color
+                            emailInput.value = '';
+
+                        } catch (error) {
+                            console.error('Fout bij verzenden formulier:', error);
+                            formMessage.textContent = 'Er is een fout opgetreden. Probeer het later opnieuw.';
+                            formMessage.className = 'mt-4 text-sm text-error min-h-[1.25rem]'; // Using defined error color
+                        }
+
+                    } else {
+                        formMessage.textContent = 'Vul een geldig e-mailadres in.';
+                        formMessage.className = 'mt-4 text-sm text-error min-h-[1.25rem]'; // Using defined error color
+                    }
+                });
+            }
+
+            function splitTextIntoLetters(elementId) {
+                const element = document.getElementById(elementId);
+                if (!element) return;
+
+                const text = element.textContent.trim(); 
+                let newHtml = '';
+                text.split(' ').forEach((word, wordIndex) => {
+                    if (wordIndex > 0) {
+                        newHtml += '<span class="whitespace-pre"> </span>'; 
+                    }
+                    newHtml += '<span class="word-wrapper">'; 
+                    word.split('').forEach(char => {
+                        newHtml += `<span>${char}</span>`; 
+                    });
+                    newHtml += '</span>'; 
+                });
+                element.innerHTML = newHtml;
+            }
+
+            function handleTextAnimation(elementId, initialOpacity, initialY, initialScale, activeColor, activationStartOffset, activationEndOffset) {
+                const element = document.getElementById(elementId);
+                if (!element) return;
+
+                const letters = element.querySelectorAll('.word-wrapper span');
+                if (letters.length === 0) return;
+
+                const elementRect = element.getBoundingClientRect();
+                let elementProgress = (activationStartOffset - elementRect.top) / (activationStartOffset - activationEndOffset);
+                elementProgress = Math.max(0, Math.min(1, elementProgress)); 
+
+                const totalLetters = letters.length;
+
+                letters.forEach((letter, index) => {
+                    const letterActivationThreshold = (index / totalLetters);
+                    if (elementProgress >= letterActivationThreshold) {
+                        letter.style.opacity = 1;
+                        letter.style.color = activeColor; // This will use the hex color passed from updateAllTextAnimations
+                        letter.style.transform = `translateY(0px) scale(1)`;
+                    } else {
+                        letter.style.opacity = initialOpacity;
+                        // For initial state, we keep the direct rgba for low contrast, as it's part of the animation logic
+                        letter.style.color = `rgba(61, 61, 61, ${initialOpacity})`; 
+                        letter.style.transform = `translateY(${initialY}px) scale(${initialScale})`;
+                    }
+                });
+            }
+
+            splitTextIntoLetters('solutionHeadline');
+            splitTextIntoLetters('solutionParagraph');
+
+            const updateAllTextAnimations = () => {
+                const viewportHeight = window.innerHeight;
+                // Pass the actual hex color values for the 'activeColor' state in the animation
+                handleTextAnimation('solutionHeadline', 0.3, 2, 0.98, '#3D3D3D', viewportHeight * 1, viewportHeight * 0.7); // neutral-700
+                handleTextAnimation('solutionParagraph', 0.3, 2, 0.98, '#4B5563', viewportHeight * 0.7, viewportHeight * 0.4); // neutral-600
+            };
+
+            window.addEventListener('scroll', updateAllTextAnimations, { passive: true });
+            updateAllTextAnimations(); 
+
+            const observerOptions = { root: null, rootMargin: '0px', threshold: 0.1 };
+            const pageObserver = new IntersectionObserver((entries, obsInstance) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.classList.add('is-visible');
+                    }
+                });
+            }, observerOptions);
+
+            document.querySelectorAll('.content-section-container .fade-in-up, .fade-in').forEach(element => {
+                if(element) pageObserver.observe(element);
+            });
+            
+            const contentContainer = document.querySelector('.content-section-container');
+            if (contentContainer) { 
+                const contentObserverOptions = { root: null, rootMargin: '0px', threshold: 0.01 };
+                const contentObserver = new IntersectionObserver((entries, contentObsInstance) => { 
+                    entries.forEach(entry => {
+                        if (entry.isIntersecting) {
+                            contentContainer.classList.add('is-revealed');
+                            contentObsInstance.unobserve(contentContainer); 
+                        }
+                    });
+                }, contentObserverOptions);
+                contentObserver.observe(contentContainer);
+            }
+
+            const heroScaleWrapper = document.querySelector('.hero-scale-wrapper');
+            const scrollIndicatorElement = document.querySelector('.scroll-indicator'); 
+
+            const updateHeroOnScroll = () => { 
+                if (!heroScaleWrapper) return; 
+                const scrollPosition = window.scrollY;
+                const animationEndThreshold = window.innerHeight * 1.0; 
+
+                let scaleFactor = 1;
+                let opacityFactor = 1;
+
+                if (scrollPosition < animationEndThreshold) { 
+                    scaleFactor = 1 - (scrollPosition / animationEndThreshold * 0.7); 
+                    opacityFactor = 1 - (scrollPosition / animationEndThreshold * 1.5); 
+                } else { 
+                    scaleFactor = 0.3; 
+                    opacityFactor = 0; 
+                }
+
+                scaleFactor = Math.max(0.3, Math.min(1, scaleFactor));
+                opacityFactor = Math.max(0, Math.min(1, opacityFactor));
+                
+                heroScaleWrapper.style.transform = `scale(${scaleFactor})`;
+                heroScaleWrapper.style.opacity = opacityFactor;
+
+                if (scrollIndicatorElement) { 
+                    if (scrollPosition > window.innerHeight * 0.1) { 
+                        scrollIndicatorElement.classList.remove('is-visible');
+                    } else {
+                        scrollIndicatorElement.classList.add('is-visible');
+                    }
+                }
+            };
+
+            window.addEventListener('scroll', updateHeroOnScroll, { passive: true });
+            updateHeroOnScroll(); 
+        });
+    </script>
+</body>
+</html>
