@@ -415,8 +415,12 @@
 
                 const response = await fetch(GOOGLE_APPS_SCRIPT_URL, {
                     method: 'POST',
+                    headers: {
+
+                    },
                     // mode: 'no-cors', // VERWIJDER DEZE REGEL!
                     body: formData,
+                    credentials: 'omit' 
                     // redirect: 'follow', // Optioneel: Google Apps Script redirect soms. 'follow' is de default.
                 });
 
