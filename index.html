@@ -409,66 +409,23 @@
             formMessage.textContent = 'Bezig met verzenden...';
             formMessage.className = 'mt-4 text-sm text-neutral-600 min-h-[1.25rem]';
 
-            try {
-                const formData = new FormData();
-                formData.append('email', email);
+            const formData = new FormData();
+            formData.append('email', email);
 
-                const response = await fetch(GOOGLE_APPS_SCRIPT_URL, {
-                    method: 'POST',
-                    headers: {
-
-                    },
-                    mode: 'no-cors',
-                    body: formData,
-                    credentials: 'omit' 
-                    // redirect: 'follow', // Optioneel: Google Apps Script redirect soms. 'follow' is de default.
-                });
-
-                if (response.ok) {
-                    // Probeer de response te parsen. Je Apps Script zou JSON moeten terugsturen.
-                    try {
-                        const result = await response.json();
-                        if (result.success === true || result.status === 'success') { // Check op 'success' of 'status' veld
-                            formMessage.textContent = 'Bedankt! We hebben je e-mailadres (' + (result.email || email) + ') ontvangen. We nemen snel contact met je op!';
-                            formMessage.className = 'mt-4 text-sm text-green-600 min-h-[1.25rem]'; // Gebruik een duidelijke succeskleur
-                            emailInput.value = ''; // Maak inputveld leeg
-                        } else {
-                            // Server gaf een JSON terug, maar het was geen successtatus
-                            console.error('Server response (geen succes):', result);
-                            formMessage.textContent = 'Fout ontvangen van server: ' + (result.message || 'Onbekende fout bij verwerking.');
-                            formMessage.className = 'mt-4 text-sm text-red-600 min-h-[1.25rem]'; // Gebruik een duidelijke foutkleur
-                        }
-                    } catch (jsonError) {
-                        // De server gaf een 'ok' response, maar het was geen geldige JSON
-                        // Dit kan gebeuren als je Apps Script bijv. alleen "Success" als platte tekst terugstuurt
-                        console.warn('Server response was ok, maar geen JSON:', await response.text(), jsonError);
-                        formMessage.textContent = 'Bedankt! Je e-mailadres is verstuurd. (Server gaf onverwachte respons)';
-                        formMessage.className = 'mt-4 text-sm text-green-600 min-h-[1.25rem]';
-                        emailInput.value = '';
-                    }
-                } else {
-                    // Server gaf een HTTP error status (bijv. 4xx, 5xx)
-                    const errorText = await response.text(); // Probeer de fouttekst van de server te lezen
-                    console.error('Serverfout:', response.status, response.statusText, errorText);
-                    formMessage.textContent = `Serverfout (${response.status}). Probeer het later opnieuw.`;
-                    if (errorText && errorText.length < 100) { // Toon alleen korte, relevante foutdetails
-                        try {
-                            const errorJson = JSON.parse(errorText);
-                            if(errorJson.message) formMessage.textContent += ` Details: ${errorJson.message}`;
-                        } catch (e) {
-                            // Geen JSON, toon deel van de tekst
-                            // formMessage.textContent += ` Details: ${errorText.substring(0,50)}`;
-                        }
-                    }
-                    formMessage.className = 'mt-4 text-sm text-red-600 min-h-[1.25rem]';
-                }
-
-            } catch (error) { // Dit vangt nu vooral netwerkfouten of errors vóór de fetch call
-                console.error('Netwerkfout of andere client-side fout:', error);
-                formMessage.textContent = 'Er is een netwerkfout opgetreden. Controleer je verbinding en probeer het later opnieuw.';
-                formMessage.className = 'mt-4 text-sm text-red-600 min-h-[1.25rem]';
-            }
-
+            fetch(GOOGLE_APPS_SCRIPT_URL, {
+                method: 'POST',
+                mode: 'no-cors',
+                body: formData,
+                // redirect: 'follow', // Optioneel: Google Apps Script redirect soms. 'follow' is de default.
+            }).then(response => {
+                formMessage.textContent = 'Bedankt! We hebben je e-mailadres ontvangen. We nemen snel contact met je op!';
+                formMessage.className = 'mt-4 text-sm text-green-600 min-h-[1.25rem]'; // Gebruik een duidelijke succeskleur
+                emailInput.value = ''; // Maak inputveld leeg
+            }).catch(reason => {
+                console.error('Server response (geen succes):');
+                formMessage.textContent = 'Aanmelding is niet gelukt, probeer het later opnieuw'
+                formMessage.className = 'mt-4 text-sm text-red-600 min-h-[1.25rem]'; // Gebruik een duidelijke foutkleur
+            })
         } else {
             formMessage.textContent = 'Vul een geldig e-mailadres in.';
             formMessage.className = 'mt-4 text-sm text-red-600 min-h-[1.25rem]';
