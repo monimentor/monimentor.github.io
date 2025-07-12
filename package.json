@@ -6,10 +6,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "tailwind:build": "npx tailwindcss -i ./src/input.css -o ./docs/output.css --minify",
     "tailwind:watch": "npx tailwindcss -i ./src/input.css -o ./docs/output.css --watch",
-    "copy:html": "mkdir -p docs && cp index.html docs/index.html",
-    "copy:assets": "mkdir -p docs/assets && cp -R assets/* docs/assets/",
-    "dev": "npm run copy:html && npm run copy:assets && npm run tailwind:watch",
-    "build": "npm run copy:html && npm run copy:assets && npm run tailwind:build"
+    "copy": "mkdir -p docs/assets && cp index.html docs/index.html && cp -R assets/* docs/assets/",
+    "dev": "npm run copy && npm run tailwind:watch",
+    "build": "npm run copy && npm run tailwind:build"
   },
   "repository": {
     "type": "git",
@@ -26,7 +25,7 @@
   "devDependencies": {
     "autoprefixer": "^10.4.21",
     "postcss": "^8.5.3",
-    "tailwindcss": "^3.4.3"
+    "tailwindcss": "^4.1.11"
   },
   "type": "commonjs"
 }

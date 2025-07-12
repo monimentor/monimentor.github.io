@@ -243,6 +243,42 @@
         .floating-icon {
             animation: float 3s ease-in-out infinite;
         }
+        .summary-style {
+            display: block;
+            list-style: none; /* Remove default marker */
+            cursor: pointer;
+            position: relative;
+        }
+        .summary-style::-webkit-details-marker {
+            display: none;
+        }
+        .summary-style:focus-visible {
+            outline: 2px solid #667eea;
+            outline-offset: 2px;
+            border-radius: 0.25rem;
+        }
+        .summary-style::after {
+            content: '▼';
+            position: absolute;
+            right: 0;
+            top: 50%;
+            transform: translateY(-50%);
+            transition: transform 0.2s ease-in-out;
+            font-size: 1rem;
+            color: #667eea;
+        }
+        details[open] > .summary-style::after {
+            transform: translateY(-50%) rotate(180deg);
+        }
+        @media (min-width: 1024px) {
+            .summary-style {
+                cursor: default;
+                pointer-events: none; /* Prevent clicking to collapse/expand */
+            }
+            .summary-style::after {
+                display: none; /* Hide arrow on desktop */
+            }
+        }
     </style>
 </head>
 <body class="text-gray-700 min-h-screen">
@@ -250,6 +286,7 @@
     <div class="main-container">
         
         <header class="text-center mb-6 md:mb-8 lg:mb-12 pt-6 md:pt-8 lg:pt-12 px-3 md:px-6 lg:px-8">
+            
             <h1 class="text-2xl md:text-4xl lg:text-6xl font-bold mb-4">Grip op Schermen Zonder Strijd</h1>
             <p class="hero-subtitle max-w-4xl mx-auto leading-relaxed text-base md:text-lg">Een praktische gids voor ouders die worstelen met schermtijd. Van wetenschappelijke inzichten naar herkenbare situaties en werkbare oplossingen.</p>
             
@@ -260,8 +297,11 @@
             </div>
             
             <div class="mt-6 md:mt-8">
-                <span class="text-xs md:text-sm text-gray-500">Deze gids is gebaseerd op de 'Richtlijn Gezond Schermgebruik' en ontwikkeld door</span>
+                <span class="text-xs md:text-sm text-gray-500">Deze gids is gebaseerd op de 'Richtlijn Gezond Schermgebruik' en ontwikkeld door:</span>
                 <div class="mt-2">
+                   <div class="mb-4 md:mb-6">
+                <img src="/assets/Moni_waving.gif" alt="Moni zwaait" class="w-24 h-24 md:w-32 md:h-32 mx-auto">
+            </div>
                     <a href="https://monimentor.com" target="_blank" rel="noopener noreferrer" class="moni-style-btn text-sm md:text-base">
                         Ontdek Monimentor →
                     </a>
@@ -272,472 +312,575 @@
         <main class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-6 lg:gap-8 px-4 md:px-6 lg:px-8 pb-8 md:pb-12">
             
             <section class="card md:col-span-2 lg:col-span-3">
-                <h2 class="text-2xl font-bold mb-4 text-center">Geadviseerde Schermtijd per Leeftijd</h2>
-                <p class="text-center text-gray-600 mb-6">Verschillende organisaties hebben richtlijnen ontwikkeld voor gezonde schermtijd. In de praktijk blijkt het voor veel gezinnen een uitdaging om binnen deze adviezen te blijven<a href="#ref3" class="footnote">[3]</a>.</p>
-                
-                <div class="overflow-x-auto mb-6">
-                    <table class="w-full md:mx-auto bg-white border border-gray-300 rounded-lg text-sm">
-                        <thead class="bg-gray-100">
-                            <tr>
-                                <th class="px-2 md:px-4 py-3 text-left font-semibold text-gray-700 border-b text-xs md:text-sm">Leeftijd</th>
-                                <th class="px-2 md:px-4 py-3 text-left font-semibold text-gray-700 border-b text-xs md:text-sm">Geadviseerde Schermtijd</th>
-                                <th class="px-2 md:px-4 py-3 text-left font-semibold text-gray-700 border-b text-xs md:text-sm">Bron</th>
-                            </tr>
-                        </thead>
-                        <tbody class="text-xs md:text-sm">
-                            <tr class="border-b">
-                                <td class="px-2 md:px-4 py-3">0-2 jaar</td>
-                                <td class="px-2 md:px-4 py-3">Geen schermtijd (behalve videobellen)</td>
-                                <td class="px-2 md:px-4 py-3">WHO, AAP<a href="#ref29" class="footnote">[29]</a></td>
-                            </tr>
-                            <tr class="border-b">
-                                <td class="px-2 md:px-4 py-3">2-5 jaar</td>
-                                <td class="px-2 md:px-4 py-3">Maximaal 1 uur per dag</td>
-                                <td class="px-2 md:px-4 py-3">WHO, AAP<a href="#ref29" class="footnote">[29]</a></td>
-                            </tr>
-                            <tr class="border-b bg-blue-50">
-                                <td class="px-2 md:px-4 py-3 font-semibold">6-12 jaar</td>
-                                <td class="px-2 md:px-4 py-3 font-semibold">1-1,5 uur per dag</td>
-                                <td class="px-2 md:px-4 py-3 font-semibold">Richtlijn Gezond Schermgebruik<a href="#ref3" class="footnote">[3]</a></td>
-                            </tr>
-                            <tr>
-                                <td class="px-2 md:px-4 py-3">13+ jaar</td>
-                                <td class="px-2 md:px-4 py-3">Geen strikte tijdslimiet, focus op kwaliteit</td>
-                                <td class="px-2 md:px-4 py-3">Richtlijn Gezond Schermgebruik<a href="#ref3" class="footnote">[3]</a></td>
-                            </tr>
-                        </tbody>
-                    </table>
-                </div>
+                <details class="collapsible-on-mobile">
+                    <summary class="summary-style text-center">
+                        <h2 class="inline text-2xl font-bold">Geadviseerde Schermtijd per Leeftijd</h2>
+                    </summary>
+                    <div class="mt-4">
+                        <p class="text-center text-gray-600 mb-6">Verschillende organisaties hebben richtlijnen ontwikkeld voor gezonde schermtijd. In de praktijk blijkt het voor veel gezinnen een uitdaging om binnen deze adviezen te blijven<a href="#ref3" class="footnote">[3]</a>.</p>
+                        
+                        <div class="overflow-x-auto mb-6">
+                            <table class="w-full md:mx-auto bg-white border border-gray-300 rounded-lg text-sm">
+                                <thead class="bg-gray-100">
+                                    <tr>
+                                        <th class="px-2 md:px-4 py-3 text-left font-semibold text-gray-700 border-b text-xs md:text-sm">Leeftijd</th>
+                                        <th class="px-2 md:px-4 py-3 text-left font-semibold text-gray-700 border-b text-xs md:text-sm">Geadviseerde Schermtijd</th>
+                                        <th class="px-2 md:px-4 py-3 text-left font-semibold text-gray-700 border-b text-xs md:text-sm">Bron</th>
+                                    </tr>
+                                </thead>
+                                <tbody class="text-xs md:text-sm">
+                                    <tr class="border-b">
+                                        <td class="px-2 md:px-4 py-3">0-2 jaar</td>
+                                        <td class="px-2 md:px-4 py-3">Geen schermtijd (behalve videobellen)</td>
+                                        <td class="px-2 md:px-4 py-3">WHO, AAP<a href="#ref29" class="footnote">[29]</a></td>
+                                    </tr>
+                                    <tr class="border-b">
+                                        <td class="px-2 md:px-4 py-3">2-5 jaar</td>
+                                        <td class="px-2 md:px-4 py-3">Maximaal 1 uur per dag</td>
+                                        <td class="px-2 md:px-4 py-3">WHO, AAP<a href="#ref29" class="footnote">[29]</a></td>
+                                    </tr>
+                                    <tr class="border-b bg-blue-50">
+                                        <td class="px-2 md:px-4 py-3 font-semibold">6-12 jaar</td>
+                                        <td class="px-2 md:px-4 py-3 font-semibold">1-1,5 uur per dag</td>
+                                        <td class="px-2 md:px-4 py-3 font-semibold">Richtlijn Gezond Schermgebruik<a href="#ref3" class="footnote">[3]</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td class="px-2 md:px-4 py-3">13+ jaar</td>
+                                        <td class="px-2 md:px-4 py-3">Geen strikte tijdslimiet, focus op kwaliteit</td>
+                                        <td class="px-2 md:px-4 py-3">Richtlijn Gezond Schermgebruik<a href="#ref3" class="footnote">[3]</a></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
 
-                <div class="bg-yellow-50 p-4 rounded-lg border-l-4 border-yellow-400">
-                    <h3 class="font-semibold text-gray-800 mb-2">💡 Belangrijk om te weten:</h3>
-                    <ul class="text-sm text-gray-700 space-y-1">
-                        <li><strong>Kwaliteit boven kwantiteit:</strong> Niet alle schermtijd is hetzelfde. Educatieve content en sociale interactie hebben meer waarde dan passief consumeren<a href="#ref3" class="footnote">[3]</a>.</li>
-                        <li><strong>Praktijk vs. advies:</strong> Onderzoek toont dat veel kinderen meer schermtijd hebben dan geadviseerd, wat begrijpelijk is in onze digitale samenleving<a href="#ref30" class="footnote">[30]</a>.</li>
-                        <li><strong>Individuele verschillen:</strong> Elk kind is anders. Wat voor het ene kind werkt, hoeft niet per se voor het andere kind te gelden.</li>
-                    </ul>
-                </div>
+                        <div class="bg-yellow-50 p-4 rounded-lg border-l-4 border-yellow-400">
+                            <h3 class="font-semibold text-gray-800 mb-2">💡 Belangrijk om te weten:</h3>
+                            <ul class="text-sm text-gray-700 space-y-1">
+                                <li><strong>Kwaliteit boven kwantiteit:</strong> Niet alle schermtijd is hetzelfde. Educatieve content en sociale interactie hebben meer waarde dan passief consumeren<a href="#ref3" class="footnote">[3]</a>.</li>
+                                <li><strong>Praktijk vs. advies:</strong> Onderzoek toont dat veel kinderen meer schermtijd hebben dan geadviseerd, wat begrijpelijk is in onze digitale samenleving<a href="#ref30" class="footnote">[30]</a>.</li>
+                                <li><strong>Individuele verschillen:</strong> Elk kind is anders. Wat voor het ene kind werkt, hoeft niet per se voor het andere kind te gelden.</li>
+                            </ul>
+                        </div>
+                    </div>
+                </details>
             </section>
 
             <section class="card lg:col-span-2">
-                 <h2 class="text-2xl font-bold mb-4">De Ongelijke Strijd: Ferrari vs. Fietsremmen</h2>
-                 <p class="text-gray-600 mb-6">Waarom stoppen zo moeilijk is? Het ligt niet aan onwil, maar aan biologie en slimme technologie. Het kinderbrein heeft een Ferrari-gaspedaal voor plezier, maar de remmen van een fiets.<a href="#ref1" class="footnote">[1,2]</a></p>
-                 
-                 <div class="bg-yellow-50 p-4 rounded-lg border-l-4 border-yellow-400 mb-6">
-                    <h3 class="font-semibold text-gray-800 mb-2">🚗 De Metafoor:</h3>
-                    <p class="text-sm text-gray-700">Het gaspedaal (drang naar plezier) werkt perfect, maar de remmen (impulscontrole) zijn nog in ontwikkeling. En aan de andere kant van het scherm zitten duizenden van de slimste mensen ter wereld wiens baan het is om dat gaspedaal onweerstaanbaar te maken.</p>
-                </div>
-                 
-                 <div class="flex flex-col md:flex-row items-center justify-around space-y-6 md:space-y-0 md:space-x-6">
-                    <div class="text-center p-4 rounded-lg bg-blue-50 w-full md:w-1/2">
-                        <div class="icon-box mb-2">🧠</div>
-                        <h3 class="text-lg font-semibold text-accent-blue">Het Brein in Ontwikkeling</h3>
-                        <p class="text-sm text-gray-600">De prefrontale cortex, het 'rempedaal' van de hersenen, is pas rond je 25e volledig ontwikkeld. Bij 8-10 jarigen is impulscontrole nog een uitdaging.<a href="#ref1" class="footnote">[1]</a></p>
+                <details class="collapsible-on-mobile">
+                    <summary class="summary-style">
+                        <h2 class="inline text-2xl font-bold">De Ongelijke Strijd: Ferrari vs. Fietsremmen</h2>
+                    </summary>
+                    <div class="mt-4">
+                        <p class="text-gray-600 mb-6">Waarom stoppen zo moeilijk is? Het ligt niet aan onwil, maar aan biologie en slimme technologie. Het kinderbrein heeft een Ferrari-gaspedaal voor plezier, maar de remmen van een fiets.<a href="#ref1" class="footnote">[1,2]</a></p>
+                        
+                        <div class="bg-yellow-50 p-4 rounded-lg border-l-4 border-yellow-400 mb-6">
+                           <h3 class="font-semibold text-gray-800 mb-2">🚗 De Metafoor:</h3>
+                           <p class="text-sm text-gray-700">Het gaspedaal (drang naar plezier) werkt perfect, maar de remmen (impulscontrole) zijn nog in ontwikkeling. En aan de andere kant van het scherm zitten duizenden van de slimste mensen ter wereld wiens baan het is om dat gaspedaal onweerstaanbaar te maken.</p>
+                       </div>
+                        
+                        <div class="flex flex-col md:flex-row items-center justify-around space-y-6 md:space-y-0 md:space-x-6">
+                           <div class="text-center p-4 rounded-lg bg-blue-50 w-full md:w-1/2">
+                               <div class="icon-box mb-2">🧠</div>
+                               <h3 class="text-lg font-semibold text-accent-blue">Het Brein in Ontwikkeling</h3>
+                               <p class="text-sm text-gray-600">De prefrontale cortex, het 'rempedaal' van de hersenen, is pas rond je 25e volledig ontwikkeld. Bij 8-10 jarigen is impulscontrole nog een uitdaging.<a href="#ref1" class="footnote">[1]</a></p>
+                           </div>
+                           <div class="text-center p-4 rounded-lg bg-red-50 w-full md:w-1/2">
+                               <div class="icon-box mb-2">🎯</div>
+                               <h3 class="text-lg font-semibold text-accent-red">Persuasive Design</h3>
+                               <ul class="text-sm text-gray-600 list-none space-y-1">
+                                   <li><span class="font-bold">🔄 Oneindig scrollen:</span> Geen natuurlijk stopmoment</li>
+                                   <li><span class="font-bold">🏆 Battle Pass:</span> Dagelijkse beloningen in games<a href="#ref8" class="footnote">[8]</a></li>
+                                   <li><span class="font-bold">⏱️ FOMO:</span> Fear of Missing Out<a href="#ref11" class="footnote">[11]</a></li>
+                               </ul>
+                           </div>
+                       </div>
                     </div>
-                    <div class="text-center p-4 rounded-lg bg-red-50 w-full md:w-1/2">
-                        <div class="icon-box mb-2">🎯</div>
-                        <h3 class="text-lg font-semibold text-accent-red">Persuasive Design</h3>
-                        <ul class="text-sm text-gray-600 list-none space-y-1">
-                            <li><span class="font-bold">🔄 Oneindig scrollen:</span> Geen natuurlijk stopmoment</li>
-                            <li><span class="font-bold">🏆 Battle Pass:</span> Dagelijkse beloningen in games<a href="#ref8" class="footnote">[8]</a></li>
-                            <li><span class="font-bold">⏱️ FOMO:</span> Fear of Missing Out<a href="#ref11" class="footnote">[11]</a></li>
-                        </ul>
-                    </div>
-                </div>
+                </details>
             </section>
 
             <section class="card">
-                <h2 class="text-2xl font-bold mb-4">Chips of Broccoli?</h2>
-                <p class="text-gray-600 mb-6">Schermen zijn niet allemaal hetzelfde. Sommige zijn 'chips' (verslavend maar niet voedzaam), andere zijn 'broccoli' (gezond en nuttig). Het gaat erom de juiste keuzes te maken.<a href="#ref4" class="footnote">[4,13]</a></p>
-                <div class="space-y-4">
-                    <div>
-                        <h3 class="font-semibold text-accent-red mb-2">🍟 'Chips' - Risico's</h3>
-                        <ul class="list-disc list-inside text-sm space-y-1">
-                            <li>Slaapproblemen door blauw licht<a href="#ref4" class="footnote">[4,13]</a></li>
-                            <li>Minder fysieke beweging</li>
-                            <li>Verlies van concentratie<a href="#ref6" class="footnote">[6]</a></li>
-                            <li>Sociale vergelijking & FOMO<a href="#ref14" class="footnote">[14]</a></li>
-                        </ul>
+                <details class="collapsible-on-mobile">
+                    <summary class="summary-style">
+                        <h2 class="inline text-2xl font-bold">Chips of Broccoli?</h2>
+                    </summary>
+                    <div class="mt-4">
+                        <p class="text-gray-600 mb-6">Schermen zijn niet allemaal hetzelfde. Sommige zijn 'chips' (verslavend maar niet voedzaam), andere zijn 'broccoli' (gezond en nuttig). Het gaat erom de juiste keuzes te maken.<a href="#ref4" class="footnote">[4,13]</a></p>
+                        <div class="space-y-4">
+                            <div>
+                                <h3 class="font-semibold text-accent-red mb-2">🍟 'Chips' - Risico's</h3>
+                                <ul class="list-disc list-inside text-sm space-y-1">
+                                    <li>Slaapproblemen door blauw licht<a href="#ref4" class="footnote">[4,13]</a></li>
+                                    <li>Minder fysieke beweging</li>
+                                    <li>Verlies van concentratie<a href="#ref6" class="footnote">[6]</a></li>
+                                    <li>Sociale vergelijking & FOMO<a href="#ref14" class="footnote">[14]</a></li>
+                                </ul>
+                            </div>
+                             <div>
+                                <h3 class="font-semibold text-accent-green mb-2">🥦 'Broccoli' - Kansen</h3>
+                                <ul class="list-disc list-inside text-sm space-y-1">
+                                    <li>Sociale contacten onderhouden<a href="#ref15" class="footnote">[15]</a></li>
+                                    <li>Creativiteit ontwikkelen<a href="#ref3" class="footnote">[3]</a></li>
+                                    <li>Toegang tot kennis & leren<a href="#ref16" class="footnote">[16]</a></li>
+                                    <li>Digitale vaardigheden opdoen</li>
+                                </ul>
+                            </div>
+                        </div>
+                        
+                        <div class="mt-6 bg-green-50 p-4 rounded-lg border-l-4 border-green-400">
+                            <h3 class="font-semibold text-gray-800 mb-2">💡 Het doel:</h3>
+                            <p class="text-sm text-gray-700">Niet die Ferrari uitschakelen, maar helpen met remmen en de weg wijzen naar de 'broccoli'.</p>
+                        </div>
                     </div>
-                     <div>
-                        <h3 class="font-semibold text-accent-green mb-2">🥦 'Broccoli' - Kansen</h3>
-                        <ul class="list-disc list-inside text-sm space-y-1">
-                            <li>Sociale contacten onderhouden<a href="#ref15" class="footnote">[15]</a></li>
-                            <li>Creativiteit ontwikkelen<a href="#ref3" class="footnote">[3]</a></li>
-                            <li>Toegang tot kennis & leren<a href="#ref16" class="footnote">[16]</a></li>
-                            <li>Digitale vaardigheden opdoen</li>
-                        </ul>
-                    </div>
-                </div>
-                
-                <div class="mt-6 bg-green-50 p-4 rounded-lg border-l-4 border-green-400">
-                    <h3 class="font-semibold text-gray-800 mb-2">💡 Het doel:</h3>
-                    <p class="text-sm text-gray-700">Niet die Ferrari uitschakelen, maar helpen met remmen en de weg wijzen naar de 'broccoli'.</p>
-                </div>
+                </details>
             </section>
 
             <section class="card md:col-span-2 lg:col-span-3">
-                <h2 class="text-3xl font-bold mb-4 text-center gradient-text">Ontwikkelingskenmerken en Digitale Kwetsbaarheden (8-10 jaar)</h2>
-                <p class="text-center text-gray-600 mb-8 max-w-4xl mx-auto text-lg">Deze tabel laat zien hoe specifieke ontwikkelingskenmerken van kinderen van 8-10 jaar zich vertalen naar digitale kwetsbaarheden. Dit helpt ouders begrijpen waarom <span class="font-semibold text-accent-purple">begeleiding in deze fase zo belangrijk is</span><a href="#ref18" class="footnote">[18]</a>.</p>
-                
-                <div class="overflow-x-auto">
-                    <table class="w-full development-table">
-                        <thead class="table-header">
-                            <tr>
-                                <th class="px-3 md:px-6 py-4 text-left font-semibold text-white text-xs md:text-sm">Ontwikkelingskenmerk</th>
-                                <th class="px-3 md:px-6 py-4 text-left font-semibold text-white text-xs md:text-sm">Manifestatie in de 'Echte' Wereld</th>
-                                <th class="px-3 md:px-6 py-4 text-left font-semibold text-white text-xs md:text-sm">Digitale Kwetsbaarheid / Risico</th>
-                            </tr>
-                        </thead>
-                        <tbody class="text-xs md:text-sm bg-white">
-                            <tr class="border-b border-gray-100 hover:bg-gradient-to-r hover:from-purple-50 hover:to-blue-50 transition-all duration-300">
-                                <td class="px-3 md:px-6 py-4 md:py-6 font-medium text-accent-blue">
-                                    <div class="flex items-center">
-                                        <span class="text-lg md:text-2xl mr-2 md:mr-3">🧠</span>
-                                        <div>
-                                            <strong class="text-sm md:text-base">Cognitief:</strong><br>
-                                            <span class="text-xs text-gray-600 leading-relaxed">Beginnend abstract denken, maar nog sterk gericht op concrete, zichtbare zaken<a href="#ref18" class="footnote">[18]</a></span>
-                                        </div>
-                                    </div>
-                                </td>
-                                <td class="px-3 md:px-6 py-4 md:py-6 text-gray-700 leading-relaxed">
-                                    Begrijpt de regels van een bordspel, maar vindt het lastig om vooruit te plannen.
-                                </td>
-                                <td class="px-3 md:px-6 py-4 md:py-6 text-red-700 bg-red-50 leading-relaxed">
-                                    Moeite met het doorzien van de waarde van virtuele valuta (bv. 'gems', 'coins') en de gevolgen van in-app aankopen<a href="#ref19" class="footnote">[19]</a>.
-                                </td>
-                            </tr>
-                            <tr class="border-b border-gray-100 hover:bg-gradient-to-r hover:from-purple-50 hover:to-blue-50 transition-all duration-300">
-                                <td class="px-3 md:px-6 py-4 md:py-6 font-medium text-accent-green">
-                                    <div class="flex items-center">
-                                        <span class="text-lg md:text-2xl mr-2 md:mr-3">👥</span>
-                                        <div>
-                                            <strong class="text-sm md:text-base">Sociaal-emotioneel:</strong><br>
-                                            <span class="text-xs text-gray-600 leading-relaxed">Grote behoefte aan sociale acceptatie door leeftijdsgenoten ('erbij horen')<a href="#ref18" class="footnote">[18]</a></span>
-                                        </div>
-                                    </div>
-                                </td>
-                                <td class="px-3 md:px-6 py-4 md:py-6 text-gray-700 leading-relaxed">
-                                    Wil graag bij een populair groepje op het schoolplein horen; is gevoelig voor groepsdruk.
-                                </td>
-                                <td class="px-3 md:px-6 py-4 md:py-6 text-red-700 bg-red-50 leading-relaxed">
-                                    Verhoogde gevoeligheid voor cyberpesten, buitensluiting in online groepen en sociale druk om mee te doen aan online 'challenges' of trends<a href="#ref14" class="footnote">[14]</a>.
-                                </td>
-                            </tr>
-                            <tr class="border-b border-gray-100 hover:bg-gradient-to-r hover:from-purple-50 hover:to-blue-50 transition-all duration-300">
-                                <td class="px-3 md:px-6 py-4 md:py-6 font-medium text-accent-yellow">
-                                    <div class="flex items-center">
-                                        <span class="text-lg md:text-2xl mr-2 md:mr-3">🎯</span>
-                                        <div>
-                                            <strong class="text-sm md:text-base">Cognitief:</strong><br>
-                                            <span class="text-xs text-gray-600 leading-relaxed">Moeite met het herkennen van overtuigende of commerciële intenties<a href="#ref3" class="footnote">[3]</a><a href="#ref12" class="footnote">[12]</a></span>
-                                        </div>
-                                    </div>
-                                </td>
-                                <td class="px-3 md:px-6 py-4 md:py-6 text-gray-700 leading-relaxed">
-                                    Begrijpt dat een tv-reclame iets wil verkopen, maar doorziet subtielere vormen nog niet.
-                                </td>
-                                <td class="px-3 md:px-6 py-4 md:py-6 text-red-700 bg-red-50 leading-relaxed">
-                                    Ziet 'influencer marketing' en 'sponsored content' niet als reclame, maar als een oprechte aanbeveling. Is vatbaar voor misleidende advertenties in games<a href="#ref19" class="footnote">[19]</a>.
-                                </td>
-                            </tr>
-                            <tr class="border-b border-gray-100 hover:bg-gradient-to-r hover:from-purple-50 hover:to-blue-50 transition-all duration-300">
-                                <td class="px-3 md:px-6 py-4 md:py-6 font-medium text-accent-red">
-                                    <div class="flex items-center">
-                                        <span class="text-lg md:text-2xl mr-2 md:mr-3">⚡</span>
-                                        <div>
-                                            <strong class="text-sm md:text-base">Executieve Functies:</strong><br>
-                                            <span class="text-xs text-gray-600 leading-relaxed">Impulscontrole en zelfregulatie zijn nog in ontwikkeling<a href="#ref1" class="footnote">[1]</a><a href="#ref2" class="footnote">[2]</a></span>
-                                        </div>
-                                    </div>
-                                </td>
-                                <td class="px-3 md:px-6 py-4 md:py-6 text-gray-700 leading-relaxed">
-                                    Kan soms op zijn/haar beurt wachten, maar vindt het moeilijk om te stoppen met een leuke activiteit.
-                                </td>
-                                <td class="px-3 md:px-6 py-4 md:py-6 text-red-700 bg-red-50 leading-relaxed">
-                                    Vatbaar voor verslavende ontwerpelementen zoals 'reward loops' en 'endless scroll'. Kan moeilijk stoppen met een game of app, ook als de afgesproken tijd om is<a href="#ref3" class="footnote">[3]</a><a href="#ref7" class="footnote">[7]</a>.
-                                </td>
-                            </tr>
-                        </tbody>
-                    </table>
-                </div>
-                
-                <div class="mt-8 guideline-card">
-                    <h3 class="font-semibold text-accent-purple mb-4 flex items-center text-lg">
-                        <span class="mr-3">🎯</span>
-                        Praktische implicaties voor ouders:
-                    </h3>
-                    <ul class="text-sm text-gray-700 space-y-3 leading-relaxed">
-                        <li class="flex items-start">
-                            <span class="text-accent-green mr-2 font-bold">•</span>
-                            <div><strong>Begeleiding is essentieel:</strong> Deze kwetsbaarheden maken duidelijk waarom kinderen van 8-10 jaar niet alleen gelaten moeten worden in de digitale wereld.</div>
-                        </li>
-                        <li class="flex items-start">
-                            <span class="text-accent-yellow mr-2 font-bold">•</span>
-                            <div><strong>Preventief handelen:</strong> Bespreek deze risico's voordat problemen ontstaan, niet pas achteraf.</div>
-                        </li>
-                        <li class="flex items-start">
-                            <span class="text-accent-blue mr-2 font-bold">•</span>
-                            <div><strong>Geduld en begrip:</strong> Deze gedragingen zijn ontwikkelingsnormaal, niet een gebrek aan discipline of intelligentie.</div>
-                        </li>
-                    </ul>
-                </div>
+                <details class="collapsible-on-mobile">
+                    <summary class="summary-style text-center">
+                        <h2 class="inline text-3xl font-bold gradient-text">Ontwikkelingskenmerken en Digitale Kwetsbaarheden (8-10 jaar)</h2>
+                    </summary>
+                    <div class="mt-4">
+                        <p class="text-center text-gray-600 mb-8 max-w-4xl mx-auto text-lg">Deze tabel laat zien hoe specifieke ontwikkelingskenmerken van kinderen van 8-10 jaar zich vertalen naar digitale kwetsbaarheden. Dit helpt ouders begrijpen waarom <span class="font-semibold text-accent-purple">begeleiding in deze fase zo belangrijk is</span><a href="#ref18" class="footnote">[18]</a>.</p>
+                        
+                        <div class="overflow-x-auto">
+                            <table class="w-full development-table">
+                                <thead class="table-header">
+                                    <tr>
+                                        <th class="px-3 md:px-6 py-4 text-left font-semibold text-white text-xs md:text-sm">Ontwikkelingskenmerk</th>
+                                        <th class="px-3 md:px-6 py-4 text-left font-semibold text-white text-xs md:text-sm">Manifestatie in de 'Echte' Wereld</th>
+                                        <th class="px-3 md:px-6 py-4 text-left font-semibold text-white text-xs md:text-sm">Digitale Kwetsbaarheid / Risico</th>
+                                    </tr>
+                                </thead>
+                                <tbody class="text-xs md:text-sm bg-white">
+                                    <tr class="border-b border-gray-100 hover:bg-gradient-to-r hover:from-purple-50 hover:to-blue-50 transition-all duration-300">
+                                        <td class="px-3 md:px-6 py-4 md:py-6 font-medium text-accent-blue">
+                                            <div class="flex items-center">
+                                                <span class="text-lg md:text-2xl mr-2 md:mr-3">🧠</span>
+                                                <div>
+                                                    <strong class="text-sm md:text-base">Cognitief:</strong><br>
+                                                    <span class="text-xs text-gray-600 leading-relaxed">Beginnend abstract denken, maar nog sterk gericht op concrete, zichtbare zaken<a href="#ref18" class="footnote">[18]</a></span>
+                                                </div>
+                                            </div>
+                                        </td>
+                                        <td class="px-3 md:px-6 py-4 md:py-6 text-gray-700 leading-relaxed">
+                                            Begrijpt de regels van een bordspel, maar vindt het lastig om vooruit te plannen.
+                                        </td>
+                                        <td class="px-3 md:px-6 py-4 md:py-6 text-red-700 bg-red-50 leading-relaxed">
+                                            Moeite met het doorzien van de waarde van virtuele valuta (bv. 'gems', 'coins') en de gevolgen van in-app aankopen<a href="#ref19" class="footnote">[19]</a>.
+                                        </td>
+                                    </tr>
+                                    <tr class="border-b border-gray-100 hover:bg-gradient-to-r hover:from-purple-50 hover:to-blue-50 transition-all duration-300">
+                                        <td class="px-3 md:px-6 py-4 md:py-6 font-medium text-accent-green">
+                                            <div class="flex items-center">
+                                                <span class="text-lg md:text-2xl mr-2 md:mr-3">👥</span>
+                                                <div>
+                                                    <strong class="text-sm md:text-base">Sociaal-emotioneel:</strong><br>
+                                                    <span class="text-xs text-gray-600 leading-relaxed">Grote behoefte aan sociale acceptatie door leeftijdsgenoten ('erbij horen')<a href="#ref18" class="footnote">[18]</a></span>
+                                                </div>
+                                            </div>
+                                        </td>
+                                        <td class="px-3 md:px-6 py-4 md:py-6 text-gray-700 leading-relaxed">
+                                            Wil graag bij een populair groepje op het schoolplein horen; is gevoelig voor groepsdruk.
+                                        </td>
+                                        <td class="px-3 md:px-6 py-4 md:py-6 text-red-700 bg-red-50 leading-relaxed">
+                                            Verhoogde gevoeligheid voor cyberpesten, buitensluiting in online groepen en sociale druk om mee te doen aan online 'challenges' of trends<a href="#ref14" class="footnote">[14]</a>.
+                                        </td>
+                                    </tr>
+                                    <tr class="border-b border-gray-100 hover:bg-gradient-to-r hover:from-purple-50 hover:to-blue-50 transition-all duration-300">
+                                        <td class="px-3 md:px-6 py-4 md:py-6 font-medium text-accent-yellow">
+                                            <div class="flex items-center">
+                                                <span class="text-lg md:text-2xl mr-2 md:mr-3">🎯</span>
+                                                <div>
+                                                    <strong class="text-sm md:text-base">Cognitief:</strong><br>
+                                                    <span class="text-xs text-gray-600 leading-relaxed">Moeite met het herkennen van overtuigende of commerciële intenties<a href="#ref3" class="footnote">[3]</a><a href="#ref12" class="footnote">[12]</a></span>
+                                                </div>
+                                            </div>
+                                        </td>
+                                        <td class="px-3 md:px-6 py-4 md:py-6 text-gray-700 leading-relaxed">
+                                            Begrijpt dat een tv-reclame iets wil verkopen, maar doorziet subtielere vormen nog niet.
+                                        </td>
+                                        <td class="px-3 md:px-6 py-4 md:py-6 text-red-700 bg-red-50 leading-relaxed">
+                                            Ziet 'influencer marketing' en 'sponsored content' niet als reclame, maar als een oprechte aanbeveling. Is vatbaar voor misleidende advertenties in games<a href="#ref19" class="footnote">[19]</a>.
+                                        </td>
+                                    </tr>
+                                    <tr class="border-b border-gray-100 hover:bg-gradient-to-r hover:from-purple-50 hover:to-blue-50 transition-all duration-300">
+                                        <td class="px-3 md:px-6 py-4 md:py-6 font-medium text-accent-red">
+                                            <div class="flex items-center">
+                                                <span class="text-lg md:text-2xl mr-2 md:mr-3">⚡</span>
+                                                <div>
+                                                    <strong class="text-sm md:text-base">Executieve Functies:</strong><br>
+                                                    <span class="text-xs text-gray-600 leading-relaxed">Impulscontrole en zelfregulatie zijn nog in ontwikkeling<a href="#ref1" class="footnote">[1]</a><a href="#ref2" class="footnote">[2]</a></span>
+                                                </div>
+                                            </div>
+                                        </td>
+                                        <td class="px-3 md:px-6 py-4 md:py-6 text-gray-700 leading-relaxed">
+                                            Kan soms op zijn/haar beurt wachten, maar vindt het moeilijk om te stoppen met een leuke activiteit.
+                                        </td>
+                                        <td class="px-3 md:px-6 py-4 md:py-6 text-red-700 bg-red-50 leading-relaxed">
+                                            Vatbaar voor verslavende ontwerpelementen zoals 'reward loops' en 'endless scroll'. Kan moeilijk stoppen met een game of app, ook als de afgesproken tijd om is<a href="#ref3" class="footnote">[3]</a><a href="#ref7" class="footnote">[7]</a>.
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                        
+                        <div class="mt-8 guideline-card">
+                            <h3 class="font-semibold text-accent-purple mb-4 flex items-center text-lg">
+                                <span class="mr-3">🎯</span>
+                                Praktische implicaties voor ouders:
+                            </h3>
+                            <ul class="text-sm text-gray-700 space-y-3 leading-relaxed">
+                                <li class="flex items-start">
+                                    <span class="text-accent-green mr-2 font-bold">•</span>
+                                    <div><strong>Begeleiding is essentieel:</strong> Deze kwetsbaarheden maken duidelijk waarom kinderen van 8-10 jaar niet alleen gelaten moeten worden in de digitale wereld.</div>
+                                </li>
+                                <li class="flex items-start">
+                                    <span class="text-accent-yellow mr-2 font-bold">•</span>
+                                    <div><strong>Preventief handelen:</strong> Bespreek deze risico's voordat problemen ontstaan, niet pas achteraf.</div>
+                                </li>
+                                <li class="flex items-start">
+                                    <span class="text-accent-blue mr-2 font-bold">•</span>
+                                    <div><strong>Geduld en begrip:</strong> Deze gedragingen zijn ontwikkelingsnormaal, niet een gebrek aan discipline of intelligentie.</div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </details>
             </section>
 
             <section class="card md:col-span-2 lg:col-span-3">
-                <h2 class="text-2xl md:text-3xl font-bold text-center mb-4 gradient-text">De 4 Pijlers: Jouw Kompas als Ouder</h2>
-                <p class="text-center text-gray-600 mb-8 md:mb-12 max-w-4xl mx-auto text-base md:text-lg">Een effectieve mediaopvoeding rust op vier pijlers uit de 'Richtlijn Gezond Schermgebruik'. Het gaat niet om verbieden, maar om <span class="font-semibold text-accent-purple">begeleiden, verbinden, structuur bieden en het goede voorbeeld geven</span>.<a href="#ref3" class="footnote">[3]</a></p>
-                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 md:gap-8">
-                    
-                    <div class="pillar-card text-center">
-                        <div class="icon-box mb-4 text-accent-green floating-icon">💬</div>
-                        <h3 class="text-xl font-bold mb-3 text-accent-green">1. Verbinding</h3>
-                        <p class="text-sm text-gray-600 leading-relaxed mb-4">Wees een <strong>veilige haven</strong>, geen politieagent. Toon oprechte interesse in hun online wereld. Open gesprek zonder direct oordeel is de beste bescherming.<a href="#ref20" class="footnote">[20,21]</a></p>
-                        <div class="bg-green-50 p-3 rounded-lg text-xs text-green-700">
-                            <strong>De controleparadox:</strong> Te veel controle leidt ertoe dat kinderen hun online leven gaan verbergen.
-                        </div>
-                    </div>
+                <details class="collapsible-on-mobile">
+                    <summary class="summary-style text-center">
+                        <h2 class="inline text-2xl md:text-3xl font-bold gradient-text">De 4 Pijlers: Jouw Kompas als Ouder</h2>
+                    </summary>
+                    <div class="mt-4">
+                        <p class="text-center text-gray-600 mb-8 md:mb-12 max-w-4xl mx-auto text-base md:text-lg">Een effectieve mediaopvoeding rust op vier pijlers uit de 'Richtlijn Gezond Schermgebruik'. Het gaat niet om verbieden, maar om <span class="font-semibold text-accent-purple">begeleiden, verbinden, structuur bieden en het goede voorbeeld geven</span>.<a href="#ref3" class="footnote">[3]</a></p>
+                        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 md:gap-8">
+                            
+                            <div class="pillar-card text-center">
+                                <div class="icon-box mb-4 text-accent-green floating-icon">💬</div>
+                                <h3 class="text-xl font-bold mb-3 text-accent-green">1. Verbinding</h3>
+                                <p class="text-sm text-gray-600 leading-relaxed mb-4">Wees een <strong>veilige haven</strong>, geen politieagent. Toon oprechte interesse in hun online wereld. Open gesprek zonder direct oordeel is de beste bescherming.<a href="#ref20" class="footnote">[20,21]</a></p>
+                                <div class="bg-green-50 p-3 rounded-lg text-xs text-green-700">
+                                    <strong>De controleparadox:</strong> Te veel controle leidt ertoe dat kinderen hun online leven gaan verbergen.
+                                </div>
+                            </div>
 
-                    <div class="pillar-card text-center">
-                        <div class="icon-box mb-4 text-accent-yellow floating-icon">🧭</div>
-                        <h3 class="text-xl font-bold mb-3 text-accent-yellow">2. Weerbaarheid</h3>
-                        <p class="text-sm text-gray-600 leading-relaxed mb-4">Wees een <strong>coach</strong>. Leer ze kritisch denken. Vraag: "Waarom denk je dat die YouTuber dat laat zien?" Bespreek privacy en commerciële intenties.<a href="#ref23" class="footnote">[23,24]</a></p>
-                        <div class="bg-yellow-50 p-3 rounded-lg text-xs text-yellow-700">
-                            <strong>De 'coach-rol':</strong> Niet voor ze beslissen, maar ze leren zelf beslissingen te maken.
-                        </div>
-                    </div>
+                            <div class="pillar-card text-center">
+                                <div class="icon-box mb-4 text-accent-yellow floating-icon">🧭</div>
+                                <h3 class="text-xl font-bold mb-3 text-accent-yellow">2. Weerbaarheid</h3>
+                                <p class="text-sm text-gray-600 leading-relaxed mb-4">Wees een <strong>coach</strong>. Leer ze kritisch denken. Vraag: "Waarom denk je dat die YouTuber dat laat zien?" Bespreek privacy en commerciële intenties.<a href="#ref23" class="footnote">[23,24]</a></p>
+                                <div class="bg-yellow-50 p-3 rounded-lg text-xs text-yellow-700">
+                                    <strong>De 'coach-rol':</strong> Niet voor ze beslissen, maar ze leren zelf beslissingen te maken.
+                                </div>
+                            </div>
 
-                    <div class="pillar-card text-center">
-                        <div class="icon-box mb-4 text-accent-red floating-icon">⚖️</div>
-                        <h3 class="text-xl font-bold mb-3 text-accent-red">3. Balans</h3>
-                        <p class="text-sm text-gray-600 leading-relaxed mb-4">Wees een <strong>architect</strong>. Maak duidelijke afspraken over wanneer, waar en hoe lang. Structuur geeft houvast. Denk aan de 20-20-2 regel voor de ogen.<a href="#ref3" class="footnote">[3]</a></p>
-                        <div class="bg-red-50 p-3 rounded-lg text-xs text-red-700">
-                            <strong>De 'huisregels':</strong> Kwaliteit boven kwantiteit, en samen afspraken maken.
+                            <div class="pillar-card text-center">
+                                <div class="icon-box mb-4 text-accent-red floating-icon">⚖️</div>
+                                <h3 class="text-xl font-bold mb-3 text-accent-red">3. Balans</h3>
+                                <p class="text-sm text-gray-600 leading-relaxed mb-4">Wees een <strong>architect</strong>. Maak duidelijke afspraken over wanneer, waar en hoe lang. Structuur geeft houvast. Denk aan de 20-20-2 regel voor de ogen.<a href="#ref3" class="footnote">[3]</a></p>
+                                <div class="bg-red-50 p-3 rounded-lg text-xs text-red-700">
+                                    <strong>De 'huisregels':</strong> Kwaliteit boven kwantiteit, en samen afspraken maken.
+                                </div>
+                            </div>
+                            
+                            <div class="pillar-card text-center">
+                                <div class="icon-box mb-4 text-accent-blue floating-icon">🪞</div>
+                                <h3 class="text-xl font-bold mb-3 text-accent-blue">4. Voorbeeld</h3>
+                                <p class="text-sm text-gray-600 leading-relaxed mb-4">Wees een <strong>rolmodel</strong>. Kinderen kopiëren gedrag. Leg zelf je telefoon weg tijdens het eten. Laat een gezonde balans zien.<a href="#ref3" class="footnote">[3]</a></p>
+                                <div class="bg-blue-50 p-3 rounded-lg text-xs text-blue-700">
+                                    <strong>De 'spiegel':</strong> Als wij de telefoon wegleggen, leren zij dat dat normaal is.
+                                </div>
+                            </div>
                         </div>
                     </div>
-                    
-                    <div class="pillar-card text-center">
-                        <div class="icon-box mb-4 text-accent-blue floating-icon">🪞</div>
-                        <h3 class="text-xl font-bold mb-3 text-accent-blue">4. Voorbeeld</h3>
-                        <p class="text-sm text-gray-600 leading-relaxed mb-4">Wees een <strong>rolmodel</strong>. Kinderen kopiëren gedrag. Leg zelf je telefoon weg tijdens het eten. Laat een gezonde balans zien.<a href="#ref3" class="footnote">[3]</a></p>
-                        <div class="bg-blue-50 p-3 rounded-lg text-xs text-blue-700">
-                            <strong>De 'spiegel':</strong> Als wij de telefoon wegleggen, leren zij dat dat normaal is.
-                        </div>
-                    </div>
-                </div>
+                </details>
             </section>
 
              <section class="card col-span-1 md:col-span-3 lg:col-span-3">
-                <h2 class="text-2xl font-bold mb-4">Praktische Handvatten voor Balans</h2>
-                <p class="text-gray-600 mb-6">Concrete regels helpen om structuur aan te brengen en de fysieke en mentale gezondheid te ondersteunen.<a href="#ref3" class="footnote">[3]</a></p>
-                <div class="grid grid-cols-1 sm:grid-cols-3 gap-3 md:gap-4 text-center">
-                    <div class="p-3 md:p-4 bg-gray-100 rounded-lg">
-                         <p class="text-3xl md:text-4xl font-bold text-accent-blue">1,5</p>
-                         <p class="font-semibold text-sm md:text-base">Uur per dag</p>
-                         <p class="text-xs text-gray-500">Advies voor 8-10 jaar<a href="#ref3" class="footnote">[3]</a></p>
+                <details class="collapsible-on-mobile">
+                    <summary class="summary-style">
+                        <h2 class="inline text-2xl font-bold">Praktische Handvatten voor Balans</h2>
+                    </summary>
+                    <div class="mt-4">
+                        <p class="text-gray-600 mb-6">Concrete regels helpen om structuur aan te brengen en de fysieke en mentale gezondheid te ondersteunen.<a href="#ref3" class="footnote">[3]</a></p>
+                        <div class="grid grid-cols-1 sm:grid-cols-3 gap-3 md:gap-4 text-center">
+                            <div class="p-3 md:p-4 bg-gray-100 rounded-lg">
+                                 <p class="text-3xl md:text-4xl font-bold text-accent-blue">1,5</p>
+                                 <p class="font-semibold text-sm md:text-base">Uur per dag</p>
+                                 <p class="text-xs text-gray-500">Advies voor 8-10 jaar<a href="#ref3" class="footnote">[3]</a></p>
+                            </div>
+                             <div class="p-3 md:p-4 bg-gray-100 rounded-lg">
+                                 <p class="text-3xl md:text-4xl font-bold text-accent-blue">20-20-2</p>
+                                 <p class="font-semibold text-sm md:text-base">De Oog-regel</p>
+                                  <p class="text-xs text-gray-500">20 min scherm, 20 sec verte kijken, 2u buiten<a href="#ref3" class="footnote">[3]</a></p>
+                            </div>
+                             <div class="p-3 md:p-4 bg-gray-100 rounded-lg">
+                                 <div class="text-3xl md:text-4xl font-bold text-accent-blue">🌙</div>
+                                 <p class="font-semibold text-sm md:text-base">Digitale Zonsondergang</p>
+                                  <p class="text-xs text-gray-500">1 uur voor slapen alle schermen uit<a href="#ref3" class="footnote">[3]</a></p>
+                            </div>
+                        </div>
+                        <div class="mt-6">
+                             <h3 class="font-bold text-lg mb-2">Hulpmiddelen voor Ouders</h3>
+                             <p class="text-gray-600 mb-4">Gebruik tools om de gemaakte afspraken te ondersteunen. De meeste apparaten hebben ingebouwde functies voor ouderlijk toezicht (bv. Google Family Link, Apple Schermtijd).<a href="#ref3" class="footnote">[3]</a> Daarnaast zijn er apps zoals <a href="https://monimentor.com" target="_blank" rel="noopener noreferrer" class="font-bold text-accent-blue hover:underline">Monimentor</a> die zich richten op het aanleren van gezonde digitale gewoontes.</p>
+                        </div>
                     </div>
-                     <div class="p-3 md:p-4 bg-gray-100 rounded-lg">
-                         <p class="text-3xl md:text-4xl font-bold text-accent-blue">20-20-2</p>
-                         <p class="font-semibold text-sm md:text-base">De Oog-regel</p>
-                          <p class="text-xs text-gray-500">20 min scherm, 20 sec verte kijken, 2u buiten<a href="#ref3" class="footnote">[3]</a></p>
-                    </div>
-                     <div class="p-3 md:p-4 bg-gray-100 rounded-lg">
-                         <div class="text-3xl md:text-4xl font-bold text-accent-blue">🌙</div>
-                         <p class="font-semibold text-sm md:text-base">Digitale Zonsondergang</p>
-                          <p class="text-xs text-gray-500">1 uur voor slapen alle schermen uit<a href="#ref3" class="footnote">[3]</a></p>
-                    </div>
-                </div>
-                <div class="mt-6">
-                     <h3 class="font-bold text-lg mb-2">Hulpmiddelen voor Ouders</h3>
-                     <p class="text-gray-600 mb-4">Gebruik tools om de gemaakte afspraken te ondersteunen. De meeste apparaten hebben ingebouwde functies voor ouderlijk toezicht (bv. Google Family Link, Apple Schermtijd).<a href="#ref3" class="footnote">[3]</a> Daarnaast zijn er apps zoals <a href="https://monimentor.com" target="_blank" rel="noopener noreferrer" class="font-bold text-accent-blue hover:underline">Monimentor</a> die zich richten op het aanleren van gezonde digitale gewoontes.</p>
-                </div>
+                </details>
             </section>
 
             <section class="card">
-                <h2 class="text-2xl font-bold mb-4">Verrassende Weetjes voor Ouders</h2>
-                <p class="text-gray-600 mb-6">Feiten die je perspectief kunnen veranderen en handvatten bieden voor gesprekken thuis.</p>
-                
-                <div class="space-y-4">
-                    <div class="bg-blue-50 p-4 rounded-lg border-l-4 border-blue-400">
-                        <h3 class="font-semibold text-blue-800 mb-2">🧠 Hersenontwikkeling</h3>
-                        <p class="text-sm text-blue-700">De prefrontale cortex (impulscontrole) is pas rond je <strong>25e volledig ontwikkeld</strong>. Bij 8-10 jarigen is dit nog volop in ontwikkeling.</p>
-                    </div>
+                <details class="collapsible-on-mobile">
+                    <summary class="summary-style">
+                        <h2 class="inline text-2xl font-bold">Verrassende Weetjes voor Ouders</h2>
+                    </summary>
+                    <div class="mt-4">
+                        <p class="text-gray-600 mb-6">Feiten die je perspectief kunnen veranderen en handvatten bieden voor gesprekken thuis.</p>
+                        
+                        <div class="space-y-4">
+                            <div class="bg-blue-50 p-4 rounded-lg border-l-4 border-blue-400">
+                                <h3 class="font-semibold text-blue-800 mb-2">🧠 Hersenontwikkeling</h3>
+                                <p class="text-sm text-blue-700">De prefrontale cortex (impulscontrole) is pas rond je <strong>25e volledig ontwikkeld</strong>. Bij 8-10 jarigen is dit nog volop in ontwikkeling.</p>
+                            </div>
 
-                    <div class="bg-yellow-50 p-4 rounded-lg border-l-4 border-yellow-400">
-                        <h3 class="font-semibold text-yellow-800 mb-2">📱 'Phubbing'</h3>
-                        <p class="text-sm text-yellow-700">Deze term beschrijft het negeren van je gesprekspartner voor je telefoon. Onderzoek toont dat kinderen zich hierdoor <strong>afgewezen voelen</strong>.</p>
-                    </div>
+                            <div class="bg-yellow-50 p-4 rounded-lg border-l-4 border-yellow-400">
+                                <h3 class="font-semibold text-yellow-800 mb-2">📱 'Phubbing'</h3>
+                                <p class="text-sm text-yellow-700">Deze term beschrijft het negeren van je gesprekspartner voor je telefoon. Onderzoek toont dat kinderen zich hierdoor <strong>afgewezen voelen</strong>.</p>
+                            </div>
 
-                    <div class="bg-green-50 p-4 rounded-lg border-l-4 border-green-400">
-                        <h3 class="font-semibold text-green-800 mb-2">🎮 Battle Pass & Beloningen</h3>
-                        <p class="text-sm text-green-700">De dagelijkse beloningen in games als Fortnite en Roblox zijn ontworpen om kinderen <strong>elke dag terug te laten komen</strong>. Dit heet 'persuasive design'.</p>
-                    </div>
+                            <div class="bg-green-50 p-4 rounded-lg border-l-4 border-green-400">
+                                <h3 class="font-semibold text-green-800 mb-2">🎮 Battle Pass & Beloningen</h3>
+                                <p class="text-sm text-green-700">De dagelijkse beloningen in games als Fortnite en Roblox zijn ontworpen om kinderen <strong>elke dag terug te laten komen</strong>. Dit heet 'persuasive design'.</p>
+                            </div>
 
-                    <div class="bg-purple-50 p-4 rounded-lg border-l-4 border-purple-400">
-                        <h3 class="font-semibold text-purple-800 mb-2">📊 Realiteit vs. Advies</h3>
-                        <p class="text-sm text-purple-700">Kinderen van 8-10 jaar zitten gemiddeld <strong>5,5 uur per dag</strong> achter een scherm, terwijl het advies maximaal 1,5 uur is. Je bent niet alleen in deze uitdaging!</p>
+                            <div class="bg-purple-50 p-4 rounded-lg border-l-4 border-purple-400">
+                                <h3 class="font-semibold text-purple-800 mb-2">📊 Realiteit vs. Advies</h3>
+                                <p class="text-sm text-purple-700">Kinderen van 8-10 jaar zitten gemiddeld <strong>5,5 uur per dag</strong> achter een scherm, terwijl het advies maximaal 1,5 uur is. Je bent niet alleen in deze uitdaging!</p>
+                            </div>
+                        </div>
                     </div>
-                </div>
+                </details>
             </section>
 
              <section class="card col-span-1 md:col-span-2 lg:col-span-2">
-                <h2 class="text-2xl font-bold mb-4 gradient-text">Focus op kwaliteit, niet alleen kwantiteit</h2>
-                <p class="text-gray-600 mb-6">Wist je dat de <span class="font-bold text-accent-purple">kwaliteit</span> van schermtijd misschien nog wel belangrijker is dan de duur? Een uur lang iets nieuws leren kan nuttiger zijn dan een uur passief scrollen.<a href="#ref17" class="footnote">[17]</a></p>
-                
-                <div class="space-y-4">
-                    <!-- Groene zone -->
-                    <div class="quality-indicator quality-green">
-                        <div class="flex items-center mb-3">
-                            <span class="text-2xl mr-3">🌟</span>
-                            <h3 class="font-bold text-green-700">Waardevol & Stimulerend</h3>
-                        </div>
-                        <p class="text-sm text-green-700 mb-3 font-medium">Content die ontwikkeling ondersteunt en positieve ervaringen biedt:</p>
-                        <ul class="text-xs text-green-600 space-y-2">
-                            <li>• Creatieve apps (tekenen, muziek maken, video's maken)</li>
-                            <li>• Educatieve games en apps met leerwaarde</li>
-                            <li>• Videobellen met familie en vrienden</li>
-                            <li>• Samen kijken naar kwaliteitsprogramma's</li>
-                        </ul>
-                    </div>
+                <details class="collapsible-on-mobile">
+                    <summary class="summary-style">
+                        <h2 class="inline text-2xl font-bold gradient-text">Focus op kwaliteit, niet alleen kwantiteit</h2>
+                    </summary>
+                    <div class="mt-4">
+                        <p class="text-gray-600 mb-6">Wist je dat de <span class="font-bold text-accent-purple">kwaliteit</span> van schermtijd misschien nog wel belangrijker is dan de duur? Een uur lang iets nieuws leren kan nuttiger zijn dan een uur passief scrollen.<a href="#ref17" class="footnote">[17]</a></p>
+                        
+                        <div class="space-y-4">
+                            <!-- Groene zone -->
+                            <div class="quality-indicator quality-green">
+                                <div class="flex items-center mb-3">
+                                    <span class="text-2xl mr-3">🌟</span>
+                                    <h3 class="font-bold text-green-700">Waardevol & Stimulerend</h3>
+                                </div>
+                                <p class="text-sm text-green-700 mb-3 font-medium">Content die ontwikkeling ondersteunt en positieve ervaringen biedt:</p>
+                                <ul class="text-xs text-green-600 space-y-2">
+                                    <li>• Creatieve apps (tekenen, muziek maken, video's maken)</li>
+                                    <li>• Educatieve games en apps met leerwaarde</li>
+                                    <li>• Videobellen met familie en vrienden</li>
+                                    <li>• Samen kijken naar kwaliteitsprogramma's</li>
+                                </ul>
+                            </div>
 
-                    <!-- Gele zone -->
-                    <div class="quality-indicator quality-yellow">
-                        <div class="flex items-center mb-3">
-                            <span class="text-2xl mr-3">⚠️</span>
-                            <h3 class="font-bold text-yellow-700">Neutraal & Passief</h3>
-                        </div>
-                        <p class="text-sm text-yellow-700 mb-3 font-medium">Content dat vermaakt maar weinig toevoegt aan ontwikkeling:</p>
-                        <ul class="text-xs text-yellow-600 space-y-2">
-                            <li>• Passief kijken naar YouTube of Netflix</li>
-                            <li>• Simpele spelletjes zonder leeraspect</li>
-                            <li>• Mindless scrollen door feeds</li>
-                        </ul>
-                        <p class="text-xs text-yellow-600 mt-3 font-medium">💡 Beperkt OK, maar niet de basis van schermtijd</p>
-                    </div>
+                            <!-- Gele zone -->
+                            <div class="quality-indicator quality-yellow">
+                                <div class="flex items-center mb-3">
+                                    <span class="text-2xl mr-3">⚠️</span>
+                                    <h3 class="font-bold text-yellow-700">Neutraal & Passief</h3>
+                                </div>
+                                <p class="text-sm text-yellow-700 mb-3 font-medium">Content dat vermaakt maar weinig toevoegt aan ontwikkeling:</p>
+                                <ul class="text-xs text-yellow-600 space-y-2">
+                                    <li>• Passief kijken naar YouTube of Netflix</li>
+                                    <li>• Simpele spelletjes zonder leeraspect</li>
+                                    <li>• Mindless scrollen door feeds</li>
+                                </ul>
+                                <p class="text-xs text-yellow-600 mt-3 font-medium">💡 Beperkt OK, maar niet de basis van schermtijd</p>
+                            </div>
 
-                    <!-- Rode zone -->
-                    <div class="quality-indicator quality-red">
-                        <div class="flex items-center mb-3">
-                            <span class="text-2xl mr-3">🚫</span>
-                            <h3 class="font-bold text-red-700">Schadelijk & Manipulatief</h3>
+                            <!-- Rode zone -->
+                            <div class="quality-indicator quality-red">
+                                <div class="flex items-center mb-3">
+                                    <span class="text-2xl mr-3">🚫</span>
+                                    <h3 class="font-bold text-red-700">Schadelijk & Manipulatief</h3>
+                                </div>
+                                <p class="text-sm text-red-700 mb-3 font-medium">Content dat negatieve invloed heeft op ontwikkeling:</p>
+                                <ul class="text-xs text-red-600 space-y-2">
+                                    <li>• Games met agressieve microtransacties</li>
+                                    <li>• Content met 'dark patterns' en verslavende elementen<a href="#ref9" class="footnote">[9,10]</a></li>
+                                    <li>• Ongepaste of angstaanjagende content</li>
+                                    <li>• Apps die persoonlijke data misbruiken</li>
+                                </ul>
+                                <p class="text-xs text-red-600 mt-3 font-medium">⛔ Vermijden of zeer beperkt onder begeleiding</p>
+                            </div>
                         </div>
-                        <p class="text-sm text-red-700 mb-3 font-medium">Content dat negatieve invloed heeft op ontwikkeling:</p>
-                        <ul class="text-xs text-red-600 space-y-2">
-                            <li>• Games met agressieve microtransacties</li>
-                            <li>• Content met 'dark patterns' en verslavende elementen<a href="#ref9" class="footnote">[9,10]</a></li>
-                            <li>• Ongepaste of angstaanjagende content</li>
-                            <li>• Apps die persoonlijke data misbruiken</li>
-                        </ul>
-                        <p class="text-xs text-red-600 mt-3 font-medium">⛔ Vermijden of zeer beperkt onder begeleiding</p>
-                    </div>
-                </div>
 
-                <div class="mt-8 guideline-card">
-                    <h4 class="font-semibold text-accent-purple mb-3 flex items-center">
-                        <span class="mr-2">🎯</span>
-                        Praktische Tip: De "samen-test"
-                    </h4>
-                    <p class="text-sm text-gray-700 leading-relaxed">Vraag jezelf af: "Zou ik dit samen met mijn kind willen doen?" Als het antwoord nee is, is het waarschijnlijk geen kwaliteitscontent voor alleengebruik.</p>
-                </div>
+                        <div class="mt-8 guideline-card">
+                            <h4 class="font-semibold text-accent-purple mb-3 flex items-center">
+                                <span class="mr-2">🎯</span>
+                                Praktische Tip: De "samen-test"
+                            </h4>
+                            <p class="text-sm text-gray-700 leading-relaxed">Vraag jezelf af: "Zou ik dit samen met mijn kind willen doen?" Als het antwoord nee is, is het waarschijnlijk geen kwaliteitscontent voor alleengebruik.</p>
+                        </div>
+                    </div>
+                </details>
             </section>
 
             <section class="card md:col-span-2 lg:col-span-3">
-                <h2 class="text-2xl font-bold mb-4">Reflectie voor Ouders: Stellingen & Vragen</h2>
-                <p class="text-gray-600 mb-6">Deze stellingen en vragen zijn bedoeld om je eigen standpunten te verkennen en gesprekken thuis op gang te brengen. Geen goede of foute antwoorden, alleen bewuste keuzes.</p>
-                
-                <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
-                    <div>
-                        <h3 class="text-lg font-semibold mb-4 text-accent-blue">🤔 Stellingen om over na te denken</h3>
-                        <div class="space-y-4">
-                            <div class="bg-blue-50 p-4 rounded-lg">
-                                <p class="text-sm font-medium text-blue-800 mb-2">"Een uur gamen is slechter voor een kind dan een uur passief tv-kijken."</p>
-                                <p class="text-xs text-blue-600">Wat denk jij? Hangt het af van het type game of programma?</p>
+                <details class="collapsible-on-mobile">
+                    <summary class="summary-style">
+                        <h2 class="inline text-2xl font-bold">Reflectie voor Ouders: Stellingen & Vragen</h2>
+                    </summary>
+                    <div class="mt-4">
+                        <p class="text-gray-600 mb-6">Deze stellingen en vragen zijn bedoeld om je eigen standpunten te verkennen en gesprekken thuis op gang te brengen. Geen goede of foute antwoorden, alleen bewuste keuzes.</p>
+                        
+                        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                            <div>
+                                <h3 class="text-lg font-semibold mb-4 text-accent-blue">🤔 Stellingen om over na te denken</h3>
+                                <div class="space-y-4">
+                                    <div class="bg-blue-50 p-4 rounded-lg">
+                                        <p class="text-sm font-medium text-blue-800 mb-2">"Een uur gamen is slechter voor een kind dan een uur passief tv-kijken."</p>
+                                        <p class="text-xs text-blue-600">Wat denk jij? Hangt het af van het type game of programma?</p>
+                                    </div>
+                                    <div class="bg-blue-50 p-4 rounded-lg">
+                                        <p class="text-sm font-medium text-blue-800 mb-2">"Het goede voorbeeld geven is het moeilijkste onderdeel van mediaopvoeding."</p>
+                                        <p class="text-xs text-blue-600">Herken je dit? Hoe ga jij om met je eigen schermgebruik?</p>
+                                    </div>
+                                    <div class="bg-blue-50 p-4 rounded-lg">
+                                        <p class="text-sm font-medium text-blue-800 mb-2">"De regels over schermtijd maak ik samen mét mijn kind, niet vóór mijn kind."</p>
+                                        <p class="text-xs text-blue-600">Vanaf welke leeftijd kunnen kinderen meedenken over de regels?</p>
+                                    </div>
+                                </div>
                             </div>
-                            <div class="bg-blue-50 p-4 rounded-lg">
-                                <p class="text-sm font-medium text-blue-800 mb-2">"Het goede voorbeeld geven is het moeilijkste onderdeel van mediaopvoeding."</p>
-                                <p class="text-xs text-blue-600">Herken je dit? Hoe ga jij om met je eigen schermgebruik?</p>
+                            
+                            <div>
+                                <h3 class="text-lg font-semibold mb-4 text-accent-green">💬 Gespreksstarters thuis</h3>
+                                <div class="space-y-4">
+                                    <div class="bg-green-50 p-4 rounded-lg">
+                                        <p class="text-sm font-medium text-green-800 mb-2">"Wat is één regel over schermtijd die bij jou thuis écht goed werkt?"</p>
+                                        <p class="text-xs text-green-600">Deel successen en leer van elkaar.</p>
+                                    </div>
+                                    <div class="bg-green-50 p-4 rounded-lg">
+                                        <p class="text-sm font-medium text-green-800 mb-2">"Op welk moment van de dag vind je de 'schermstrijd' het lastigst?"</p>
+                                        <p class="text-xs text-green-600">Ochtend, na school, avond? Praktische tips uitwisselen.</p>
+                                    </div>
+                                    <div class="bg-green-50 p-4 rounded-lg">
+                                        <p class="text-sm font-medium text-green-800 mb-2">"Welke 'broccoli-app' of 'broccoli-website' heeft jouw kind recent ontdekt?"</p>
+                                        <p class="text-xs text-green-600">Deel goede vindplaatsen voor kwaliteitscontent.</p>
+                                    </div>
+                                </div>
                             </div>
-                            <div class="bg-blue-50 p-4 rounded-lg">
-                                <p class="text-sm font-medium text-blue-800 mb-2">"De regels over schermtijd maak ik samen mét mijn kind, niet vóór mijn kind."</p>
-                                <p class="text-xs text-blue-600">Vanaf welke leeftijd kunnen kinderen meedenken over de regels?</p>
+                        </div>
+                        
+                        <div class="mt-8 guideline-card">
+                            <h3 class="font-semibold text-accent-purple mb-4 flex items-center text-lg">
+                                <span class="mr-3">🏠</span>
+                                Praktische Uitdagingen
+                            </h3>
+                            <div class="grid grid-cols-1 md:grid-cols-2 gap-4 text-sm">
+                                <div>
+                                    <h4 class="font-medium text-gray-800 mb-2">📱 PEGI & Leeftijdsadviezen</h4>
+                                    <p class="text-gray-600 leading-relaxed">"Hoe gaan we om met een PEGI 12+ advies (zoals Fortnite) als veel klasgenootjes het al spelen?"</p>
+                                </div>
+                                <div>
+                                    <h4 class="font-medium text-gray-800 mb-2">💰 In-app Aankopen</h4>
+                                    <p class="text-gray-600 leading-relaxed">"V-bucks, Robux, gems... Hoe bespreken we de waarde van virtuele valuta met onze kinderen?"</p>
+                                </div>
+                                <div>
+                                    <h4 class="font-medium text-gray-800 mb-2">👥 Sociale Druk</h4>
+                                    <p class="text-gray-600 leading-relaxed">"Wat als je kind zich buitengesloten voelt omdat het niet mee mag doen aan bepaalde online activiteiten?"</p>
+                                </div>
+                                <div>
+                                    <h4 class="font-medium text-gray-800 mb-2">🏠 Verschillende Regels</h4>
+                                    <p class="text-gray-600 leading-relaxed">"Hoe ga je om met andere gezinnen die veel soepelere of strengere regels hebben?"</p>
+                                </div>
                             </div>
                         </div>
                     </div>
-                    
-                    <div>
-                        <h3 class="text-lg font-semibold mb-4 text-accent-green">💬 Gespreksstarters thuis</h3>
-                        <div class="space-y-4">
-                            <div class="bg-green-50 p-4 rounded-lg">
-                                <p class="text-sm font-medium text-green-800 mb-2">"Wat is één regel over schermtijd die bij jou thuis écht goed werkt?"</p>
-                                <p class="text-xs text-green-600">Deel successen en leer van elkaar.</p>
-                            </div>
-                            <div class="bg-green-50 p-4 rounded-lg">
-                                <p class="text-sm font-medium text-green-800 mb-2">"Op welk moment van de dag vind je de 'schermstrijd' het lastigst?"</p>
-                                <p class="text-xs text-green-600">Ochtend, na school, avond? Praktische tips uitwisselen.</p>
-                            </div>
-                            <div class="bg-green-50 p-4 rounded-lg">
-                                <p class="text-sm font-medium text-green-800 mb-2">"Welke 'broccoli-app' of 'broccoli-website' heeft jouw kind recent ontdekt?"</p>
-                                <p class="text-xs text-green-600">Deel goede vindplaatsen voor kwaliteitscontent.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="mt-8 guideline-card">
-                    <h3 class="font-semibold text-accent-purple mb-4 flex items-center text-lg">
-                        <span class="mr-3">🏠</span>
-                        Praktische Uitdagingen
-                    </h3>
-                    <div class="grid grid-cols-1 md:grid-cols-2 gap-4 text-sm">
-                        <div>
-                            <h4 class="font-medium text-gray-800 mb-2">📱 PEGI & Leeftijdsadviezen</h4>
-                            <p class="text-gray-600 leading-relaxed">"Hoe gaan we om met een PEGI 12+ advies (zoals Fortnite) als veel klasgenootjes het al spelen?"</p>
-                        </div>
-                        <div>
-                            <h4 class="font-medium text-gray-800 mb-2">💰 In-app Aankopen</h4>
-                            <p class="text-gray-600 leading-relaxed">"V-bucks, Robux, gems... Hoe bespreken we de waarde van virtuele valuta met onze kinderen?"</p>
-                        </div>
-                        <div>
-                            <h4 class="font-medium text-gray-800 mb-2">👥 Sociale Druk</h4>
-                            <p class="text-gray-600 leading-relaxed">"Wat als je kind zich buitengesloten voelt omdat het niet mee mag doen aan bepaalde online activiteiten?"</p>
-                        </div>
-                        <div>
-                            <h4 class="font-medium text-gray-800 mb-2">🏠 Verschillende Regels</h4>
-                            <p class="text-gray-600 leading-relaxed">"Hoe ga je om met andere gezinnen die veel soepelere of strengere regels hebben?"</p>
-                        </div>
-                    </div>
-                </div>
+                </details>
             </section>
 
             <section class="card md:col-span-2 lg:col-span-3">
-                <h2 class="text-2xl font-bold mb-4">Bronnen & Handige Links</h2>
-                <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
-                    <div>
-                        <h3 class="text-lg font-semibold mb-3">Bronnen</h3>
-                        <ul class="list-disc list-inside text-sm space-y-2">
-                            <li><a href="https://open.overheid.nl/documenten/e8f325dd-a4b4-4b5e-a4ba-97c33449c183/file" target="_blank" rel="noopener noreferrer" class="text-accent-blue hover:underline">Richtlijn Gezond Schermgebruik (2025)</a> - Koning, Vossen, Brons & van den Eijnden</li>
-                            <li>Wetenschappelijke inzichten over digitale weerbaarheid en het kinderbrein (diverse publicaties)</li>
-                        </ul>
+                <details class="collapsible-on-mobile">
+                    <summary class="summary-style">
+                        <h2 class="inline text-2xl font-bold">Bronnen & Handige Links</h2>
+                    </summary>
+                    <div class="mt-4">
+                        <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                            <div>
+                                <h3 class="text-lg font-semibold mb-3">Bronnen</h3>
+                                <ul class="list-disc list-inside text-sm space-y-2">
+                                    <li><a href="https://open.overheid.nl/documenten/e8f325dd-a4b4-4b5e-a4ba-97c33449c183/file" target="_blank" rel="noopener noreferrer" class="text-accent-blue hover:underline">Richtlijn Gezond Schermgebruik (2025)</a> - Koning, Vossen, Brons & van den Eijnden</li>
+                                    <li>Wetenschappelijke inzichten over digitale weerbaarheid en het kinderbrein (diverse publicaties)</li>
+                                </ul>
+                            </div>
+                            <div>
+                                <h3 class="text-lg font-semibold mb-3">Handige Links voor Ouders</h3>
+                                <ul class="list-disc list-inside text-sm space-y-2">
+                                    <li><a href="https://www.mediawijsheid.nl/ouders" target="_blank" rel="noopener noreferrer" class="text-accent-blue hover:underline">Mediawijsheid.nl</a> - Praktische tips en de MediaDiamant</li>
+                                    <li><a href="https://www.kijkwijzer.nl" target="_blank" rel="noopener noreferrer" class="text-accent-blue hover:underline">Kijkwijzer.nl</a> - Leeftijdsadviezen, uitleg over sociale media- en gameplatforms</li>
+                                    <li><a href="https://www.gamewijzer.nl" target="_blank" rel="noopener noreferrer" class="text-accent-blue hover:underline">Gamewijzer.nl</a> - Alles wat je als opvoeder moet weten over populaire games</li>
+                                    <li><a href="https://www.kijkwijzer.nl/ouderlijk-toezicht" target="_blank" rel="noopener noreferrer" class="text-accent-blue hover:underline">Ouderlijk toezicht instellen</a> - Overzicht van alle mogelijkheden per apparaat of app</li>
+                                    <li><a href="https://pegi.info/nl" target="_blank" rel="noopener noreferrer" class="text-accent-blue hover:underline">PEGI.info</a> - Leeftijdsadvies voor games</li>
+                                    <li><a href="https://mediasmarties.nl/mediagids" target="_blank" rel="noopener noreferrer" class="text-accent-blue hover:underline">Online Mediagids (Mediasmarties)</a> - Geschikte media voor kinderen van 1 tot 12 jaar</li>
+                                    <li><a href="https://www.kennisnet.nl/artikel/creatieve-apps-en-websites" target="_blank" rel="noopener noreferrer" class="text-accent-blue hover:underline">Creatieve apps en websites</a> - Voor kinderen van 7 tot 12 jaar (Kennisnet)</li>
+                                    <li><a href="https://www.mijnkindonline.nl/leerzame-apps" target="_blank" rel="noopener noreferrer" class="text-accent-blue hover:underline">Leerzame apps</a> - Voor kinderen van 4 tot 12 jaar (Mijn kind Online)</li>
+                                    <li><a href="https://www.bibliotheek.nl/jeugd" target="_blank" rel="noopener noreferrer" class="text-accent-blue hover:underline">Jeugdbibliotheek</a> - Boekentips en voorleesfilmpjes, gratis lidmaatschap tot 18 jaar</li>
+                                    <li><a href="https://www.nji.nl/mediaopvoeding" target="_blank" rel="noopener noreferrer" class="text-accent-blue hover:underline">Nederlands Jeugdinstituut (NJi)</a> - Uitgebreide info over mediaopvoeding</li>
+                                </ul>
+                            </div>
+                        </div>
                     </div>
-                    <div>
-                        <h3 class="text-lg font-semibold mb-3">Handige Links voor Ouders</h3>
-                        <ul class="list-disc list-inside text-sm space-y-2">
-                            <li><a href="https://www.mediawijsheid.nl/ouders" target="_blank" rel="noopener noreferrer" class="text-accent-blue hover:underline">Mediawijsheid.nl</a> - Praktische tips en de MediaDiamant</li>
-                            <li><a href="https://www.kijkwijzer.nl" target="_blank" rel="noopener noreferrer" class="text-accent-blue hover:underline">Kijkwijzer.nl</a> - Leeftijdsadviezen, uitleg over sociale media- en gameplatforms</li>
-                            <li><a href="https://www.gamewijzer.nl" target="_blank" rel="noopener noreferrer" class="text-accent-blue hover:underline">Gamewijzer.nl</a> - Alles wat je als opvoeder moet weten over populaire games</li>
-                            <li><a href="https://www.kijkwijzer.nl/ouderlijk-toezicht" target="_blank" rel="noopener noreferrer" class="text-accent-blue hover:underline">Ouderlijk toezicht instellen</a> - Overzicht van alle mogelijkheden per apparaat of app</li>
-                            <li><a href="https://pegi.info/nl" target="_blank" rel="noopener noreferrer" class="text-accent-blue hover:underline">PEGI.info</a> - Leeftijdsadvies voor games</li>
-                            <li><a href="https://mediasmarties.nl/mediagids" target="_blank" rel="noopener noreferrer" class="text-accent-blue hover:underline">Online Mediagids (Mediasmarties)</a> - Geschikte media voor kinderen van 1 tot 12 jaar</li>
-                            <li><a href="https://www.kennisnet.nl/artikel/creatieve-apps-en-websites" target="_blank" rel="noopener noreferrer" class="text-accent-blue hover:underline">Creatieve apps en websites</a> - Voor kinderen van 7 tot 12 jaar (Kennisnet)</li>
-                            <li><a href="https://www.mijnkindonline.nl/leerzame-apps" target="_blank" rel="noopener noreferrer" class="text-accent-blue hover:underline">Leerzame apps</a> - Voor kinderen van 4 tot 12 jaar (Mijn kind Online)</li>
-                            <li><a href="https://www.bibliotheek.nl/jeugd" target="_blank" rel="noopener noreferrer" class="text-accent-blue hover:underline">Jeugdbibliotheek</a> - Boekentips en voorleesfilmpjes, gratis lidmaatschap tot 18 jaar</li>
-                            <li><a href="https://www.nji.nl/mediaopvoeding" target="_blank" rel="noopener noreferrer" class="text-accent-blue hover:underline">Nederlands Jeugdinstituut (NJi)</a> - Uitgebreide info over mediaopvoeding</li>
-                        </ul>
-                    </div>
-                </div>
+                </details>
             </section>
 
         </main>
+
+
+        <!-- Wetenschappelijke Referenties -->
+        <section class="mt-12 md:mt-16 pt-6 md:pt-8 border-t border-gray-300 px-4">
+            <details class="collapsible-on-mobile">
+                <summary class="summary-style text-center">
+                    <h2 class="inline text-xl md:text-2xl font-bold">Wetenschappelijke Referenties</h2>
+                </summary>
+                <div class="mt-4 md:mt-6 max-w-4xl mx-auto text-xs text-gray-600 space-y-2">
+                    <p id="ref1">[1] Casey, B. J., Tottenham, N., Liston, C., & Durston, S. (2005). Imaging the developing brain: what have we learned about cognitive development? <em>Trends in Cognitive Sciences</em>, 9(3), 104-110.</p>
+                    <p id="ref2">[2] Diamond, A. (2013). Executive functions. <em>Annual Review of Psychology</em>, 64, 135-168.</p>
+                    <p id="ref3">[3] Koning, I., Vossen, H., Brons, A., & van den Eijnden, R. (2025). <em>Richtlijn Gezond Schermgebruik</em>. Trimbos-instituut.</p>
+                    <p id="ref4">[4] Hale, L., & Guan, S. (2015). Screen time and sleep among school-aged children and adolescents: a systematic literature review. <em>Sleep Medicine Reviews</em>, 21, 50-58.</p>
+                    <p id="ref5">[5] Madigan, S., Browne, D., Racine, N., Mori, C., & Tough, S. (2019). Association between screen time and children's performance on a developmental screening test. <em>JAMA Pediatrics</em>, 173(3), 244-250.</p>
+                    <p id="ref6">[6] Christakis, D. A., Zimmerman, F. J., DiGiuseppe, D. L., & McCarty, C. A. (2004). Early television exposure and subsequent attentional problems in children. <em>Pediatrics</em>, 113(4), 708-713.</p>
+                    <p id="ref7">[7] Harris, T. (2016). How technology is hijacking your mind — from a magician and Google design ethicist. <em>Medium</em>.</p>
+                    <p id="ref8">[8] Alter, A. (2017). <em>Irresistible: The rise of addictive technology and the business of keeping us hooked</em>. Penguin Press.</p>
+                    <p id="ref9">[9] Gray, C. M., Kou, Y., Battles, B., Hoggatt, J., & Toombs, A. L. (2018). The dark (patterns) side of UX design. <em>CHI Conference on Human Factors in Computing Systems</em>.</p>
+                    <p id="ref10">[10] Mathur, A., Acar, G., Friedman, M. J., Lucherini, E., Mayer, J., Chetty, M., & Narayanan, A. (2019). Dark patterns at scale: Findings from a crawl of 11K shopping websites. <em>Proceedings of the ACM on Human-Computer Interaction</em>, 3(CSCW), 1-32.</p>
+                    <p id="ref11">[11] Przybylski, A. K., Murayama, K., DeHaan, C. R., & Gladwell, V. (2013). Motivational, emotional, and behavioral correlates of fear of missing out. <em>Computers in Human Behavior</em>, 29(4), 1841-1848.</p>
+                    <p id="ref12">[12] Zuboff, S. (2019). <em>The age of surveillance capitalism: The fight for a human future at the new frontier of power</em>. PublicAffairs.</p>
+                    <p id="ref13">[13] Chang, A. M., Aeschbach, D., Duffy, J. F., & Czeisler, C. A. (2015). Evening use of light-emitting eReaders negatively affects sleep, circadian timing, and next-morning alertness. <em>Proceedings of the National Academy of Sciences</em>, 112(4), 1232-1237.</p>
+                    <p id="ref14">[14] Kowalski, R. M., Giumetti, G. W., Schroeder, A. N., & Lattanner, M. R. (2014). Bullying in the digital age: A critical review and meta-analysis of cyberbullying research among youth. <em>Psychological Bulletin</em>, 140(4), 1073-1137.</p>
+                    <p id="ref15">[15] Reich, S. M., Subrahmanyam, K., & Espinoza, G. (2012). Friending, IMing, and hanging out face-to-face: overlap in adolescents' online and offline social networks. <em>Developmental Psychology</em>, 48(2), 356-368.</p>
+                    <p id="ref16">[16] Hirsh‐Pasek, K., Zosh, J. M., Golinkoff, R. M., Gray, J. H., Robb, M. B., & Kaufman, J. (2015). Putting education in "educational" apps: lessons from the science of learning. <em>Psychological Science in the Public Interest</em>, 16(1), 3-34.</p>
+                    <p id="ref17">[17] Domoff, S. E., Radesky, J. S., Harrison, K., Riley, H., Lumeng, J. C., & Miller, A. L. (2019). A naturalistic study of child and family screen-media and mobile device use. <em>Journal of Child and Family Studies</em>, 28(2), 391-403.</p>
+                    <p id="ref18">[18] Piaget, J. (1977). <em>The development of thought: Equilibration of cognitive structures</em>. Viking Press.</p>
+                    <p id="ref19">[19] Blades, M., Oates, C., Blumberg, F., & Gunter, B. (2014). <em>Advertising to children: New directions, new media</em>. Palgrave Macmillan.</p>
+                    <p id="ref20">[20] Mesch, G. S. (2009). Parental mediation, online activities, and cyberbullying. <em>CyberPsychology & Behavior</em>, 12(4), 387-393.</p>
+                    <p id="ref21">[21] Livingstone, S., & Helsper, E. J. (2008). Parental mediation of children's internet use. <em>Journal of Broadcasting & Electronic Media</em>, 52(4), 581-599.</p>
+                    <p id="ref22">[22] Radesky, J. S., Schumacher, J., & Zuckerman, B. (2015). Mobile and interactive media use by young children: the good, the bad, and the unknown. <em>Pediatrics</em>, 135(1), 1-3.</p>
+                    <p id="ref23">[23] Hobbs, R. (2010). Digital and media literacy: A plan of action. <em>The Aspen Institute</em>.</p>
+                    <p id="ref24">[24] Boyd, D. (2014). <em>It's complicated: The social lives of networked teens</em>. Yale University Press.</p>
+                    <p id="ref25">[25] Zillmann, D. (2000). Mood management in the context of selective exposure theory. <em>Communication Yearbook</em>, 23, 103-123.</p>
+                    <p id="ref26">[26] Nederlands Instituut voor de Classificatie van Audiovisuele Media (NICAM). Kijkwijzer - Leeftijdsclassificatie.</p>
+                    <p id="ref27">[27] Blum-Ross, A., & Livingstone, S. (2017). "Sharenting," parent blogging, and the boundaries of the digital self. <em>Popular Communication</em>, 15(2), 110-125.</p>
+                    <p id="ref28">[28] Steinberg, S. (2017). Sharenting: The new, uncharted territory of parenting in the digital age. <em>The New York Times</em>.</p>
+                    <p id="ref29">[29] World Health Organization (2019). Guidelines on physical activity, sedentary behaviour and sleep for children under 5 years of age. Geneva: World Health Organization. & American Academy of Pediatrics (2016). Media and Young Minds. <em>Pediatrics</em>, 138(5).</p>
+                    <p id="ref30">[30] Rideout, V., Peebles, A., Mann, S., & Robb, M. B. (2022). The Common Sense census: Media use by tweens and teens, 2021. Common Sense Media.</p>
+                </div>
+            </details>
+        </section>
+
 
         <footer class="text-center mt-12 md:mt-16 pt-8 md:pt-12 pb-6 md:pb-8 border-t border-gray-200 px-4">
             <div class="mb-6 md:mb-8">
@@ -748,53 +891,36 @@
                 </a>
             </div>
             <div class="text-xs md:text-sm text-gray-500 space-y-2">
-                <p><strong>Een maatschappelijke uitdaging:</strong> Dit is niet meer zomaar een opvoedvraagstukje, maar een serieuze uitdaging voor de gezondheid en het welzijn van een hele generatie.</p>
                 <p>Deze gids is gebaseerd op de 'Richtlijn Gezond Schermgebruik' (2025) en ontwikkeld door <a href="https://monimentor.com" target="_blank" rel="noopener noreferrer" class="text-accent-purple hover:underline font-medium">Monimentor</a>.</p>
                 <p class="text-xs text-gray-400">Bijgewerkt op 11 juli 2025 - Geschikt voor ouderavonden en praktisch gebruik</p>
             </div>
         </footer>
-
-        <!-- Wetenschappelijke Referenties -->
-        <section class="mt-12 md:mt-16 pt-6 md:pt-8 border-t border-gray-300 px-4">
-            <h2 class="text-xl md:text-2xl font-bold mb-4 md:mb-6 text-center">Wetenschappelijke Referenties</h2>
-            <div class="max-w-4xl mx-auto text-xs text-gray-600 space-y-2">
-                <p id="ref1">[1] Casey, B. J., Tottenham, N., Liston, C., & Durston, S. (2005). Imaging the developing brain: what have we learned about cognitive development? <em>Trends in Cognitive Sciences</em>, 9(3), 104-110.</p>
-                <p id="ref2">[2] Diamond, A. (2013). Executive functions. <em>Annual Review of Psychology</em>, 64, 135-168.</p>
-                <p id="ref3">[3] Koning, I., Vossen, H., Brons, A., & van den Eijnden, R. (2025). <em>Richtlijn Gezond Schermgebruik</em>. Trimbos-instituut.</p>
-                <p id="ref4">[4] Hale, L., & Guan, S. (2015). Screen time and sleep among school-aged children and adolescents: a systematic literature review. <em>Sleep Medicine Reviews</em>, 21, 50-58.</p>
-                <p id="ref5">[5] Madigan, S., Browne, D., Racine, N., Mori, C., & Tough, S. (2019). Association between screen time and children's performance on a developmental screening test. <em>JAMA Pediatrics</em>, 173(3), 244-250.</p>
-                <p id="ref6">[6] Christakis, D. A., Zimmerman, F. J., DiGiuseppe, D. L., & McCarty, C. A. (2004). Early television exposure and subsequent attentional problems in children. <em>Pediatrics</em>, 113(4), 708-713.</p>
-                <p id="ref7">[7] Harris, T. (2016). How technology is hijacking your mind — from a magician and Google design ethicist. <em>Medium</em>.</p>
-                <p id="ref8">[8] Alter, A. (2017). <em>Irresistible: The rise of addictive technology and the business of keeping us hooked</em>. Penguin Press.</p>
-                <p id="ref9">[9] Gray, C. M., Kou, Y., Battles, B., Hoggatt, J., & Toombs, A. L. (2018). The dark (patterns) side of UX design. <em>CHI Conference on Human Factors in Computing Systems</em>.</p>
-                <p id="ref10">[10] Mathur, A., Acar, G., Friedman, M. J., Lucherini, E., Mayer, J., Chetty, M., & Narayanan, A. (2019). Dark patterns at scale: Findings from a crawl of 11K shopping websites. <em>Proceedings of the ACM on Human-Computer Interaction</em>, 3(CSCW), 1-32.</p>
-                <p id="ref11">[11] Przybylski, A. K., Murayama, K., DeHaan, C. R., & Gladwell, V. (2013). Motivational, emotional, and behavioral correlates of fear of missing out. <em>Computers in Human Behavior</em>, 29(4), 1841-1848.</p>
-                <p id="ref12">[12] Zuboff, S. (2019). <em>The age of surveillance capitalism: The fight for a human future at the new frontier of power</em>. PublicAffairs.</p>
-                <p id="ref13">[13] Chang, A. M., Aeschbach, D., Duffy, J. F., & Czeisler, C. A. (2015). Evening use of light-emitting eReaders negatively affects sleep, circadian timing, and next-morning alertness. <em>Proceedings of the National Academy of Sciences</em>, 112(4), 1232-1237.</p>
-                <p id="ref14">[14] Kowalski, R. M., Giumetti, G. W., Schroeder, A. N., & Lattanner, M. R. (2014). Bullying in the digital age: A critical review and meta-analysis of cyberbullying research among youth. <em>Psychological Bulletin</em>, 140(4), 1073-1137.</p>
-                <p id="ref15">[15] Reich, S. M., Subrahmanyam, K., & Espinoza, G. (2012). Friending, IMing, and hanging out face-to-face: overlap in adolescents' online and offline social networks. <em>Developmental Psychology</em>, 48(2), 356-368.</p>
-                <p id="ref16">[16] Hirsh‐Pasek, K., Zosh, J. M., Golinkoff, R. M., Gray, J. H., Robb, M. B., & Kaufman, J. (2015). Putting education in "educational" apps: lessons from the science of learning. <em>Psychological Science in the Public Interest</em>, 16(1), 3-34.</p>
-                <p id="ref17">[17] Domoff, S. E., Radesky, J. S., Harrison, K., Riley, H., Lumeng, J. C., & Miller, A. L. (2019). A naturalistic study of child and family screen-media and mobile device use. <em>Journal of Child and Family Studies</em>, 28(2), 391-403.</p>
-                <p id="ref18">[18] Piaget, J. (1977). <em>The development of thought: Equilibration of cognitive structures</em>. Viking Press.</p>
-                <p id="ref19">[19] Blades, M., Oates, C., Blumberg, F., & Gunter, B. (2014). <em>Advertising to children: New directions, new media</em>. Palgrave Macmillan.</p>
-                <p id="ref20">[20] Mesch, G. S. (2009). Parental mediation, online activities, and cyberbullying. <em>CyberPsychology & Behavior</em>, 12(4), 387-393.</p>
-                <p id="ref21">[21] Livingstone, S., & Helsper, E. J. (2008). Parental mediation of children's internet use. <em>Journal of Broadcasting & Electronic Media</em>, 52(4), 581-599.</p>
-                <p id="ref22">[22] Radesky, J. S., Schumacher, J., & Zuckerman, B. (2015). Mobile and interactive media use by young children: the good, the bad, and the unknown. <em>Pediatrics</em>, 135(1), 1-3.</p>
-                <p id="ref23">[23] Hobbs, R. (2010). Digital and media literacy: A plan of action. <em>The Aspen Institute</em>.</p>
-                <p id="ref24">[24] Boyd, D. (2014). <em>It's complicated: The social lives of networked teens</em>. Yale University Press.</p>
-                <p id="ref25">[25] Zillmann, D. (2000). Mood management in the context of selective exposure theory. <em>Communication Yearbook</em>, 23, 103-123.</p>
-                <p id="ref26">[26] Nederlands Instituut voor de Classificatie van Audiovisuele Media (NICAM). Kijkwijzer - Leeftijdsclassificatie.</p>
-                <p id="ref27">[27] Blum-Ross, A., & Livingstone, S. (2017). "Sharenting," parent blogging, and the boundaries of the digital self. <em>Popular Communication</em>, 15(2), 110-125.</p>
-                <p id="ref28">[28] Steinberg, S. (2017). Sharenting: The new, uncharted territory of parenting in the digital age. <em>The New York Times</em>.</p>
-                <p id="ref29">[29] World Health Organization (2019). Guidelines on physical activity, sedentary behaviour and sleep for children under 5 years of age. Geneva: World Health Organization. & American Academy of Pediatrics (2016). Media and Young Minds. <em>Pediatrics</em>, 138(5).</p>
-                <p id="ref30">[30] Rideout, V., Peebles, A., Mann, S., & Robb, M. B. (2022). The Common Sense census: Media use by tweens and teens, 2021. Common Sense Media.</p>
-            </div>
-        </section>
 
     </div>
 
     <script>
         // Chart.js is loaded but not used in current implementation
         // Keeping the script tag in case future charts are needed
+
+        function setDesktopCollapsibleState() {
+            // Use the 'lg' breakpoint from Tailwind (1024px)
+            if (window.innerWidth >= 1024) {
+                document.querySelectorAll('.collapsible-on-mobile').forEach(section => {
+                    if (!section.open) {
+                        section.open = true;
+                    }
+                });
+            }
+        }
+
+        // Run on initial load
+        document.addEventListener('DOMContentLoaded', setDesktopCollapsibleState);
+
+        // Run on window resize (debounced for performance)
+        let resizeTimeout;
+        window.addEventListener('resize', () => {
+            clearTimeout(resizeTimeout);
+            resizeTimeout = setTimeout(setDesktopCollapsibleState, 150);
+        });
     </script>
 </body>
