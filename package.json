@@ -4,9 +4,11 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "tailwind:build": "npx tailwindcss -i ./src/input.css -o ./docs/output.css --minify",
-    "tailwind:watch": "npx tailwindcss -i ./src/input.css -o ./docs/output.css --watch",
-    "copy": "mkdir -p docs/assets && cp index.html docs/index.html && cp -R assets/* docs/assets/",
+    "tailwind:build": "tailwindcss -i ./src/input.css -o ./docs/output.css --minify",
+    "tailwind:watch": "tailwindcss -i ./src/input.css -o ./docs/output.css --watch",
+    "copy:html": "cp index.html docs/index.html",
+    "copy:assets": "mkdir -p docs/assets && cp -R assets/* docs/assets/",
+    "copy": "npm run copy:html && npm run copy:assets",
     "dev": "npm run copy && npm run tailwind:watch",
     "build": "npm run copy && npm run tailwind:build"
   },
@@ -25,7 +27,7 @@
   "devDependencies": {
     "autoprefixer": "^10.4.21",
     "postcss": "^8.5.3",
-    "tailwindcss": "^4.1.11"
+    "tailwindcss": "^4.1.17"
   },
   "type": "commonjs"
 }
