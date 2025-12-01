@@ -16,10 +16,10 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,100..900&display=swap" rel="stylesheet">
-    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
-    <!--<link rel="manifest" href="/assets/site.webmanifest"> -->
+    <link rel="apple-touch-icon" sizes="180x180" href="./assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="./assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="./assets/favicon-16x16.png">
+    <!--<link rel="manifest" href="./assets/site.webmanifest"> -->
 
   
     <style>
@@ -86,8 +86,8 @@
         .animated-text-reveal .word-wrapper span { 
             display: inline-block; 
             white-space: pre; 
-            opacity: 0.3;
-            color: rgba(61, 61, 61, 0.35); 
+            opacity: 0.5; /* Increased for better visibility */
+            color: rgba(61, 61, 61, 0.5); /* Adjusted for better contrast */
             transform: translateY(2px) scale(0.98); 
             transition: color 0.1s ease-out, transform 0.1s ease-out, opacity 0.1s ease-out; 
         }
@@ -99,16 +99,15 @@
 <body class="font-['Inter',_sans-serif] text-neutral-700 antialiased scroll-smooth bg-gradient-to-r from-accent-teal-light via-[#f0f4f8] to-[#f8fcf0] min-h-full flex flex-col items-center justify-start p-0 m-0 w-full">
 
 <!-- logo header-->
-<header class="bg-primary-50 sticky top-0 z-50 w-full inset-shadow-sm py-2">
+<header class="bg-neutral-50 sticky top-0 z-50 w-full inset-shadow-sm py-2">
   <div class=" container mx-auto px-4 sm:px-6 lg:px-8">
     <div class="flex flex-col items-center">
       
     
-          <img class="h-8 w-auto mx-auto" src="/assets/Logo_Moni.png" alt="Monimentor Logo">
-    
+          <span class="text-primary-600 text-2xl font-bold mx-auto">Monimentor</span>
         
-        <p class="text-gray-500 whitespace-nowrap">
-          <span class="text-[10px]">de app voor een digitaal gezond gezin.</span>
+        <p class="text-neutral-600 whitespace-nowrap">
+          <span class="text-xs">de app voor een digitaal gezond gezin.</span>
         </p>
       
       
@@ -123,13 +122,14 @@
         
             <div class="w-full flex justify-center bg-accent-teal-light rounded-[20px] overflow-hidden mb-4 max-w-[300px] sm:max-w-[250px] md:max-w-[300px] shadow-md">
                 <video id="heroVideo" class="block w-full h-auto bg-transparent pointer-events-none" autoplay loop muted playsinline>
-                    <source src="/assets/Moni_dances_around.webm" type="video/webm">
+                    <source src="./assets/Moni_dances_around.webm" type="video/webm">
                     Your browser does not support the video tag.
                 </video>
             </div>
             <div class="hero-text-container max-w-[800px] w-[90%] sm:w-full text-center px-4">
-                <h1 class="text-3xl sm:text-4xl md:text-5xl font-bold text-neutral-700 mb-6 fade-in-up">
-                    Van schermstrijd naar <span class="text-primary-600">digitale veerkracht</span>
+                <h1 class="text-3xl sm:text-4xl md:text-5xl font-bold text-neutral-700 mb-6 fade-in-up flex flex-col items-center">
+                    <span>Van schermstrijd naar een</span>
+                    <span class="text-primary-600">digitaal gezonde generatie</span>
                 </h1>
                 <p class="text-base sm:text-lg md:text-xl text-neutral-600 mb-8 fade-in-up">
                     Wij zijn Maarten en Bas, vaders en techneuten. Net als jullie ervaren wij de dagelijkse 'schermstrijd'. Daarom hebben we Monimentor gecreëerd: een positieve gids voor jullie gezin. Samen met Moni helpen we kinderen om veerkrachtig en zelfverzekerd de digitale wereld te ontdekken.
@@ -177,7 +177,7 @@
                             Jouw kind op weg naar <span class="text-primary-600">digitale vrijheid</span>
                         </h2>
                         <p class="text-neutral-600 max-w-2xl mx-auto text-base sm:text-lg mt-4 text-center leading-tight relative z-[2] animated-text-reveal" id="solutionParagraph">
-                            Monimentor is méér dan ouderlijk toezicht. Het is een intelligente en compassievolle <span class="font-semibold text-accent-teal">digitale mentor</span> die kinderen begeleidt op hun unieke 'Digitale Vrijheid Pad'. Door te focussen op het aanleren van vaardigheden, niet op beperkingen, bouwen we aan duurzame digitale veerkracht en zelfvertrouwen.
+                            Monimentor is méér dan ouderlijk toezicht. Het is een intelligente en compassievolle <span class="font-semibold text-accent-teal">digitale mentor</span> die kinderen begeleidt op hun unieke 'Weg naar Digitale Zelfstandigheid'. Door te focussen op het aanleren van vaardigheden, niet op beperkingen, bouwen we aan duurzame digitale veerkracht en zelfvertrouwen.
                         </p>
                     </div>
 
@@ -185,7 +185,13 @@
                         <div class="fade-in-up">
                             <h3 class="text-xl sm:text-2xl font-semibold text-neutral-700 mb-4">Empowerment: Bouwen aan Digitale Weerbaarheid en Gezondheid</h3>
                             <p class="text-neutral-600 mb-4 text-sm sm:text-base">
-                                Voortbouwend op groeiende wetenschappelijke inzichten, weten we dat duurzame digitale weerbaarheid en een gezond digitaal leven niet voortkomen uit strikte controle, maar door actieve deelname en het leren van ervaringen in een veilige, adaptieve omgeving. Monimentor biedt de 'zijwieltjes' voor dit proces. Door kinderen te coachen in plaats van te beperken, stelt Monimentor hen in staat om kritisch denkvermogen en zelfregulatie te ontwikkelen. Dit is essentieel om veerkrachtig te zijn in een digitale wereld die constant om aandacht strijdt, en bereidt hen voor op een zelfstandig en gezond digitaal volwassen leven.
+                                Duurzame digitale weerbaarheid en een gezond digitaal leven ontstaan door actief exploratief leren, het maken van fouten en het leren beheersen van risico's in een veilige, adaptieve omgeving. Monimentor biedt de 'zijwieltjes' voor dit proces.
+                            </p>
+                            <p class="text-neutral-600 mb-4 text-sm sm:text-base">
+                                Door kinderen te coachen en ruimte te geven om te experimenteren en te leren van hun ervaringen, in plaats van strikt te beperken, ontwikkelen zij kritisch denkvermogen en zelfregulatie. Dit is essentieel om veerkrachtig te zijn in een digitale wereld die constant om aandacht strijdt, en bereidt hen voor op een zelfstandig en gezond digitaal volwassen leven.
+                            </p>
+                            <p class="text-neutral-600 mb-4 text-sm sm:text-base">
+                                Deze benadering is wetenschappelijk onderbouwd door theorieën over onder andere 'Beneficial Risk', 'Productive Failure' en 'Scaffolding'. Meer details over ons wetenschappelijk kader vindt u in onze uitgebreide documentatie.
                             </p>
                             <h3 class="text-xl sm:text-2xl font-semibold text-neutral-700 mb-4">Kwaliteit boven kwantiteit: de Digital Nutrition Engine</h3>
                             <p class="text-neutral-600 text-sm sm:text-base">
@@ -194,12 +200,18 @@
                         </div>
                         <div class="text-center fade-in-up">
                             <div class="inline-block p-6 sm:p-8 bg-white rounded-xl shadow-xl">
-                                <div class="mx-auto w-[100px] h-[100px] sm:w-[120px] sm:h-[120px] text-[3rem] rounded-full p-[3%] bg-primary-500 flex items-center justify-center overflow-hidden">
-                                     <img src="/assets/Moni_waving.gif" alt="Moni Character Waving" class="w-full h-full object-cover" onerror="this.style.display='none'; this.parentElement.innerHTML = '<span class=\'text-white text-4xl\'>Moni</span>';">
+                                <div class="flex flex-wrap justify-center items-center gap-4 sm:gap-6 p-4">
+                                    <video class="block w-[70px] sm:w-[80px] h-auto bg-transparent pointer-events-none rounded-full md:w-[100px] lg:w-[120px]" autoplay loop muted playsinline>
+                                        <source src="./assets/2_MONI_focused.webm" type="video/webm">
+                                    </video>
+                                    <video class="block w-[70px] sm:w-[80px] h-auto bg-transparent pointer-events-none rounded-full md:w-[100px] lg:w-[120px]" autoplay loop muted playsinline>
+                                        <source src="./assets/5_MONI_sleeping.webm" type="video/webm">
+                                    </video>
+                                    <video class="block w-[70px] sm:w-[80px] h-auto bg-transparent pointer-events-none rounded-full md:w-[100px] lg:w-[120px]" autoplay loop muted playsinline>
+                                        <source src="./assets/1_MONI_VolEnergie.webm" type="video/webm">
+                                    </video>
                                 </div>
-                                <p class="mt-4 text-lg sm:text-xl font-semibold text-neutral-700">Ontmoet Moni!</p>
-                                <p class="text-neutral-600 text-sm sm:text-base">De vriendelijke gids van jullie gezin naar een gezonder digitaal leven.</p>
-                                <p class="text-xs sm:text-sm text-neutral-500 mt-2">Moni is er om jou en je gezin te helpen met gezonde schermgewoontes.</p>
+                                <p class="mt-4 text-neutral-700 font-medium text-sm sm:text-base">Moni's energie weerspiegelt het digitale welzijn van jullie gezin!</p>
                             </div>
                         </div>
                     </div>
@@ -211,22 +223,22 @@
                     <h2 class="text-2xl sm:text-3xl font-bold text-neutral-700 mb-12 fade-in-up">Jouw familie versterken, stap voor stap</h2>
                     <div class="benefits-carousel flex overflow-x-scroll [scroll-snap-type:x_mandatory] scrolling-touch gap-6 sm:gap-8 pb-6 px-6">
                         <div class="flex-none w-4/5 max-w-[280px] sm:max-w-[300px] [scroll-snap-align:center] flex flex-col items-center text-center p-6 rounded-lg shadow bg-white transition-all duration-300 hover:shadow-lg hover:-translate-y-1 fade-in-up md:w-[45%] lg:w-[30%]">
-                            <img src="/assets/icon-resilience.png" alt="Weerbaarheid Icoon" class="w-20 h-20 sm:w-24 sm:h-24 object-contain mb-4 rounded-xl" onerror="this.onerror=null; this.src='https://placehold.co/96x96/DCFCEF/059669?text=Icon';">
+                            <img src="./assets/icon-resilience.png" alt="Weerbaarheid Icoon" class="w-20 h-20 sm:w-24 sm:h-24 object-contain mb-4 rounded-xl" onerror="this.onerror=null; this.src='https://placehold.co/96x96/DCFCEF/059669?text=Icon';">
                             <h3 class="text-lg sm:text-xl font-semibold text-neutral-700 mb-2">Weerbaarheid stimuleren</h3>
                             <p class="text-sm sm:text-base text-neutral-600">Rust je kind uit met vaardigheden om de digitale wereld wijs te navigeren.</p>
                         </div>
                         <div class="flex-none w-4/5 max-w-[280px] sm:max-w-[300px] [scroll-snap-align:center] flex flex-col items-center text-center p-6 rounded-lg shadow bg-white transition-all duration-300 hover:shadow-lg hover:-translate-y-1 fade-in-up md:w-[45%] lg:w-[30%]">
-                            <img src="/assets/icon-creativity.png" alt="Kwaliteitstijd Icoon" class="w-20 h-20 sm:w-24 sm:h-24 object-contain mb-4 rounded-xl" onerror="this.onerror=null; this.src='https://placehold.co/96x96/DCFCEF/059669?text=Icon';">
+                            <img src="./assets/icon-creativity.png" alt="Kwaliteitstijd Icoon" class="w-20 h-20 sm:w-24 sm:h-24 object-contain mb-4 rounded-xl" onerror="this.onerror=null; this.src='https://placehold.co/96x96/DCFCEF/059669?text=Icon';">
                             <h3 class="text-lg sm:text-xl font-semibold text-neutral-700 mb-2">Kwaliteitstijd bevorderen</h3>
                             <p class="text-sm sm:text-base text-neutral-600">Moedig leren en creativiteit aan boven gedachteloos scrollen.</p>
                         </div>
                         <div class="flex-none w-4/5 max-w-[280px] sm:max-w-[300px] [scroll-snap-align:center] flex flex-col items-center text-center p-6 rounded-lg shadow bg-white transition-all duration-300 hover:shadow-lg hover:-translate-y-1 fade-in-up md:w-[45%] lg:w-[30%]">
-                            <img src="/assets/icon-diner.png" alt="Familiedruk Icoon" class="w-20 h-20 sm:w-24 sm:h-24 object-contain mb-4 rounded-xl" onerror="this.onerror=null; this.src='https://placehold.co/96x96/DCFCEF/059669?text=Icon';">
+                            <img src="./assets/icon-diner.png" alt="Familiedruk Icoon" class="w-20 h-20 sm:w-24 sm:h-24 object-contain mb-4 rounded-xl" onerror="this.onerror=null; this.src='https://placehold.co/96x96/DCFCEF/059669?text=Icon';">
                             <h3 class="text-lg sm:text-xl font-semibold text-neutral-700 mb-2">Verminder familiedruk</h3>
                             <p class="text-sm sm:text-base text-neutral-600">Beëindig dagelijkse schermtijdgevechten met een positieve, samenwerkende aanpak.</p>
                         </div>
                         <div class="flex-none w-4/5 max-w-[280px] sm:max-w-[300px] [scroll-snap-align:center] flex flex-col items-center text-center p-6 rounded-lg shadow bg-white transition-all duration-300 hover:shadow-lg hover:-translate-y-1 fade-in-up md:w-[45%] lg:w-[30%]">
-                            <img src="/assets/icon-family.png" alt="Gemoedsrust Icoon" class="w-20 h-20 sm:w-24 sm:h-24 object-contain mb-4 rounded-xl" onerror="this.onerror=null; this.src='https://placehold.co/96x96/DCFCEF/059669?text=Icon';">
+                            <img src="./assets/icon-family.png" alt="Gemoedsrust Icoon" class="w-20 h-20 sm:w-24 sm:h-24 object-contain mb-4 rounded-xl" onerror="this.onerror=null; this.src='https://placehold.co/96x96/DCFCEF/059669?text=Icon';">
                             <h3 class="text-lg sm:text-xl font-semibold text-neutral-700 mb-2">Gemoedsrust</h3>
                             <p class="text-sm sm:text-base text-neutral-600">Voel je zelfverzekerd wetende dat je kind gezonde digitale gewoonten ontwikkelt.</p>
                         </div>
@@ -236,9 +248,9 @@
             
             <section id="howitworks" class="py-12 bg-neutral-50">
                 <div class="max-w-screen-lg mx-auto px-6 text-center">
-                    <h2 class="text-2xl sm:text-3xl font-bold text-neutral-700 mb-6 fade-in-up">Hoe Monimentor werkt: De Digitale Vrijheid Pad</h2>
+                    <h2 class="text-2xl sm:text-3xl font-bold text-neutral-700 mb-6 fade-in-up">Hoe Monimentor werkt: De Weg naar Digitale Zelfstandigheid</h2>
                     <p class="text-base sm:text-lg text-neutral-600 mb-8 fade-in-up">
-                        Monimentor is een <span class="font-semibold">onzichtbare speeltuin</span> waar kinderen spelenderwijs digitale vaardigheden opdoen. Dit doen we via het 'Digitale Vrijheid Pad', een gepersonaliseerde reis naar zelfbeheersing en wijsheid, ondersteund door Moni, de vriendelijke gids.
+                        Monimentor is een <span class="font-semibold">onzichtbare speeltuin</span> waar kinderen spelenderwijs digitale vaardigheden opdoen. Dit doen we via de 'Weg naar Digitale Zelfstandigheid', een gepersonaliseerde reis naar zelfbeheersing en wijsheid, ondersteund door Moni, de vriendelijke gids.
                     </p>
                     <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-8 mb-12">
                         <div class="p-6 bg-white rounded-lg shadow fade-in-up">
@@ -259,17 +271,6 @@
                         </div>
                     </div>
                     <div class="bg-accent-teal-light p-6 sm:p-8 rounded-lg shadow-xl max-w-md mx-auto fade-in-up">
-                        <div class="flex flex-wrap justify-center items-center gap-4 sm:gap-6 p-4">
-                            <video class="block w-[70px] sm:w-[80px] h-auto bg-transparent pointer-events-none rounded-full md:w-[100px] lg:w-[120px]" autoplay loop muted playsinline>
-                                <source src="/assets/2_MONI_focused.webm" type="video/webm">
-                            </video>
-                            <video class="block w-[70px] sm:w-[80px] h-auto bg-transparent pointer-events-none rounded-full md:w-[100px] lg:w-[120px]" autoplay loop muted playsinline>
-                                <source src="/assets/5_MONI_sleeping.webm" type="video/webm">
-                            </video>
-                            <video class="block w-[70px] sm:w-[80px] h-auto bg-transparent pointer-events-none rounded-full md:w-[100px] lg:w-[120px]" autoplay loop muted playsinline>
-                                <source src="/assets/1_MONI_VolEnergie.webm" type="video/webm">
-                            </video>
-                        </div>
                         <p class="mt-4 text-neutral-700 font-medium text-sm sm:text-base">Moni's energie weerspiegelt het digitale welzijn van jullie gezin!</p>
                     </div>
                 </div>
@@ -283,24 +284,17 @@
                             We snappen dat vertrouwen superbelangrijk is, zeker als het om je gezin gaat.
                         </p>
                     </div>
-                    <div class="grid md:grid-cols-2 gap-8">
-                        <div class="p-6 rounded-lg shadow fade-in-up bg-slate-50"> 
-                            <h3 class="text-lg sm:text-xl font-semibold text-neutral-700 mb-3">Wat ouders zullen zeggen (Binnenkort!)</h3>
-                            <p class="text-neutral-600 italic mb-3 text-sm sm:text-base">
-                                "Monimentor heeft de benadering van schermtijd in ons gezin veranderd. De kinderen zijn bewuster, en we hebben minder ruzies!"
-                            </p>
-                            <p class="text-neutral-700 font-semibold text-sm sm:text-base">- Een toekomstige blije ouder</p>
-                            <p class="text-xs sm:text-sm text-neutral-500 mt-2">(Placeholder: Echte getuigenissen volgen na onze gesloten test)</p>
-                        </div>
+                    <div class="max-w-xl mx-auto">
                         <div class="fade-in-up">
                             <h3 class="text-lg sm:text-xl font-semibold text-neutral-700 mb-3">Privacy door design: jullie data, jullie keuze</h3>
                             <p class="text-neutral-600 mb-2 text-sm sm:text-base">
-                                De privacy van jullie gezin staat bij Monimentor voorop. We verzamelen alleen de hoogst noodzakelijke geanonimiseerde data om de Digitale Veerkracht Score te berekenen. Monimentor is gebouwd met 'privacy by design', wat betekent dat we al vanaf de basis de privacy van jullie gezin waarborgen en zo min mogelijk gedetailleerde inhoud delen, zelfs binnen de familie-eenheid. Jullie data blijft van jullie.
+                                Om onze missie te voltooien meten wij gedrag wat ook privacy gevoelige informatie bevat. Dit willen wij bij design integer en veilig doen. Dit doen we op drie manieren:
                             </p>
-                            <h3 class="text-lg sm:text-xl font-semibold text-neutral-700 mt-4 mb-3">Onze missie: van vaders, voor families</h3>
-                            <p class="text-neutral-600 text-sm sm:text-base">
-                                Als vaders en techneuten zijn wij persoonlijk gedreven om families te helpen de digitale wereld positief en stimulerend te navigeren. Monimentor is onze oplossing om onderwijs en begeleiding te bieden, boven simpele beperking.
-                            </p>
+                            <ul class="list-disc list-inside text-neutral-600 text-sm sm:text-base mb-2">
+                                <li>We verzamelen niet meer informatie dan nodig.</li>
+                                <li>We tokeniseren of anonimiseren zoveel mogelijk van data.</li>
+                                <li>We zorgen nu en in de toekomst dat wij de data nooit mogen verkopen aan derden of te gebruiken voor andere commerciële doeleinden door dit op te nemen in onze juridische bedrijfsstructuur.</li>
+                            </ul>
                         </div>
                     </div>
                 </div>
@@ -429,8 +423,8 @@
             const updateAllTextAnimations = () => {
                 const viewportHeight = window.innerHeight;
                 // Pass the actual hex color values for the 'activeColor' state in the animation
-                handleTextAnimation('solutionHeadline', 0.3, 2, 0.98, '#3D3D3D', viewportHeight * 1, viewportHeight * 0.7); // neutral-700
-                handleTextAnimation('solutionParagraph', 0.3, 2, 0.98, '#4B5563', viewportHeight * 0.7, viewportHeight * 0.4); // neutral-600
+                handleTextAnimation('solutionHeadline', 0.5, 2, 0.98, '#3D3D3D', viewportHeight * 1, viewportHeight * 0.7); // neutral-700, initial opacity 0.5
+                handleTextAnimation('solutionParagraph', 0.5, 2, 0.98, '#4B5563', viewportHeight * 0.7, viewportHeight * 0.4); // neutral-600, initial opacity 0.5
             };
 
             window.addEventListener('scroll', updateAllTextAnimations, { passive: true });

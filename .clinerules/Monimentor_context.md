@@ -21,7 +21,7 @@ For Society: A twofold crisis. There is clear academic consensus on the harmful 
 "The 'screen time problem' isn't one problem; it's a three-way crisis.
 For our kids, it's an unfair fight. Their brains are built for fun, not for brakes, making them vulnerable to platforms engineered for addiction.
 For parents, it's a daily battle for peace. They feel lost, guilty, and completely outmatched.
-And for society, this has led to a crisis with clear, evidence-backed consequences. There is now widespread academic consensus on the harmful effects. Physically, we are seeing documented public health epidemics in youth myopia, obesity, and sleep disorders. Cognitively, over-stimulation from screens is eroding critical skills like focus and impulse control, creating what researchers call a 'fragmented brain' and risking a generation ill-equipped to navigate a complex world. This isn't just about managing a household nuisance; it's about addressing a fundamental challenge to our children's future well-being."
+And for society, this has led to a crisis with clear, evidence-backed consequences. There is now widespread academic consensus on the harmful effects. Physically, we are seeing documented public health epidemics in youth myopia, obesity, and sleep disorders. Cognitively, over-stimulation from screens is eroding critical skills like focus and impulse control, creating what researchers call a 'fragmented brain' and risking a generation ill-equipped to navigate a complex world of misinformation. This isn't just about managing a household nuisance; it's about addressing a fundamental challenge to our children's future well-being."
 
 
 The solution
@@ -123,7 +123,7 @@ Once families see the positive change, we offer an upgrade to our Premium subscr
 
 Go-to-market strategy
 Our plan is to win a focused "beachhead" and then scale the playbook.
-Launch (Year 1): Target one or two tech-forward Dutch cities (e.g., Eindhoven, Utrecht). We will use lightweight promotion through trusted school channels (newsletters, parent evenings) to acquire our first 1,000 families.
+Launch (Year 1): Target one or twee tech-forward Dutch cities (e.g., Eindhoven, Utrecht). We will use lightweight promotion through trusted school channels (newsletters, parent evenings) to acquire our first 1,000 families.
 Scale (Year 2-3): Take the proven playbook from our beachhead and apply it nationwide to become the Dutch category leader.
 Expand (Year 3+): Replicate the model in our first international market (Germany), securing a high-profile launch partner to build instant credibility.
 
@@ -161,103 +161,193 @@ The Community Flywheel: Our feedback system, which prioritizes input from users 
 Founder-Market Fit: We are fathers and technologists. We live the problem and have the deep technical expertise to build the solution.
 Our advantages are deeply embedded in our product and philosophy. They aren't just features; they are reflections of our core beliefs, what we call the 'Monimentor Manifesto'.
 We believe in Empowerment, Not Enforcement. We provide the training wheels, not the cage.
-We believe Resilience is a Learned Skill, not an on/off switch. Our platform is an 'invisible playground' for children to build the critical thinking muscles they need.
-And we believe Every Child's Journey is Unique. A child's readiness for freedom is measured by their demonstrated maturity, not just their age. This philosophy is our moat."
-
-
-Founding team
-Maarten Nijhuis (CEO): An experienced entrepreneur with a deep background in product vision, strategy, and commercial leadership. Maarten drives the "what" and "why."  
-Bas Beelen (CTO): A highly senior engineer, entrepreneur and technologist responsible for building the robust, scalable platform. Bas drives the "how."
-
-Pre-seed team
-Freelance: Marketing agency to get the basics running and help execute the go-to-market
-Designer: for improvement on the UX UI design
-Additional all round engineer, preferably with some ML experience.
-Graduation intern TUDelft: connection with scientific research
-
-
-Roadmap
-Step
-Duration (Months)
-Start
-End
-Primary Goal
-Key Activities
-Key Deliverables / Milestones
-1. MVP Launch
-5
-October 2025
-February 2026
-Launch a functional Freemium MVP on iOS to solve the core problem for our first users.
-• Build initial version of our proprietary 'device activity engine' (our core IP)
-• Develop MVP features: user enrollment, time monitoring, the Digital Nutrition Engine predefined buckets, and basic Moni interactions. Basic Parent Dashboard. Backend core, basic behaviour measurement
-• Build a pre-launch waitlist and recruit 15-20 "Founding Families" for the Alpha test
-- MVP submitted to the App Store and available for "Founding Families"
-- Backend in production
-- Waitlist of 100+ interested families.
-- 15 "Founding Families" committed and ready.
-2. Alpha Testing
-1
-March 2026
-March 2026
-Validate the core user experience and gather critical qualitative feedback from our "Founding Families."
-• High-touch onboarding of all Alpha testers.
-• Conduct in-depth user interviews to analyze usage, identify friction points, and validate the value proposition.
-• Synthesize feedback into a prioritized backlog.
-- All "Founding Families" actively using the app.
-- user interviews conducted.
-- Data-informed product backlog for rapid iteration.
-3. Rapid Iterations & Public Launch
-4
-April 2026
-June 2026
-Refine the product based on feedback and launch publicly to gather initial market data and grow our user base.
-• Iteration Cycle 1: Implement top-priority feedback from the Alpha test. Launch the public Freemium MVP.
-• Iteration Cycle 2: Address the first wave of public user feedback, enhance stability, and develop the initial premium feature set (the Digital Freedom Path).
-- Public Freemium MVP v1.0 launched on the App Store
-- First 500 active free families acquired.
-- Premium feature set and paywall are built and ready for release.
-4. Commercial Validation
-3
-July 2026
-September 2026
-Prove the core business model by converting free users to paying subscribers and validating our Go-to-Market strategy.
-• Release the premium version with the full Digital Freedom Path
-• Execute the "Beachhead" GTM strategy in target cities, using school channels for promotion.
-• A/B test pricing and optimize the conversion funnel from free to paid.
-- >100 paying families – our most critical pre-seed metric.
-- Initial, validated data on COI, conversion rates and Customer Acquisition Cost (CAC).
-- First revenue generated.
-5. Grow, Iterate & Seed Round Prep
-5
-October 2026
-March 2027
-Use early revenue and data to enhance the product significantly and run a successful Seed fundraising process.
-• Build a major product update based on paid user insights (e.g., Advanced Family Analytics or the Social Intelligence Engine) .<br>• Codify the successful "Go-to-Market Playbook" for scalability.<br>• Prepare the data room, build the Seed pitch deck, and actively engage with potential Seed investors.
-- Major product update (v2.0) launched.
-- Validated and repeatable GTM Playbook.
-- Term Sheet for Seed round secured.
-
-Core Metrics by Phase
-A Phased Approach to Growth
-Our key metrics evolve as we scale, reflecting our strategic priorities at each stage of our journey.
-
-Investment need
-We are currently looking for 2-3 more investors for our pre-seed (18 months) round of 350k to proof product market fit. We do this with a convertible note. 
-Convertible note: 
-Discount 17,5%
-Cap 4 million
-Interest 6%
-Ticket size: €50k+
-Conversion round (seed):
-Pre-money valuation 6.5 million
-Investment amount 1.5 million
-
-The Monimentor Manifesto: Our Core Beliefs
-This is our north star. It guides every product decision, every line of code, and every conversation we have with families.
-We Believe in Empowerment, Not Enforcement. Our role is to be a guide, not a guard. We provide the training wheels, not the cage.
-We Believe Resilience is a Learned Skill, Not an On/Off Switch. Our platform is an "invisible playground" for children to build the emotional and critical thinking muscles they need to thrive.
-We Believe Every Child's Journey is Unique. A child's readiness for freedom is measured by their demonstrated maturity, not just their age. Our system adapts to the individual child's pace.
+We believe Resilience is a Learned Skill, not an on/off switch. Our platform is an 'invisible playground' for children to build the emotional and critical thinking muscles they need to thrive.
+And we believe Every Child's Journey is Unique. A child's readiness for freedom is measured by their demonstrated maturity, not just their age. Our system adapts to the individual child's pace.
 We Believe We are Partners to Parents, Not Replacements. Our technology is designed to strengthen the parent-child bond by fostering conversation and shared understanding.
 We Believe in Fostering Active Digital Engagement, Not Passive Consumption. We champion a "digital diet" rich in conscious choice and active participation, empowering children to use technology as a tool for their own goals, not just as a source of mindless consumption.
 We Believe This Mission is Non-Negotiable. The challenge of raising a healthy generation in this new digital world is monumental. The cost of inaction is unacceptable. We choose to act.
+
+# Van Protectie naar Potentie: Een Wetenschappelijke Analyse van Risicocompetentie, Exploratief Leren en Productief Falen
+
+## Managementsamenvatting
+
+Dit onderzoeksrapport biedt een analyse van de wetenschappelijke literatuur omtrent de ontwikkeling van digitale weerbaarheid bij kinderen. De centrale hypothese luidt dat kinderen effectiever digitale competenties verwerven wanneer zij ruimte krijgen voor exploratie, het maken van fouten ('trial and error') en het nemen van risico's, in plaats van benaderd te worden vanuit een louter restrictief beschermingsmodel.
+
+De analyse integreert empirische bevindingen van o.a. het *EU Kids Online* netwerk, het *ySkills* consortium en onderzoek naar 'Productive Failure'. De data bevestigen dat het elimineren van risico's paradoxaal genoeg kan leiden tot 'digitale fragiliteit'. Digitale weerbaarheid blijkt een leerproces dat wordt gevoed door begeleide blootstelling aan onzekerheid (beneficial risk) en actieve mediatie, ondersteund door 'Safety by Design' principes.
+
+---
+
+## 1. Wetenschappelijke Bevindingen: Risico als Voorwaarde voor Weerbaarheid
+
+In het publieke debat worden risico en schade vaak als synoniemen beschouwd. De wetenschappelijke literatuur maakt echter een cruciaal onderscheid: blootstelling aan risico leidt niet per definitie tot schade, en is zelfs noodzakelijk voor het opbouwen van veerkracht.
+
+### 1.1 Het Concept van 'Beneficial Risk'
+Onderzoekers zoals prof. Sonia Livingstone (LSE) en bevindingen van UNICEF Innocenti wijzen op het belang van 'beneficial risk' (heilzaam risico). Het argument is dat internetgebruik onvermijdelijk risico's met zich meebrengt omdat het ontworpen is voor open interactie.[1] Het volledig afschermen van kinderen ontneemt hen de kans om cruciale coping-strategieën te ontwikkelen.
+
+*   **Bevinding:** Risicovol spel en exploratie in digitale omgevingen bieden kinderen de kans om onzekerheid en opwinding te ervaren, wat bijdraagt aan hun ontwikkeling. Net zoals in fysieke speeltuinen, waar risico's worden afgewogen tegen leeropbrengsten, geldt dit ook online.[2, 3]
+*   **Empirie:** Onderzoek toont aan dat kinderen die blootgesteld worden aan beheersbare risico's, beter in staat zijn om toekomstige uitdagingen het hoofd te bieden. Het vermijden van elk risico ("zero-risk approach") kan de ontwikkeling van veerkracht juist ondermijnen.[1, 4]
+
+### 1.2 De Paradox van Vaardigheid en Risico (The Skills-Risk Paradox)
+Een robuuste bevinding uit grootschalige Europese studies, zoals die van het *EU Kids Online* netwerk en *ySkills*, is de positieve correlatie tussen digitale vaardigheden en risicoblootstelling.
+
+*   **Bevinding:** Kinderen met hogere digitale vaardigheden rapporteren vaker blootstelling aan online risico's. Dit komt doordat zij het internet intensiever en diverser gebruiken, waardoor zij meer 'deuren openen'.[5, 6]
+*   **Cruciale nuance:** Hoewel de blootstelling hoger is, zijn vaardige kinderen beter in staat om met deze risico's om te gaan (coping). Vaardigheden fungeren als een buffer die voorkomt dat een risico (bijv. het zien van een schokkende afbeelding) leidt tot daadwerkelijke schade (zoals blijvende angst).[6, 7]
+*   **Kwetsbaarheid:** Er is echter sprake van een 'dubbele kwetsbaarheid'. Kinderen uit kwetsbare milieus of met psychosociale problemen lopen niet alleen meer risico, maar ervaren ook vaker negatieve gevolgen omdat zij minder effectieve coping-strategieën hebben.[6]
+
+---
+
+## 2. Pedagogische Mechanismen: De Waarde van de Fout
+
+De cognitieve psychologie en onderwijskunde bieden inzicht in *waarom* het maken van fouten leidt tot dieper leren. Dit ondersteunt de hypothese dat een veilige 'playground' effectiever is dan een gesloten instructiemodel.
+
+### 2.1 Productive Failure (Productief Falen)
+Het concept 'Productive Failure' (PF), onderzocht door leerwetenschapper Manu Kapur, stelt dat instructie effectiever is wanneer lerenden eerst zelf proberen een complex probleem op te lossen – en daarin falen – voordat zij de juiste instructie ontvangen.
+
+*   **Bevinding:** Onderzoek toont aan dat leerlingen die eerst worstelen met een probleem ('generation and exploration phase') significant beter presteren op conceptueel begrip en transfer dan leerlingen die directe instructie krijgen. Het falen activeert voorkennis en maakt de lerende bewust van kennislacunes.[8, 9, 10]
+*   **Mechanisme:** Het proces van fouten maken en hypotheses testen zorgt ervoor dat de uiteindelijke oplossing beter beklijft. Dit proces is superieur aan directe instructie voor het ontwikkelen van diepgaand inzicht, hoewel het initieel frustrerend kan zijn.[9, 11]
+
+### 2.2 Tinkering en Trial-and-Error
+In de context van digitale geletterdheid wordt 'tinkering' (klooien/knutselen) gezien als een essentiële leerstrategie. Dit sluit aan bij de Maker Education-beweging (o.a. Waag Futurelab).
+
+*   **Bevinding:** Tinkering stimuleert een iteratief proces van "proberen, falen, aanpassen". Verslagen van conferenties over Maker Education benadrukken dat "fouten maken moet" en dat dit leidt tot eigenaarschap over technologie.[12]
+*   **Ondersteunend bewijs:** Het combineren van tinkering met storytelling (verhalen vertellen) blijkt de betrokkenheid en leeropbrengsten bij STEM-activiteiten (Science, Technology, Engineering, Math) te verhogen.[13] Tevens toont onderzoek aan dat digitale tools die 'trial-and-error' faciliteren, kinderen helpen een oplossingsgerichte mindset te ontwikkelen.[14]
+
+---
+
+## 3. De Omgeving: Sandbox versus Walled Garden
+
+De architectuur van de digitale omgeving bepaalt in grote mate de leerruimte.
+
+### 3.1 Walled Garden vs. Sandbox
+*   **Walled Garden:** Een gesloten ecosysteem waarin de aanbieder alle controle heeft (bijv. specifieke kinder-apps). Dit minimaliseert risico's, maar beperkt ook de autonomie en het leerpotentieel. Kinderen leren hierin niet omgaan met de onvoorspelbaarheid van het open web.[15, 16]
+*   **Sandbox:** Omgevingen (zoals Minecraft of Roblox) die fungeren als een digitale zandbak waarin gebruikers vrij kunnen creëren en manipuleren. Onderzoek suggereert dat deze omgevingen de overgang van passieve consumptie naar actieve creatie faciliteren. Hoewel commerciële platforms soms als 'walled garden' worden beschouwd, bieden sandbox-games vaak wel de ruimte voor de noodzakelijke 'messy play'.[17, 16]
+
+### 3.2 Safety by Design & Default
+De consensus in recent beleidsonderzoek (o.a. 5Rights Foundation) is dat veiligheid moet worden ingebouwd in het ontwerp (*Safety by Design*), en dat de standaardinstellingen veilig moeten zijn (*Safety by Default*).
+*   **Bevinding:** Het simpelweg vertrouwen op zelfregulering of ouderlijk toezicht is onvoldoende. Systemen moeten zo ontworpen zijn dat de ernstigste gevaren (hazards) worden gemitigeerd, terwijl de leerzame risico's (zoals sociale frictie of creatieve mislukkingen) mogelijk blijven.[18, 19]
+
+---
+
+## 4. De Rol van de Opvoeder: Actieve vs. Restrictieve Mediatie
+
+De hypothese dat "ruimte geven" beter werkt, wordt sterk ondersteund door onderzoek naar opvoedingsstijlen (parental mediation).
+
+*   **Restrictieve Mediatie:** Het stellen van strikte regels en verboden.
+    *   *Effect:* Uit onderzoek blijkt dat dit weliswaar risico's vermindert, maar ook de digitale vaardigheden en kansen van kinderen inperkt. Het kan leiden tot angst en verminderde levenstevredenheid.[20, 21]
+*   **Actieve Mediatie:** Praten over media, uitleggen, en samen kijken.
+    *   *Effect:* Actieve mediatie is positief gecorreleerd met hogere digitale vaardigheden en meer leeractiviteiten online. Het helpt kinderen om negatieve ervaringen te duiden en verwerkt incidenten zonder dat dit leidt tot blijvende schade.[20, 22]
+    *   *Kritische succesfactor:* Een open dialoog zorgt ervoor dat kinderen hulp durven vragen als het misgaat. Bij een restrictieve aanpak (angst voor straf/inname telefoon) verzwijgen kinderen problemen vaak ("chilling effect").[4]
+
+---
+
+## 5. De Nederlandse Context en Beleid
+
+In Nederland wordt deze visie ondersteund door diverse kennisinstituten en beleidskaders.
+
+*   **Netwerk Mediawijsheid:** Hanteert een competentiemodel waarin 'Strategie' en bewustzijn centraal staan. In 2024 richt de stimuleringsregeling zich specifiek op weerbaarheid tegen desinformatie, wat actieve kritische vaardigheden vereist in plaats van afscherming.[23, 24]
+*   **Rathenau Instituut:** Benadrukt het belang van 'technologisch burgerschap'. Kinderen moeten niet alleen knoppen leren bedienen, maar ook begrijpen hoe technologie werkt en welke belangen er spelen. Dit vereist inzicht dat ontstaat door exploratie.[25, 26]
+*   **Onderwijs:** Hoewel adaptieve leermiddelen (vaak gesloten systemen) veel gebruikt worden, pleiten organisaties als Kennisnet en SLO voor een brede benadering van digitale geletterdheid waarin ook ruimte is voor de menselijke maat en het leren omgaan met fouten.[27, 28]
+
+---
+
+## Conclusie
+
+De hypothese wordt door de wetenschappelijke literatuur bevestigd:
+
+1.  **Risico is noodzakelijk:** Het elimineren van risico's elimineert leerkansen. 'Beneficial risks' zijn essentieel voor het ontwikkelen van coping-mechanismen.[1, 4]
+2.  **Falen is leren:** Cognitieve processen zoals 'Productive Failure' en 'Tinkering' leiden tot dieper begrip dan passieve instructie.[8, 9]
+3.  **Actieve begeleiding:** De rol van de opvoeder is cruciaal, maar moet verschuiven van restrictie naar actieve mediatie om vaardigheden te bevorderen zonder de veiligheid in gevaar te brengen.[20, 21]
+
+**Aanbeveling:** Beleid en opvoeding moeten zich richten op het creëren van 'Sandboxes' met 'Safety by Design': omgevingen waar de *impact* van fouten beperkt is (geen catastrofale gevolgen), maar de *ervaring* van de fout en het risico behouden blijft.
+
+---
+
+## Bronnenlijst (Selectie)
+
+*   **Livingstone, S. et al.** (LSE/UNICEF): Onderzoek naar *Beneficial Risk* en de balans tussen bescherming en participatie.[1, 29, 4]
+*   **EU Kids Online & ySkills:** Grootschalige Europese data-analyses over de correlatie tussen vaardigheden, risico's en weerbaarheid.[5, 6, 30]
+*   **Kapur, M.** (ETH Zurich): Theorie en empirisch onderzoek naar *Productive Failure* in leerprocessen.[8, 9, 10]
+*   **Netwerk Mediawijsheid & Rathenau Instituut:** Rapporten over mediawijsheid, competentiemodellen en digitaal burgerschap in Nederland.[25, 31, 23]
+*   **Waag Futurelab & Platform Maker Education:** Praktijkonderzoek naar *Tinkering* en *Maker Education* in het Nederlandse onderwijs.[12]
+*   **5Rights Foundation:** Rapporten over *Safety by Design* en kinderrechten in de digitale omgeving.[19, 32]
+
+# Wetenschappelijk Kader: Digitale Weerbaarheid en Exploratief Leren bij Kinderen
+
+Datum: 1 december 2024
+Onderwerp: De relatie tussen exploratief leren, het maken van fouten en de ontwikkeling van digitale weerbaarheid.
+
+1. Introductie van de Hypothese
+
+De hypothese luidt dat kinderen digitale vaardigheden effectiever verwerven wanneer zij autonomie ervaren, mogen experimenteren en fouten mogen maken binnen een veilige omgeving (een 'sandbox' of 'playground'). De wetenschap ondersteunt dit via theorieën over Constructionisme, Growth Mindset en Scaffolding.
+
+Hieronder volgen de belangrijkste wetenschappelijke bevindingen die deze hypothese onderbouwen.
+
+2. Bevindingen uit Wetenschappelijk Onderzoek
+
+A. Leren door 'Tinkering' en Fouten Maken (Constructionisme)
+
+Onderzoek toont aan dat passieve consumptie van digitale media minder effectief is dan actief creëren. Seymour Papert, grondlegger van het constructionisme, stelde dat kinderen het beste leren wanneer ze actief betrokken zijn bij het maken van een publiek object (zoals code of een robot).
+
+De Bevinding: Het proces van 'debugging' (het opsporen en herstellen van fouten in computerprogramma's) is cruciaal voor het ontwikkelen van cognitieve weerbaarheid. Fouten worden niet gezien als falen, maar als informatie om het proces te verbeteren. Dit bouwt 'grit' (volharding) op [1].
+
+Relatie tot hypothese: Een omgeving waarin een fout leidt tot een systeemcrash (onveilig) remt leren. Een omgeving waarin een fout leidt tot een onverwacht maar herstelbaar resultaat (veilig/playground), stimuleert diepgaand leren en probleemoplossend vermogen.
+
+B. Digitale Weerbaarheid door Gecontroleerd Risico
+
+Professor Sonia Livingstone (LSE) heeft uitgebreid onderzoek gedaan naar hoe kinderen omgaan met online risico's.
+
+De Bevinding: Er is een positieve correlatie tussen online risico's nemen en digitale vaardigheden. Kinderen die volledig worden afgeschermd van risico's ontwikkelen minder 'coping'-strategieën. Om weerbaar te worden, moeten kinderen blootgesteld worden aan uitdagingen, maar wel in een mate die past bij hun leeftijd [2].
+
+Relatie tot hypothese: Een 'veilige playground' moet niet betekenen dat alle uitdagingen weggepoetst zijn, maar dat de gevolgen van fouten beheersbaar zijn. Dit concept wordt ‘scaffolded risk-taking’ genoemd.
+
+C. De Rol van de 'Veilige Haven' (Scaffolding & ZPD)
+
+De theorie van de Zone van Naaste Ontwikkeling (Vygotsky) en Scaffolding (Wood, Bruner & Ross) is essentieel voor de 'playground'-gedachte.
+
+De Bevinding: Kinderen leren het snelst in de zone waar ze een taak net niet alleen kunnen, maar wel met een beetje hulp of de juiste tools. Een goede digitale leeromgeving biedt deze structuur ('scaffolding') zonder de oplossing voor te kauwen [3].
+
+Relatie tot hypothese: De software of begeleider fungeert als het vangnet. Hierdoor durft het kind te exploreren, wetende dat het niet 'fataal' kan misgaan. Dit verlaagt de faalangst en verhoogt de intrinsieke motivatie (Self-Determination Theory) [4].
+
+D. Growth Mindset in een Digitale Context
+
+Het werk van Carol Dweck is direct toepasbaar op digitale geletterdheid.
+
+De Bevinding: Kinderen met een 'growth mindset' (de overtuiging dat intelligentie en vaardigheden ontwikkelbaar zijn) presteren beter in uitdagende digitale taken dan kinderen met een 'fixed mindset'. Een omgeving die proces en inspanning beloont boven het eindresultaat, stimuleert deze mindset [5].
+
+Relatie tot hypothese: In een open 'playground' is er vaak geen goed of fout eindproduct, alleen een iteratief proces. Dit versterkt de growth mindset: "Ik kan dit nog niet", in plaats van "Ik kan dit niet."
+
+3. Conclusie
+
+De wetenschappelijke literatuur bevestigt de hypothese sterk. Digitale geletterdheid is geen statische kennis die overgedragen wordt, maar een dynamische vaardigheid die getraind wordt door interactie.
+
+Voorwaarden voor succesvol leren zijn:
+
+Ruimte voor exploratie: Zelfontdekkend leren (Inquiry-based learning).
+
+Positieve foutencultuur: Debuggen als leermethode.
+
+Veiligheid: Een omgeving die risico's beheersbaar maakt (Scaffolding), zodat het kind durft te experimenteren.
+
+4. Bibliografie / Bronvermelding
+
+Hieronder vindt u de volledige definities van de in de tekst genoemde nummers.
+
+[1] Papert, S. (1980). Mindstorms: Children, Computers, and Powerful Ideas. Basic Books.
+
+Kern: Beschrijft hoe programmeren kinderen leert denken over hun eigen denken (metacognitie) en hoe 'fouten' essentiële leermomenten zijn.
+
+[2] Livingstone, S., et al. (2011). Risks and safety on the internet: The perspective of European children. EU Kids Online.
+
+Kern: Toont aan dat restrictieve opvoeding (alles blokkeren) leidt tot lagere digitale vaardigheden en lagere weerbaarheid wanneer kinderen uiteindelijk wel met risico's geconfronteerd worden.
+
+[3] Wood, D., Bruner, J. S., & Ross, G. (1976). The role of tutoring in problem solving. Journal of Child Psychology and Psychiatry, 17(2), 89-100.
+
+Kern: De basis van 'scaffolding': ondersteuning bieden die afneemt naarmate de competentie van het kind toeneemt.
+
+[4] Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. American Psychologist, 55(1), 68.
+
+Kern: Autonomie (zelf mogen kiezen/doen) is cruciaal voor motivatie. Een open 'playground' biedt meer autonomie dan een lineaire lesmethode.
+
+[5] Dweck, C. S. (2006). Mindset: The new psychology of success. Random House.
+
+Kern: Het belang van het omarmen van uitdagingen en het zien van inspanning als de weg naar meesterschap.
