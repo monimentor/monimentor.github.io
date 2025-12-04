@@ -3,14 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "tailwind:build": "tailwindcss -i ./src/input.css -o ./docs/output.css --minify",
-    "tailwind:watch": "tailwindcss -i ./src/input.css -o ./docs/output.css --watch",
-    "copy:html": "cp index.html docs/index.html",
-    "copy:assets": "mkdir -p docs/assets && cp -R assets/* docs/assets/",
-    "copy": "npm run copy:html && npm run copy:assets",
-    "dev": "npm run copy && npm run tailwind:watch",
-    "build": "npm run copy && npm run tailwind:build"
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "repository": {
     "type": "git",
@@ -25,9 +20,15 @@
   "homepage": "https://github.com/monimentor/monimentor.github.io#readme",
   "description": "",
   "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
     "autoprefixer": "^10.4.21",
-    "postcss": "^8.5.3",
-    "tailwindcss": "^4.1.17"
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.3",
+    "vite": "^5.2.11",
+    "vue": "^3.4.27"
   },
-  "type": "commonjs"
+  "dependencies": {
+    "vue": "^3.4.27"
+  },
+  "type": "module"
 }
