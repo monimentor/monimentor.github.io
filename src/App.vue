@@ -1,13 +1,11 @@
+<script setup></script>
+
 <template>
-  <div class="text-3xl font-bold text-center p-10">
-    Welcome to Monimentor!
-  </div>
+  <h1>You did it!</h1>
+  <p>
+    Visit <a href="https://vuejs.org/" target="_blank" rel="noopener">vuejs.org</a> to read the
+    documentation
+  </p>
 </template>
 
-<script setup>
-// No script needed for a simple message
-</script>
-
-<style>
-/* You can keep basic styles or remove them for this test */
-</style>
+<style scoped></style>

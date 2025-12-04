@@ -1,17 +1,18 @@
-import { defineConfig } from "vite";
-import vue from "@vitejs/plugin-vue";
+import { fileURLToPath, URL } from 'node:url'
 
-// https://vitejs.dev/config/
-export default defineConfig(({
-  command
-}) => {
-  const isProduction = command === 'build';
-  return {
-    plugins: [vue()],
-    base: isProduction ? "/monimentor.github.io/" : "/",
-    build: {
-      outDir: "docs", // Output to the docs folder for GitHub Pages
-      assetsDir: "assets", // Ensure assets are placed in a subdirectory
+import { defineConfig } from 'vite'
+import vue from '@vitejs/plugin-vue'
+import vueDevTools from 'vite-plugin-vue-devtools'
+
+// https://vite.dev/config/
+export default defineConfig({
+  plugins: [
+    vue(),
+    vueDevTools(),
+  ],
+  resolve: {
+    alias: {
+      '@': fileURLToPath(new URL('./src', import.meta.url))
     },
-  };
-});
+  },
+})
