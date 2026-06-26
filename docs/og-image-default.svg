@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6521c8"/>
+      <stop offset="50%" style="stop-color:#a67de5"/>
+      <stop offset="100%" style="stop-color:#ff617d"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <text x="600" y="280" font-family="system-ui, sans-serif" font-size="64" font-weight="bold" fill="white" text-anchor="middle">MoniMentor</text>
+  <text x="600" y="360" font-family="system-ui, sans-serif" font-size="32" fill="white" text-anchor="middle">Slim schermgebruik voor kinderen 4-12 jaar</text>
+</svg>
