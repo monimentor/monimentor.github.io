@@ -8,6 +8,6 @@
     </linearGradient>
   </defs>
   <rect width="1200" height="630" fill="url(#bg)"/>
-  <text x="600" y="280" font-family="system-ui, sans-serif" font-size="64" font-weight="bold" fill="white" text-anchor="middle">MoniMentor</text>
-  <text x="600" y="360" font-family="system-ui, sans-serif" font-size="32" fill="white" text-anchor="middle">Slim schermgebruik voor kinderen 4-12 jaar</text>
+  <text x="600" y="280" font-family="system-ui, sans-serif" font-size="64" font-weight="bold" fill="white" text-anchor="middle">Monimentor</text>
+  <text x="600" y="360" font-family="system-ui, sans-serif" font-size="32" fill="white" text-anchor="middle">Gezond schermgebruik voor kinderen 4-12 jaar</text>
 </svg>

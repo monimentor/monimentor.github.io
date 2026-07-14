@@ -9,7 +9,7 @@
     "./assets/klaro-CZluPq7x.js"
   ],
   "\u0000plugin-vue:export-helper": [
-    "./assets/GlassCard.vue_vue_type_script_setup_true_lang-BSUszYOC.js"
+    "./assets/GlassCard.vue_vue_type_script_setup_true_lang-CTy9_Iqw.js"
   ],
   "\u0000vite/modulepreload-polyfill.js": [],
   "\u0000vite/preload-helper.js": [],
@@ -548,7 +548,7 @@
     "./assets/three-vendor-CpCvPNmD.js"
   ],
   "../monimentor-3d/node_modules/gsap/CSSPlugin.js": [
-    "./assets/HomePage-J6jWEdfe.js",
+    "./assets/HomePage-__SLF2Tg.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
@@ -573,7 +573,7 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "../monimentor-3d/node_modules/gsap/gsap-core.js": [
-    "./assets/HomePage-J6jWEdfe.js",
+    "./assets/HomePage-__SLF2Tg.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
@@ -598,7 +598,7 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "../monimentor-3d/node_modules/gsap/index.js": [
-    "./assets/HomePage-J6jWEdfe.js",
+    "./assets/HomePage-__SLF2Tg.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
@@ -641,7 +641,7 @@
     "./assets/three-vendor-CpCvPNmD.js"
   ],
   "../monimentor-3d/src/three-objects/createJar.ts": [
-    "./assets/HomePage-J6jWEdfe.js",
+    "./assets/HomePage-__SLF2Tg.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
@@ -666,7 +666,7 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "../monimentor-3d/src/three-objects/createMoni.ts": [
-    "./assets/HomePage-J6jWEdfe.js",
+    "./assets/HomePage-__SLF2Tg.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
@@ -691,7 +691,7 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "../monimentor-3d/src/three-objects/createOrb.ts": [
-    "./assets/HomePage-J6jWEdfe.js",
+    "./assets/HomePage-__SLF2Tg.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
@@ -716,7 +716,7 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "../monimentor-3d/src/three-objects/createPlatform.ts": [
-    "./assets/HomePage-J6jWEdfe.js",
+    "./assets/HomePage-__SLF2Tg.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
@@ -741,7 +741,7 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "../monimentor-3d/src/three-objects/createPlatformOverflow.ts": [
-    "./assets/HomePage-J6jWEdfe.js",
+    "./assets/HomePage-__SLF2Tg.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
@@ -766,7 +766,7 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "../monimentor-3d/src/three-objects/createRocket.ts": [
-    "./assets/HomePage-J6jWEdfe.js",
+    "./assets/HomePage-__SLF2Tg.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
@@ -791,7 +791,7 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "../monimentor-3d/src/three-objects/createSmoke.ts": [
-    "./assets/HomePage-J6jWEdfe.js",
+    "./assets/HomePage-__SLF2Tg.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
@@ -816,7 +816,7 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "../monimentor-3d/src/three-objects/createSnow.ts": [
-    "./assets/HomePage-J6jWEdfe.js",
+    "./assets/HomePage-__SLF2Tg.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
@@ -841,7 +841,7 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "../monimentor-3d/src/three-objects/models/Moni.glb?url": [
-    "./assets/HomePage-J6jWEdfe.js",
+    "./assets/HomePage-__SLF2Tg.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
@@ -866,7 +866,7 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "../monimentor-3d/src/three-objects/models/jar.glb?url": [
-    "./assets/HomePage-J6jWEdfe.js",
+    "./assets/HomePage-__SLF2Tg.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
@@ -891,7 +891,7 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "../monimentor-3d/src/three-objects/models/platform.glb?url": [
-    "./assets/HomePage-J6jWEdfe.js",
+    "./assets/HomePage-__SLF2Tg.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
@@ -916,7 +916,7 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "../monimentor-3d/src/three-objects/models/platform_overflow.glb?url": [
-    "./assets/HomePage-J6jWEdfe.js",
+    "./assets/HomePage-__SLF2Tg.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
@@ -941,7 +941,7 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "../monimentor-3d/src/three-objects/models/rocket.glb?url": [
-    "./assets/HomePage-J6jWEdfe.js",
+    "./assets/HomePage-__SLF2Tg.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
@@ -966,7 +966,7 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "../monimentor-3d/src/three-objects/models/text.glb?url": [
-    "./assets/HomePage-J6jWEdfe.js",
+    "./assets/HomePage-__SLF2Tg.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
@@ -991,7 +991,7 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "../monimentor-3d/src/three-objects/moniAnimationManager.ts": [
-    "./assets/HomePage-J6jWEdfe.js",
+    "./assets/HomePage-__SLF2Tg.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
@@ -1016,7 +1016,7 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "../monimentor-3d/src/three-objects/moniBlinkController.ts": [
-    "./assets/HomePage-J6jWEdfe.js",
+    "./assets/HomePage-__SLF2Tg.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
@@ -1041,7 +1041,7 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "../monimentor-3d/src/three-objects/moniIdleBreakController.ts": [
-    "./assets/HomePage-J6jWEdfe.js",
+    "./assets/HomePage-__SLF2Tg.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
@@ -1066,7 +1066,7 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "../monimentor-3d/src/three-objects/moniWorld.ts": [
-    "./assets/HomePage-J6jWEdfe.js",
+    "./assets/HomePage-__SLF2Tg.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
@@ -1091,7 +1091,7 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "../monimentor-3d/src/three-objects/orbManager.ts": [
-    "./assets/HomePage-J6jWEdfe.js",
+    "./assets/HomePage-__SLF2Tg.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
@@ -1116,7 +1116,7 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "../monimentor-3d/src/three-objects/useRocketController.ts": [
-    "./assets/HomePage-J6jWEdfe.js",
+    "./assets/HomePage-__SLF2Tg.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
@@ -1141,14 +1141,14 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "../monimentor-ui/packages/components/src/base/Button.vue": [
-    "./assets/GlassCard.vue_vue_type_script_setup_true_lang-BSUszYOC.js"
+    "./assets/GlassCard.vue_vue_type_script_setup_true_lang-CTy9_Iqw.js"
   ],
   "../monimentor-ui/packages/components/src/base/Button.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/GlassCard.vue_vue_type_script_setup_true_lang-BSUszYOC.js"
+    "./assets/GlassCard.vue_vue_type_script_setup_true_lang-CTy9_Iqw.js"
   ],
   "../monimentor-ui/packages/components/src/base/Button.vue?vue&type=style&index=0&scoped=51823b0c&lang.css": [],
   "../monimentor-ui/packages/components/src/base/GlassCard.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/GlassCard.vue_vue_type_script_setup_true_lang-BSUszYOC.js"
+    "./assets/GlassCard.vue_vue_type_script_setup_true_lang-CTy9_Iqw.js"
   ],
   "../monimentor-ui/packages/components/src/base/MoniLogo.vue?vue&type=script&setup=true&lang.ts": [],
   "index.html": [],
@@ -1898,6 +1898,9 @@
   "node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [],
   "node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [],
   "node_modules/@vue/shared/dist/shared.esm-bundler.js": [],
+  "node_modules/@vueuse/head/node_modules/@unhead/vue/dist/shared/vue.-sixQ7xP.mjs": [],
+  "node_modules/@vueuse/head/node_modules/@unhead/vue/dist/shared/vue.ziyDaVMR.mjs": [],
+  "node_modules/@vueuse/head/node_modules/unhead/dist/index.mjs": [],
   "node_modules/hookable/dist/index.mjs": [],
   "node_modules/klaro/dist/klaro.js": [
     "./assets/klaro-CZluPq7x.js"
@@ -1918,7 +1921,7 @@
   "src/App.vue?vue&type=script&setup=true&lang.ts": [],
   "src/App.vue?vue&type=style&index=0&lang.css": [],
   "src/assets/images/familie.png": [
-    "./assets/HomePage-J6jWEdfe.js",
+    "./assets/HomePage-__SLF2Tg.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
@@ -1943,7 +1946,7 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "src/assets/images/ipad_mockup_1.png": [
-    "./assets/HomePage-J6jWEdfe.js",
+    "./assets/HomePage-__SLF2Tg.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
@@ -1968,7 +1971,7 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "src/assets/images/iphone_mockup_1.png": [
-    "./assets/HomePage-J6jWEdfe.js",
+    "./assets/HomePage-__SLF2Tg.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
@@ -1993,7 +1996,7 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "src/assets/images/webp/dementor.webp": [
-    "./assets/HomePage-J6jWEdfe.js",
+    "./assets/HomePage-__SLF2Tg.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
@@ -2018,7 +2021,7 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "src/assets/images/webp/denavigator.webp": [
-    "./assets/HomePage-J6jWEdfe.js",
+    "./assets/HomePage-__SLF2Tg.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
@@ -2043,7 +2046,7 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "src/assets/images/webp/deverkenner.webp": [
-    "./assets/HomePage-J6jWEdfe.js",
+    "./assets/HomePage-__SLF2Tg.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
@@ -2068,7 +2071,7 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "src/assets/images/webp/familie.avif": [
-    "./assets/HomePage-J6jWEdfe.js",
+    "./assets/HomePage-__SLF2Tg.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
@@ -2093,7 +2096,7 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "src/assets/images/webp/familie.webp": [
-    "./assets/HomePage-J6jWEdfe.js",
+    "./assets/HomePage-__SLF2Tg.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
@@ -2118,7 +2121,7 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "src/assets/images/webp/ipad_mockup_1.avif": [
-    "./assets/HomePage-J6jWEdfe.js",
+    "./assets/HomePage-__SLF2Tg.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
@@ -2143,7 +2146,7 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "src/assets/images/webp/ipad_mockup_1.webp": [
-    "./assets/HomePage-J6jWEdfe.js",
+    "./assets/HomePage-__SLF2Tg.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
@@ -2168,7 +2171,7 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "src/assets/images/webp/iphone_mockup_1.avif": [
-    "./assets/HomePage-J6jWEdfe.js",
+    "./assets/HomePage-__SLF2Tg.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
@@ -2193,7 +2196,7 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "src/assets/images/webp/iphone_mockup_1.webp": [
-    "./assets/HomePage-J6jWEdfe.js",
+    "./assets/HomePage-__SLF2Tg.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
@@ -2218,7 +2221,7 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "src/assets/images/website_images_monimentor_Zelfstandig.svg": [
-    "./assets/HomePage-J6jWEdfe.js",
+    "./assets/HomePage-__SLF2Tg.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
@@ -2243,7 +2246,7 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "src/assets/images/website_images_monimentor_connectie.svg": [
-    "./assets/HomePage-J6jWEdfe.js",
+    "./assets/HomePage-__SLF2Tg.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
@@ -2268,7 +2271,7 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "src/assets/images/website_images_monimentor_toekomst.svg": [
-    "./assets/HomePage-J6jWEdfe.js",
+    "./assets/HomePage-__SLF2Tg.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
@@ -2293,7 +2296,7 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "src/components/AppleAppStoreButton.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/HomePage-J6jWEdfe.js",
+    "./assets/HomePage-__SLF2Tg.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
@@ -2318,13 +2321,13 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "src/components/FAQItem.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/FAQPage-Dt3IpgzT.js"
+    "./assets/FAQPage-qKJcP25j.js"
   ],
   "src/components/Footer.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/wave-data-BU1hmqsy.js"
+    "./assets/wave-data-73pHMj1b.js"
   ],
   "src/components/LadderStep.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/HomePage-J6jWEdfe.js",
+    "./assets/HomePage-__SLF2Tg.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
@@ -2350,7 +2353,7 @@
   ],
   "src/components/LanguageSwitcher.vue?vue&type=script&setup=true&lang.ts": [],
   "src/components/MiniDemo.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/HomePage-J6jWEdfe.js",
+    "./assets/HomePage-__SLF2Tg.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
@@ -2375,7 +2378,7 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "src/components/MoniScene.vue": [
-    "./assets/HomePage-J6jWEdfe.js",
+    "./assets/HomePage-__SLF2Tg.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
@@ -2400,7 +2403,7 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "src/components/MoniScene.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/HomePage-J6jWEdfe.js",
+    "./assets/HomePage-__SLF2Tg.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
@@ -2425,7 +2428,7 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "src/components/MoniScene.vue?vue&type=style&index=0&scoped=09f40b66&lang.css": [
-    "./assets/HomePage-J6jWEdfe.js",
+    "./assets/HomePage-__SLF2Tg.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
@@ -2451,7 +2454,7 @@
   ],
   "src/components/NavigationHeader.vue?vue&type=script&setup=true&lang.ts": [],
   "src/components/SectionSidebar.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/HomePage-J6jWEdfe.js",
+    "./assets/HomePage-__SLF2Tg.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
@@ -2476,7 +2479,7 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "src/components/WaveDivider.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/wave-data-BU1hmqsy.js"
+    "./assets/wave-data-73pHMj1b.js"
   ],
   "src/i18n/index.ts": [],
   "src/klaro-config.ts": [
@@ -2487,25 +2490,25 @@
   "src/locales/nl.json": [],
   "src/main.ts": [],
   "src/pages/AboutPage.vue": [
-    "./assets/AboutPage-D1-h-Lbe.js"
+    "./assets/AboutPage-ttRJV6Vw.js"
   ],
   "src/pages/AboutPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/AboutPage-D1-h-Lbe.js"
+    "./assets/AboutPage-ttRJV6Vw.js"
   ],
   "src/pages/ContactPage.vue": [
-    "./assets/ContactPage-BTFkdP9v.js"
+    "./assets/ContactPage-BNSN5_Wg.js"
   ],
   "src/pages/ContactPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/ContactPage-BTFkdP9v.js"
+    "./assets/ContactPage-BNSN5_Wg.js"
   ],
   "src/pages/FAQPage.vue": [
-    "./assets/FAQPage-Dt3IpgzT.js"
+    "./assets/FAQPage-qKJcP25j.js"
   ],
   "src/pages/FAQPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/FAQPage-Dt3IpgzT.js"
+    "./assets/FAQPage-qKJcP25j.js"
   ],
   "src/pages/HomePage.vue": [
-    "./assets/HomePage-J6jWEdfe.js",
+    "./assets/HomePage-__SLF2Tg.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
@@ -2530,7 +2533,7 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "src/pages/HomePage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/HomePage-J6jWEdfe.js",
+    "./assets/HomePage-__SLF2Tg.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
@@ -2559,6 +2562,6 @@
   "src/utils/domain-shim.ts": [],
   "src/utils/seo.ts": [],
   "src/utils/wave-data.ts": [
-    "./assets/wave-data-BU1hmqsy.js"
+    "./assets/wave-data-73pHMj1b.js"
   ]
 }
