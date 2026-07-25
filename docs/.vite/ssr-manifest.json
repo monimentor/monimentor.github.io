@@ -9,7 +9,7 @@
     "./assets/klaro-CZluPq7x.js"
   ],
   "\u0000plugin-vue:export-helper": [
-    "./assets/Button-CPQrcoRf.js"
+    "./assets/Button-WS9B0qN3.js"
   ],
   "\u0000vite/modulepreload-polyfill.js": [],
   "\u0000vite/preload-helper.js": [],
@@ -548,14 +548,11 @@
     "./assets/three-vendor-CpCvPNmD.js"
   ],
   "../monimentor-3d/node_modules/gsap/CSSPlugin.js": [
-    "./assets/HomePage-DWNMN7Q-.js",
+    "./assets/HomePage-CFPwdeHT.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
-    "./assets/iphone_mockup_1-CJY9kT2r.avif",
-    "./assets/iphone_mockup_1-CJHLolWF.webp",
-    "./assets/iphone_mockup_1-CjZyIJka.png",
     "./assets/jar-vJS975Oh.glb",
     "./assets/rocket-CEp8rETc.glb",
     "./assets/Moni-yrr_6dWd.glb",
@@ -567,14 +564,11 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "../monimentor-3d/node_modules/gsap/gsap-core.js": [
-    "./assets/HomePage-DWNMN7Q-.js",
+    "./assets/HomePage-CFPwdeHT.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
-    "./assets/iphone_mockup_1-CJY9kT2r.avif",
-    "./assets/iphone_mockup_1-CJHLolWF.webp",
-    "./assets/iphone_mockup_1-CjZyIJka.png",
     "./assets/jar-vJS975Oh.glb",
     "./assets/rocket-CEp8rETc.glb",
     "./assets/Moni-yrr_6dWd.glb",
@@ -586,14 +580,11 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "../monimentor-3d/node_modules/gsap/index.js": [
-    "./assets/HomePage-DWNMN7Q-.js",
+    "./assets/HomePage-CFPwdeHT.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
-    "./assets/iphone_mockup_1-CJY9kT2r.avif",
-    "./assets/iphone_mockup_1-CJHLolWF.webp",
-    "./assets/iphone_mockup_1-CjZyIJka.png",
     "./assets/jar-vJS975Oh.glb",
     "./assets/rocket-CEp8rETc.glb",
     "./assets/Moni-yrr_6dWd.glb",
@@ -623,14 +614,11 @@
     "./assets/three-vendor-CpCvPNmD.js"
   ],
   "../monimentor-3d/src/three-objects/createJar.ts": [
-    "./assets/HomePage-DWNMN7Q-.js",
+    "./assets/HomePage-CFPwdeHT.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
-    "./assets/iphone_mockup_1-CJY9kT2r.avif",
-    "./assets/iphone_mockup_1-CJHLolWF.webp",
-    "./assets/iphone_mockup_1-CjZyIJka.png",
     "./assets/jar-vJS975Oh.glb",
     "./assets/rocket-CEp8rETc.glb",
     "./assets/Moni-yrr_6dWd.glb",
@@ -642,14 +630,11 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "../monimentor-3d/src/three-objects/createMoni.ts": [
-    "./assets/HomePage-DWNMN7Q-.js",
+    "./assets/HomePage-CFPwdeHT.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
-    "./assets/iphone_mockup_1-CJY9kT2r.avif",
-    "./assets/iphone_mockup_1-CJHLolWF.webp",
-    "./assets/iphone_mockup_1-CjZyIJka.png",
     "./assets/jar-vJS975Oh.glb",
     "./assets/rocket-CEp8rETc.glb",
     "./assets/Moni-yrr_6dWd.glb",
@@ -661,14 +646,11 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "../monimentor-3d/src/three-objects/createOrb.ts": [
-    "./assets/HomePage-DWNMN7Q-.js",
+    "./assets/HomePage-CFPwdeHT.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
-    "./assets/iphone_mockup_1-CJY9kT2r.avif",
-    "./assets/iphone_mockup_1-CJHLolWF.webp",
-    "./assets/iphone_mockup_1-CjZyIJka.png",
     "./assets/jar-vJS975Oh.glb",
     "./assets/rocket-CEp8rETc.glb",
     "./assets/Moni-yrr_6dWd.glb",
@@ -680,14 +662,11 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "../monimentor-3d/src/three-objects/createPlatform.ts": [
-    "./assets/HomePage-DWNMN7Q-.js",
+    "./assets/HomePage-CFPwdeHT.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
-    "./assets/iphone_mockup_1-CJY9kT2r.avif",
-    "./assets/iphone_mockup_1-CJHLolWF.webp",
-    "./assets/iphone_mockup_1-CjZyIJka.png",
     "./assets/jar-vJS975Oh.glb",
     "./assets/rocket-CEp8rETc.glb",
     "./assets/Moni-yrr_6dWd.glb",
@@ -699,14 +678,11 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "../monimentor-3d/src/three-objects/createPlatformOverflow.ts": [
-    "./assets/HomePage-DWNMN7Q-.js",
+    "./assets/HomePage-CFPwdeHT.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
-    "./assets/iphone_mockup_1-CJY9kT2r.avif",
-    "./assets/iphone_mockup_1-CJHLolWF.webp",
-    "./assets/iphone_mockup_1-CjZyIJka.png",
     "./assets/jar-vJS975Oh.glb",
     "./assets/rocket-CEp8rETc.glb",
     "./assets/Moni-yrr_6dWd.glb",
@@ -718,14 +694,11 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "../monimentor-3d/src/three-objects/createRocket.ts": [
-    "./assets/HomePage-DWNMN7Q-.js",
+    "./assets/HomePage-CFPwdeHT.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
-    "./assets/iphone_mockup_1-CJY9kT2r.avif",
-    "./assets/iphone_mockup_1-CJHLolWF.webp",
-    "./assets/iphone_mockup_1-CjZyIJka.png",
     "./assets/jar-vJS975Oh.glb",
     "./assets/rocket-CEp8rETc.glb",
     "./assets/Moni-yrr_6dWd.glb",
@@ -737,14 +710,11 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "../monimentor-3d/src/three-objects/createSmoke.ts": [
-    "./assets/HomePage-DWNMN7Q-.js",
+    "./assets/HomePage-CFPwdeHT.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
-    "./assets/iphone_mockup_1-CJY9kT2r.avif",
-    "./assets/iphone_mockup_1-CJHLolWF.webp",
-    "./assets/iphone_mockup_1-CjZyIJka.png",
     "./assets/jar-vJS975Oh.glb",
     "./assets/rocket-CEp8rETc.glb",
     "./assets/Moni-yrr_6dWd.glb",
@@ -756,14 +726,11 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "../monimentor-3d/src/three-objects/createSnow.ts": [
-    "./assets/HomePage-DWNMN7Q-.js",
+    "./assets/HomePage-CFPwdeHT.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
-    "./assets/iphone_mockup_1-CJY9kT2r.avif",
-    "./assets/iphone_mockup_1-CJHLolWF.webp",
-    "./assets/iphone_mockup_1-CjZyIJka.png",
     "./assets/jar-vJS975Oh.glb",
     "./assets/rocket-CEp8rETc.glb",
     "./assets/Moni-yrr_6dWd.glb",
@@ -775,14 +742,11 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "../monimentor-3d/src/three-objects/models/Moni.glb?url": [
-    "./assets/HomePage-DWNMN7Q-.js",
+    "./assets/HomePage-CFPwdeHT.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
-    "./assets/iphone_mockup_1-CJY9kT2r.avif",
-    "./assets/iphone_mockup_1-CJHLolWF.webp",
-    "./assets/iphone_mockup_1-CjZyIJka.png",
     "./assets/jar-vJS975Oh.glb",
     "./assets/rocket-CEp8rETc.glb",
     "./assets/Moni-yrr_6dWd.glb",
@@ -794,14 +758,11 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "../monimentor-3d/src/three-objects/models/jar.glb?url": [
-    "./assets/HomePage-DWNMN7Q-.js",
+    "./assets/HomePage-CFPwdeHT.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
-    "./assets/iphone_mockup_1-CJY9kT2r.avif",
-    "./assets/iphone_mockup_1-CJHLolWF.webp",
-    "./assets/iphone_mockup_1-CjZyIJka.png",
     "./assets/jar-vJS975Oh.glb",
     "./assets/rocket-CEp8rETc.glb",
     "./assets/Moni-yrr_6dWd.glb",
@@ -813,14 +774,11 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "../monimentor-3d/src/three-objects/models/platform.glb?url": [
-    "./assets/HomePage-DWNMN7Q-.js",
+    "./assets/HomePage-CFPwdeHT.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
-    "./assets/iphone_mockup_1-CJY9kT2r.avif",
-    "./assets/iphone_mockup_1-CJHLolWF.webp",
-    "./assets/iphone_mockup_1-CjZyIJka.png",
     "./assets/jar-vJS975Oh.glb",
     "./assets/rocket-CEp8rETc.glb",
     "./assets/Moni-yrr_6dWd.glb",
@@ -832,14 +790,11 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "../monimentor-3d/src/three-objects/models/platform_overflow.glb?url": [
-    "./assets/HomePage-DWNMN7Q-.js",
+    "./assets/HomePage-CFPwdeHT.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
-    "./assets/iphone_mockup_1-CJY9kT2r.avif",
-    "./assets/iphone_mockup_1-CJHLolWF.webp",
-    "./assets/iphone_mockup_1-CjZyIJka.png",
     "./assets/jar-vJS975Oh.glb",
     "./assets/rocket-CEp8rETc.glb",
     "./assets/Moni-yrr_6dWd.glb",
@@ -851,14 +806,11 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "../monimentor-3d/src/three-objects/models/rocket.glb?url": [
-    "./assets/HomePage-DWNMN7Q-.js",
+    "./assets/HomePage-CFPwdeHT.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
-    "./assets/iphone_mockup_1-CJY9kT2r.avif",
-    "./assets/iphone_mockup_1-CJHLolWF.webp",
-    "./assets/iphone_mockup_1-CjZyIJka.png",
     "./assets/jar-vJS975Oh.glb",
     "./assets/rocket-CEp8rETc.glb",
     "./assets/Moni-yrr_6dWd.glb",
@@ -870,14 +822,11 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "../monimentor-3d/src/three-objects/models/text.glb?url": [
-    "./assets/HomePage-DWNMN7Q-.js",
+    "./assets/HomePage-CFPwdeHT.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
-    "./assets/iphone_mockup_1-CJY9kT2r.avif",
-    "./assets/iphone_mockup_1-CJHLolWF.webp",
-    "./assets/iphone_mockup_1-CjZyIJka.png",
     "./assets/jar-vJS975Oh.glb",
     "./assets/rocket-CEp8rETc.glb",
     "./assets/Moni-yrr_6dWd.glb",
@@ -889,14 +838,11 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "../monimentor-3d/src/three-objects/moniAnimationManager.ts": [
-    "./assets/HomePage-DWNMN7Q-.js",
+    "./assets/HomePage-CFPwdeHT.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
-    "./assets/iphone_mockup_1-CJY9kT2r.avif",
-    "./assets/iphone_mockup_1-CJHLolWF.webp",
-    "./assets/iphone_mockup_1-CjZyIJka.png",
     "./assets/jar-vJS975Oh.glb",
     "./assets/rocket-CEp8rETc.glb",
     "./assets/Moni-yrr_6dWd.glb",
@@ -908,14 +854,11 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "../monimentor-3d/src/three-objects/moniBlinkController.ts": [
-    "./assets/HomePage-DWNMN7Q-.js",
+    "./assets/HomePage-CFPwdeHT.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
-    "./assets/iphone_mockup_1-CJY9kT2r.avif",
-    "./assets/iphone_mockup_1-CJHLolWF.webp",
-    "./assets/iphone_mockup_1-CjZyIJka.png",
     "./assets/jar-vJS975Oh.glb",
     "./assets/rocket-CEp8rETc.glb",
     "./assets/Moni-yrr_6dWd.glb",
@@ -927,14 +870,11 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "../monimentor-3d/src/three-objects/moniIdleBreakController.ts": [
-    "./assets/HomePage-DWNMN7Q-.js",
+    "./assets/HomePage-CFPwdeHT.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
-    "./assets/iphone_mockup_1-CJY9kT2r.avif",
-    "./assets/iphone_mockup_1-CJHLolWF.webp",
-    "./assets/iphone_mockup_1-CjZyIJka.png",
     "./assets/jar-vJS975Oh.glb",
     "./assets/rocket-CEp8rETc.glb",
     "./assets/Moni-yrr_6dWd.glb",
@@ -946,14 +886,11 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "../monimentor-3d/src/three-objects/moniWorld.ts": [
-    "./assets/HomePage-DWNMN7Q-.js",
+    "./assets/HomePage-CFPwdeHT.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
-    "./assets/iphone_mockup_1-CJY9kT2r.avif",
-    "./assets/iphone_mockup_1-CJHLolWF.webp",
-    "./assets/iphone_mockup_1-CjZyIJka.png",
     "./assets/jar-vJS975Oh.glb",
     "./assets/rocket-CEp8rETc.glb",
     "./assets/Moni-yrr_6dWd.glb",
@@ -965,14 +902,11 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "../monimentor-3d/src/three-objects/orbManager.ts": [
-    "./assets/HomePage-DWNMN7Q-.js",
+    "./assets/HomePage-CFPwdeHT.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
-    "./assets/iphone_mockup_1-CJY9kT2r.avif",
-    "./assets/iphone_mockup_1-CJHLolWF.webp",
-    "./assets/iphone_mockup_1-CjZyIJka.png",
     "./assets/jar-vJS975Oh.glb",
     "./assets/rocket-CEp8rETc.glb",
     "./assets/Moni-yrr_6dWd.glb",
@@ -984,14 +918,11 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "../monimentor-3d/src/three-objects/useRocketController.ts": [
-    "./assets/HomePage-DWNMN7Q-.js",
+    "./assets/HomePage-CFPwdeHT.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
-    "./assets/iphone_mockup_1-CJY9kT2r.avif",
-    "./assets/iphone_mockup_1-CJHLolWF.webp",
-    "./assets/iphone_mockup_1-CjZyIJka.png",
     "./assets/jar-vJS975Oh.glb",
     "./assets/rocket-CEp8rETc.glb",
     "./assets/Moni-yrr_6dWd.glb",
@@ -1003,14 +934,14 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "../monimentor-ui/packages/components/src/base/Button.vue": [
-    "./assets/Button-CPQrcoRf.js"
+    "./assets/Button-WS9B0qN3.js"
   ],
   "../monimentor-ui/packages/components/src/base/Button.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/Button-CPQrcoRf.js"
+    "./assets/Button-WS9B0qN3.js"
   ],
   "../monimentor-ui/packages/components/src/base/Button.vue?vue&type=style&index=0&scoped=51823b0c&lang.css": [],
   "../monimentor-ui/packages/components/src/base/GlassCard.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/GlassCard.vue_vue_type_script_setup_true_lang-C0bF_VpX.js"
+    "./assets/GlassCard.vue_vue_type_script_setup_true_lang-Cr1qnrDt.js"
   ],
   "../monimentor-ui/packages/components/src/base/MoniLogo.vue?vue&type=script&setup=true&lang.ts": [],
   "index.html": [],
@@ -1996,17 +1927,17 @@
   "src/App.vue?vue&type=script&setup=true&lang.ts": [],
   "src/App.vue?vue&type=style&index=0&lang.css": [],
   "src/assets/images/Moni_vector.svg": [
-    "./assets/StickerPage-BsSUEie0.js",
+    "./assets/StickerPage-CyUrB305.js",
     "./assets/Moni_vector-CgvD_mcn.svg"
   ],
   "src/assets/images/aangesloten-bij-Netwerk-Mediawijsheid.png": [
-    "./assets/wave-data-SRcP4GAx.js",
+    "./assets/wave-data-DxgVvt19.js",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-D5F2y_tK.avif",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-D16c9bIY.webp",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-BIXC-rAe.png"
   ],
   "src/assets/images/familie.png": [
-    "./assets/AppleAppStoreButton.vue_vue_type_script_setup_true_lang-_LJbm5fZ.js",
+    "./assets/AppleAppStoreButton.vue_vue_type_script_setup_true_lang-CHjNhluY.js",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
     "./assets/familie-DXWUOqNw.png",
@@ -2015,33 +1946,11 @@
     "./assets/website_images_monimentor_toekomst-q4ASVg7K.svg"
   ],
   "src/assets/images/ipad_mockup_1.png": [
-    "./assets/HomePage-DWNMN7Q-.js",
+    "./assets/HomePage-CFPwdeHT.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
-    "./assets/iphone_mockup_1-CJY9kT2r.avif",
-    "./assets/iphone_mockup_1-CJHLolWF.webp",
-    "./assets/iphone_mockup_1-CjZyIJka.png",
-    "./assets/jar-vJS975Oh.glb",
-    "./assets/rocket-CEp8rETc.glb",
-    "./assets/Moni-yrr_6dWd.glb",
-    "./assets/platform-BG_-aveU.glb",
-    "./assets/text-BfOb54GY.glb",
-    "./assets/platform_overflow-Cpt9h5Jm.glb",
-    "./assets/deverkenner-CRaptumd.webp",
-    "./assets/denavigator-B22rUZDa.webp",
-    "./assets/dementor-CIvVEHxS.webp"
-  ],
-  "src/assets/images/iphone_mockup_1.png": [
-    "./assets/HomePage-DWNMN7Q-.js",
-    "./assets/HomePage-C2yENbC-.css",
-    "./assets/ipad_mockup_1-B_98ijG-.avif",
-    "./assets/ipad_mockup_1-D1EZRbkM.webp",
-    "./assets/ipad_mockup_1-pvdEN4UG.png",
-    "./assets/iphone_mockup_1-CJY9kT2r.avif",
-    "./assets/iphone_mockup_1-CJHLolWF.webp",
-    "./assets/iphone_mockup_1-CjZyIJka.png",
     "./assets/jar-vJS975Oh.glb",
     "./assets/rocket-CEp8rETc.glb",
     "./assets/Moni-yrr_6dWd.glb",
@@ -2053,26 +1962,23 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "src/assets/images/webp/aangesloten-bij-Netwerk-Mediawijsheid.avif": [
-    "./assets/wave-data-SRcP4GAx.js",
+    "./assets/wave-data-DxgVvt19.js",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-D5F2y_tK.avif",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-D16c9bIY.webp",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-BIXC-rAe.png"
   ],
   "src/assets/images/webp/aangesloten-bij-Netwerk-Mediawijsheid.webp": [
-    "./assets/wave-data-SRcP4GAx.js",
+    "./assets/wave-data-DxgVvt19.js",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-D5F2y_tK.avif",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-D16c9bIY.webp",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-BIXC-rAe.png"
   ],
   "src/assets/images/webp/dementor.webp": [
-    "./assets/HomePage-DWNMN7Q-.js",
+    "./assets/HomePage-CFPwdeHT.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
-    "./assets/iphone_mockup_1-CJY9kT2r.avif",
-    "./assets/iphone_mockup_1-CJHLolWF.webp",
-    "./assets/iphone_mockup_1-CjZyIJka.png",
     "./assets/jar-vJS975Oh.glb",
     "./assets/rocket-CEp8rETc.glb",
     "./assets/Moni-yrr_6dWd.glb",
@@ -2084,14 +1990,11 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "src/assets/images/webp/denavigator.webp": [
-    "./assets/HomePage-DWNMN7Q-.js",
+    "./assets/HomePage-CFPwdeHT.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
-    "./assets/iphone_mockup_1-CJY9kT2r.avif",
-    "./assets/iphone_mockup_1-CJHLolWF.webp",
-    "./assets/iphone_mockup_1-CjZyIJka.png",
     "./assets/jar-vJS975Oh.glb",
     "./assets/rocket-CEp8rETc.glb",
     "./assets/Moni-yrr_6dWd.glb",
@@ -2103,14 +2006,11 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "src/assets/images/webp/deverkenner.webp": [
-    "./assets/HomePage-DWNMN7Q-.js",
+    "./assets/HomePage-CFPwdeHT.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
-    "./assets/iphone_mockup_1-CJY9kT2r.avif",
-    "./assets/iphone_mockup_1-CJHLolWF.webp",
-    "./assets/iphone_mockup_1-CjZyIJka.png",
     "./assets/jar-vJS975Oh.glb",
     "./assets/rocket-CEp8rETc.glb",
     "./assets/Moni-yrr_6dWd.glb",
@@ -2122,7 +2022,7 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "src/assets/images/webp/familie.avif": [
-    "./assets/AppleAppStoreButton.vue_vue_type_script_setup_true_lang-_LJbm5fZ.js",
+    "./assets/AppleAppStoreButton.vue_vue_type_script_setup_true_lang-CHjNhluY.js",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
     "./assets/familie-DXWUOqNw.png",
@@ -2131,7 +2031,7 @@
     "./assets/website_images_monimentor_toekomst-q4ASVg7K.svg"
   ],
   "src/assets/images/webp/familie.webp": [
-    "./assets/AppleAppStoreButton.vue_vue_type_script_setup_true_lang-_LJbm5fZ.js",
+    "./assets/AppleAppStoreButton.vue_vue_type_script_setup_true_lang-CHjNhluY.js",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
     "./assets/familie-DXWUOqNw.png",
@@ -2140,14 +2040,11 @@
     "./assets/website_images_monimentor_toekomst-q4ASVg7K.svg"
   ],
   "src/assets/images/webp/ipad_mockup_1.avif": [
-    "./assets/HomePage-DWNMN7Q-.js",
+    "./assets/HomePage-CFPwdeHT.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
-    "./assets/iphone_mockup_1-CJY9kT2r.avif",
-    "./assets/iphone_mockup_1-CJHLolWF.webp",
-    "./assets/iphone_mockup_1-CjZyIJka.png",
     "./assets/jar-vJS975Oh.glb",
     "./assets/rocket-CEp8rETc.glb",
     "./assets/Moni-yrr_6dWd.glb",
@@ -2159,52 +2056,11 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "src/assets/images/webp/ipad_mockup_1.webp": [
-    "./assets/HomePage-DWNMN7Q-.js",
+    "./assets/HomePage-CFPwdeHT.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
-    "./assets/iphone_mockup_1-CJY9kT2r.avif",
-    "./assets/iphone_mockup_1-CJHLolWF.webp",
-    "./assets/iphone_mockup_1-CjZyIJka.png",
-    "./assets/jar-vJS975Oh.glb",
-    "./assets/rocket-CEp8rETc.glb",
-    "./assets/Moni-yrr_6dWd.glb",
-    "./assets/platform-BG_-aveU.glb",
-    "./assets/text-BfOb54GY.glb",
-    "./assets/platform_overflow-Cpt9h5Jm.glb",
-    "./assets/deverkenner-CRaptumd.webp",
-    "./assets/denavigator-B22rUZDa.webp",
-    "./assets/dementor-CIvVEHxS.webp"
-  ],
-  "src/assets/images/webp/iphone_mockup_1.avif": [
-    "./assets/HomePage-DWNMN7Q-.js",
-    "./assets/HomePage-C2yENbC-.css",
-    "./assets/ipad_mockup_1-B_98ijG-.avif",
-    "./assets/ipad_mockup_1-D1EZRbkM.webp",
-    "./assets/ipad_mockup_1-pvdEN4UG.png",
-    "./assets/iphone_mockup_1-CJY9kT2r.avif",
-    "./assets/iphone_mockup_1-CJHLolWF.webp",
-    "./assets/iphone_mockup_1-CjZyIJka.png",
-    "./assets/jar-vJS975Oh.glb",
-    "./assets/rocket-CEp8rETc.glb",
-    "./assets/Moni-yrr_6dWd.glb",
-    "./assets/platform-BG_-aveU.glb",
-    "./assets/text-BfOb54GY.glb",
-    "./assets/platform_overflow-Cpt9h5Jm.glb",
-    "./assets/deverkenner-CRaptumd.webp",
-    "./assets/denavigator-B22rUZDa.webp",
-    "./assets/dementor-CIvVEHxS.webp"
-  ],
-  "src/assets/images/webp/iphone_mockup_1.webp": [
-    "./assets/HomePage-DWNMN7Q-.js",
-    "./assets/HomePage-C2yENbC-.css",
-    "./assets/ipad_mockup_1-B_98ijG-.avif",
-    "./assets/ipad_mockup_1-D1EZRbkM.webp",
-    "./assets/ipad_mockup_1-pvdEN4UG.png",
-    "./assets/iphone_mockup_1-CJY9kT2r.avif",
-    "./assets/iphone_mockup_1-CJHLolWF.webp",
-    "./assets/iphone_mockup_1-CjZyIJka.png",
     "./assets/jar-vJS975Oh.glb",
     "./assets/rocket-CEp8rETc.glb",
     "./assets/Moni-yrr_6dWd.glb",
@@ -2216,7 +2072,7 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "src/assets/images/website_images_monimentor_Zelfstandig.svg": [
-    "./assets/AppleAppStoreButton.vue_vue_type_script_setup_true_lang-_LJbm5fZ.js",
+    "./assets/AppleAppStoreButton.vue_vue_type_script_setup_true_lang-CHjNhluY.js",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
     "./assets/familie-DXWUOqNw.png",
@@ -2225,7 +2081,7 @@
     "./assets/website_images_monimentor_toekomst-q4ASVg7K.svg"
   ],
   "src/assets/images/website_images_monimentor_connectie.svg": [
-    "./assets/AppleAppStoreButton.vue_vue_type_script_setup_true_lang-_LJbm5fZ.js",
+    "./assets/AppleAppStoreButton.vue_vue_type_script_setup_true_lang-CHjNhluY.js",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
     "./assets/familie-DXWUOqNw.png",
@@ -2234,7 +2090,7 @@
     "./assets/website_images_monimentor_toekomst-q4ASVg7K.svg"
   ],
   "src/assets/images/website_images_monimentor_toekomst.svg": [
-    "./assets/AppleAppStoreButton.vue_vue_type_script_setup_true_lang-_LJbm5fZ.js",
+    "./assets/AppleAppStoreButton.vue_vue_type_script_setup_true_lang-CHjNhluY.js",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
     "./assets/familie-DXWUOqNw.png",
@@ -2243,7 +2099,7 @@
     "./assets/website_images_monimentor_toekomst-q4ASVg7K.svg"
   ],
   "src/components/AppleAppStoreButton.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/AppleAppStoreButton.vue_vue_type_script_setup_true_lang-_LJbm5fZ.js",
+    "./assets/AppleAppStoreButton.vue_vue_type_script_setup_true_lang-CHjNhluY.js",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
     "./assets/familie-DXWUOqNw.png",
@@ -2252,23 +2108,20 @@
     "./assets/website_images_monimentor_toekomst-q4ASVg7K.svg"
   ],
   "src/components/FAQItem.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/FAQPage-CmBTfOVk.js"
+    "./assets/FAQPage-MsVP_BUX.js"
   ],
   "src/components/Footer.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/wave-data-SRcP4GAx.js",
+    "./assets/wave-data-DxgVvt19.js",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-D5F2y_tK.avif",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-D16c9bIY.webp",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-BIXC-rAe.png"
   ],
   "src/components/LadderStep.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/HomePage-DWNMN7Q-.js",
+    "./assets/HomePage-CFPwdeHT.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
-    "./assets/iphone_mockup_1-CJY9kT2r.avif",
-    "./assets/iphone_mockup_1-CJHLolWF.webp",
-    "./assets/iphone_mockup_1-CjZyIJka.png",
     "./assets/jar-vJS975Oh.glb",
     "./assets/rocket-CEp8rETc.glb",
     "./assets/Moni-yrr_6dWd.glb",
@@ -2281,14 +2134,11 @@
   ],
   "src/components/LanguageSwitcher.vue?vue&type=script&setup=true&lang.ts": [],
   "src/components/MiniDemo.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/HomePage-DWNMN7Q-.js",
+    "./assets/HomePage-CFPwdeHT.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
-    "./assets/iphone_mockup_1-CJY9kT2r.avif",
-    "./assets/iphone_mockup_1-CJHLolWF.webp",
-    "./assets/iphone_mockup_1-CjZyIJka.png",
     "./assets/jar-vJS975Oh.glb",
     "./assets/rocket-CEp8rETc.glb",
     "./assets/Moni-yrr_6dWd.glb",
@@ -2300,14 +2150,11 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "src/components/MoniScene.vue": [
-    "./assets/HomePage-DWNMN7Q-.js",
+    "./assets/HomePage-CFPwdeHT.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
-    "./assets/iphone_mockup_1-CJY9kT2r.avif",
-    "./assets/iphone_mockup_1-CJHLolWF.webp",
-    "./assets/iphone_mockup_1-CjZyIJka.png",
     "./assets/jar-vJS975Oh.glb",
     "./assets/rocket-CEp8rETc.glb",
     "./assets/Moni-yrr_6dWd.glb",
@@ -2319,14 +2166,11 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "src/components/MoniScene.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/HomePage-DWNMN7Q-.js",
+    "./assets/HomePage-CFPwdeHT.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
-    "./assets/iphone_mockup_1-CJY9kT2r.avif",
-    "./assets/iphone_mockup_1-CJHLolWF.webp",
-    "./assets/iphone_mockup_1-CjZyIJka.png",
     "./assets/jar-vJS975Oh.glb",
     "./assets/rocket-CEp8rETc.glb",
     "./assets/Moni-yrr_6dWd.glb",
@@ -2338,14 +2182,11 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "src/components/MoniScene.vue?vue&type=style&index=0&scoped=09f40b66&lang.css": [
-    "./assets/HomePage-DWNMN7Q-.js",
+    "./assets/HomePage-CFPwdeHT.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
-    "./assets/iphone_mockup_1-CJY9kT2r.avif",
-    "./assets/iphone_mockup_1-CJHLolWF.webp",
-    "./assets/iphone_mockup_1-CjZyIJka.png",
     "./assets/jar-vJS975Oh.glb",
     "./assets/rocket-CEp8rETc.glb",
     "./assets/Moni-yrr_6dWd.glb",
@@ -2358,14 +2199,11 @@
   ],
   "src/components/NavigationHeader.vue?vue&type=script&setup=true&lang.ts": [],
   "src/components/SectionSidebar.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/HomePage-DWNMN7Q-.js",
+    "./assets/HomePage-CFPwdeHT.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
-    "./assets/iphone_mockup_1-CJY9kT2r.avif",
-    "./assets/iphone_mockup_1-CJHLolWF.webp",
-    "./assets/iphone_mockup_1-CjZyIJka.png",
     "./assets/jar-vJS975Oh.glb",
     "./assets/rocket-CEp8rETc.glb",
     "./assets/Moni-yrr_6dWd.glb",
@@ -2377,7 +2215,7 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "src/components/WaveDivider.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/wave-data-SRcP4GAx.js",
+    "./assets/wave-data-DxgVvt19.js",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-D5F2y_tK.avif",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-D16c9bIY.webp",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-BIXC-rAe.png"
@@ -2406,50 +2244,47 @@
   "src/locales/nl.json": [],
   "src/main.ts": [],
   "src/pages/AboutPage.vue": [
-    "./assets/AboutPage-CWDj1PUa.js"
+    "./assets/AboutPage-k5ZO9Rmm.js"
   ],
   "src/pages/AboutPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/AboutPage-CWDj1PUa.js"
+    "./assets/AboutPage-k5ZO9Rmm.js"
   ],
   "src/pages/BlogPage.vue": [
-    "./assets/BlogPage-DUWg-XNJ.js"
+    "./assets/BlogPage-CvsgSr86.js"
   ],
   "src/pages/BlogPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/BlogPage-DUWg-XNJ.js"
+    "./assets/BlogPage-CvsgSr86.js"
   ],
   "src/pages/BlogPostPage.vue": [
-    "./assets/BlogPostPage-CN7U_KXN.js",
+    "./assets/BlogPostPage-C8iMgha9.js",
     "./assets/BlogPostPage-DQPIuGiC.css"
   ],
   "src/pages/BlogPostPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/BlogPostPage-CN7U_KXN.js",
+    "./assets/BlogPostPage-C8iMgha9.js",
     "./assets/BlogPostPage-DQPIuGiC.css"
   ],
   "src/pages/BlogPostPage.vue?vue&type=style&index=0&lang.css": [
-    "./assets/BlogPostPage-CN7U_KXN.js",
+    "./assets/BlogPostPage-C8iMgha9.js",
     "./assets/BlogPostPage-DQPIuGiC.css"
   ],
   "src/pages/ContactPage.vue": [
-    "./assets/ContactPage-BLyDZy7D.js"
+    "./assets/ContactPage-T-HLTta8.js"
   ],
   "src/pages/ContactPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/ContactPage-BLyDZy7D.js"
+    "./assets/ContactPage-T-HLTta8.js"
   ],
   "src/pages/FAQPage.vue": [
-    "./assets/FAQPage-CmBTfOVk.js"
+    "./assets/FAQPage-MsVP_BUX.js"
   ],
   "src/pages/FAQPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/FAQPage-CmBTfOVk.js"
+    "./assets/FAQPage-MsVP_BUX.js"
   ],
   "src/pages/HomePage.vue": [
-    "./assets/HomePage-DWNMN7Q-.js",
+    "./assets/HomePage-CFPwdeHT.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
-    "./assets/iphone_mockup_1-CJY9kT2r.avif",
-    "./assets/iphone_mockup_1-CJHLolWF.webp",
-    "./assets/iphone_mockup_1-CjZyIJka.png",
     "./assets/jar-vJS975Oh.glb",
     "./assets/rocket-CEp8rETc.glb",
     "./assets/Moni-yrr_6dWd.glb",
@@ -2461,14 +2296,11 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "src/pages/HomePage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/HomePage-DWNMN7Q-.js",
+    "./assets/HomePage-CFPwdeHT.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
-    "./assets/iphone_mockup_1-CJY9kT2r.avif",
-    "./assets/iphone_mockup_1-CJHLolWF.webp",
-    "./assets/iphone_mockup_1-CjZyIJka.png",
     "./assets/jar-vJS975Oh.glb",
     "./assets/rocket-CEp8rETc.glb",
     "./assets/Moni-yrr_6dWd.glb",
@@ -2480,11 +2312,11 @@
     "./assets/dementor-CIvVEHxS.webp"
   ],
   "src/pages/StickerPage.vue": [
-    "./assets/StickerPage-BsSUEie0.js",
+    "./assets/StickerPage-CyUrB305.js",
     "./assets/Moni_vector-CgvD_mcn.svg"
   ],
   "src/pages/StickerPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/StickerPage-BsSUEie0.js",
+    "./assets/StickerPage-CyUrB305.js",
     "./assets/Moni_vector-CgvD_mcn.svg"
   ],
   "src/router/index.ts": [],
@@ -2492,7 +2324,7 @@
   "src/utils/domain-shim.ts": [],
   "src/utils/seo.ts": [],
   "src/utils/wave-data.ts": [
-    "./assets/wave-data-SRcP4GAx.js",
+    "./assets/wave-data-DxgVvt19.js",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-D5F2y_tK.avif",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-D16c9bIY.webp",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-BIXC-rAe.png"
