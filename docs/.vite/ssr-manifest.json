@@ -9,7 +9,7 @@
     "./assets/klaro-CZluPq7x.js"
   ],
   "\u0000plugin-vue:export-helper": [
-    "./assets/Button-DoWBTy_X.js"
+    "./assets/Button-D852vSJO.js"
   ],
   "\u0000vite/modulepreload-polyfill.js": [],
   "\u0000vite/preload-helper.js": [],
@@ -548,7 +548,7 @@
     "./assets/three-vendor-CpCvPNmD.js"
   ],
   "../monimentor-3d/node_modules/gsap/CSSPlugin.js": [
-    "./assets/HomePage-CJVJOKGD.js",
+    "./assets/HomePage-BfynJRa1.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
@@ -565,7 +565,7 @@
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "../monimentor-3d/node_modules/gsap/gsap-core.js": [
-    "./assets/HomePage-CJVJOKGD.js",
+    "./assets/HomePage-BfynJRa1.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
@@ -582,7 +582,7 @@
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "../monimentor-3d/node_modules/gsap/index.js": [
-    "./assets/HomePage-CJVJOKGD.js",
+    "./assets/HomePage-BfynJRa1.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
@@ -617,7 +617,7 @@
     "./assets/three-vendor-CpCvPNmD.js"
   ],
   "../monimentor-3d/src/three-objects/createJar.ts": [
-    "./assets/HomePage-CJVJOKGD.js",
+    "./assets/HomePage-BfynJRa1.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
@@ -634,7 +634,7 @@
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "../monimentor-3d/src/three-objects/createMoni.ts": [
-    "./assets/HomePage-CJVJOKGD.js",
+    "./assets/HomePage-BfynJRa1.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
@@ -651,7 +651,7 @@
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "../monimentor-3d/src/three-objects/createOrb.ts": [
-    "./assets/HomePage-CJVJOKGD.js",
+    "./assets/HomePage-BfynJRa1.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
@@ -668,7 +668,7 @@
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "../monimentor-3d/src/three-objects/createPlatform.ts": [
-    "./assets/HomePage-CJVJOKGD.js",
+    "./assets/HomePage-BfynJRa1.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
@@ -685,7 +685,7 @@
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "../monimentor-3d/src/three-objects/createPlatformOverflow.ts": [
-    "./assets/HomePage-CJVJOKGD.js",
+    "./assets/HomePage-BfynJRa1.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
@@ -702,7 +702,7 @@
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "../monimentor-3d/src/three-objects/createRocket.ts": [
-    "./assets/HomePage-CJVJOKGD.js",
+    "./assets/HomePage-BfynJRa1.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
@@ -719,7 +719,7 @@
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "../monimentor-3d/src/three-objects/createSmoke.ts": [
-    "./assets/HomePage-CJVJOKGD.js",
+    "./assets/HomePage-BfynJRa1.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
@@ -736,7 +736,7 @@
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "../monimentor-3d/src/three-objects/createSnow.ts": [
-    "./assets/HomePage-CJVJOKGD.js",
+    "./assets/HomePage-BfynJRa1.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
@@ -753,7 +753,7 @@
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "../monimentor-3d/src/three-objects/models/Moni.glb?url": [
-    "./assets/HomePage-CJVJOKGD.js",
+    "./assets/HomePage-BfynJRa1.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
@@ -770,7 +770,7 @@
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "../monimentor-3d/src/three-objects/models/jar.glb?url": [
-    "./assets/HomePage-CJVJOKGD.js",
+    "./assets/HomePage-BfynJRa1.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
@@ -787,7 +787,7 @@
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "../monimentor-3d/src/three-objects/models/platform.glb?url": [
-    "./assets/HomePage-CJVJOKGD.js",
+    "./assets/HomePage-BfynJRa1.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
@@ -804,7 +804,7 @@
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "../monimentor-3d/src/three-objects/models/platform_overflow.glb?url": [
-    "./assets/HomePage-CJVJOKGD.js",
+    "./assets/HomePage-BfynJRa1.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
@@ -821,7 +821,7 @@
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "../monimentor-3d/src/three-objects/models/rocket.glb?url": [
-    "./assets/HomePage-CJVJOKGD.js",
+    "./assets/HomePage-BfynJRa1.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
@@ -838,7 +838,7 @@
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "../monimentor-3d/src/three-objects/models/text.glb?url": [
-    "./assets/HomePage-CJVJOKGD.js",
+    "./assets/HomePage-BfynJRa1.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
@@ -855,7 +855,7 @@
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "../monimentor-3d/src/three-objects/moniAnimationManager.ts": [
-    "./assets/HomePage-CJVJOKGD.js",
+    "./assets/HomePage-BfynJRa1.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
@@ -872,7 +872,7 @@
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "../monimentor-3d/src/three-objects/moniBlinkController.ts": [
-    "./assets/HomePage-CJVJOKGD.js",
+    "./assets/HomePage-BfynJRa1.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
@@ -889,7 +889,7 @@
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "../monimentor-3d/src/three-objects/moniIdleBreakController.ts": [
-    "./assets/HomePage-CJVJOKGD.js",
+    "./assets/HomePage-BfynJRa1.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
@@ -906,7 +906,7 @@
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "../monimentor-3d/src/three-objects/moniWorld.ts": [
-    "./assets/HomePage-CJVJOKGD.js",
+    "./assets/HomePage-BfynJRa1.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
@@ -923,7 +923,7 @@
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "../monimentor-3d/src/three-objects/orbManager.ts": [
-    "./assets/HomePage-CJVJOKGD.js",
+    "./assets/HomePage-BfynJRa1.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
@@ -940,7 +940,7 @@
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "../monimentor-3d/src/three-objects/useRocketController.ts": [
-    "./assets/HomePage-CJVJOKGD.js",
+    "./assets/HomePage-BfynJRa1.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
@@ -957,14 +957,14 @@
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "../monimentor-ui/packages/components/src/base/Button.vue": [
-    "./assets/Button-DoWBTy_X.js"
+    "./assets/Button-D852vSJO.js"
   ],
   "../monimentor-ui/packages/components/src/base/Button.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/Button-DoWBTy_X.js"
+    "./assets/Button-D852vSJO.js"
   ],
   "../monimentor-ui/packages/components/src/base/Button.vue?vue&type=style&index=0&scoped=51823b0c&lang.css": [],
   "../monimentor-ui/packages/components/src/base/GlassCard.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/GlassCard.vue_vue_type_script_setup_true_lang-XaDBhh63.js"
+    "./assets/GlassCard.vue_vue_type_script_setup_true_lang-BiODhEEi.js"
   ],
   "../monimentor-ui/packages/components/src/base/MoniLogo.vue?vue&type=script&setup=true&lang.ts": [],
   "index.html": [],
@@ -1722,217 +1722,217 @@
     "./assets/klaro-CZluPq7x.js"
   ],
   "node_modules/linkify-it/index.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/linkify-it/lib/re.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/lib/common/html_blocks.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/lib/common/html_re.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/lib/common/utils.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/lib/helpers/index.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/lib/helpers/parse_link_destination.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/lib/helpers/parse_link_label.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/lib/helpers/parse_link_title.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/lib/index.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/lib/parser_block.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/lib/parser_core.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/lib/parser_inline.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/lib/presets/commonmark.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/lib/presets/default.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/lib/presets/zero.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/lib/renderer.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/lib/ruler.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/lib/rules_block/blockquote.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/lib/rules_block/code.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/lib/rules_block/fence.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/lib/rules_block/heading.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/lib/rules_block/hr.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/lib/rules_block/html_block.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/lib/rules_block/lheading.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/lib/rules_block/list.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/lib/rules_block/paragraph.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/lib/rules_block/reference.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/lib/rules_block/state_block.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/lib/rules_block/table.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/lib/rules_core/block.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/lib/rules_core/inline.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/lib/rules_core/linkify.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/lib/rules_core/normalize.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/lib/rules_core/replacements.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/lib/rules_core/smartquotes.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/lib/rules_core/state_core.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/lib/rules_core/text_join.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/autolink.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/backticks.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/balance_pairs.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/emphasis.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/entity.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/escape.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/fragments_join.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/html_inline.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/image.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/link.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/linkify.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/newline.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/state_inline.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/strikethrough.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/text.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/lib/token.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/node_modules/entities/lib/esm/decode.js": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/node_modules/entities/lib/esm/decode_codepoint.js": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/node_modules/entities/lib/esm/generated/decode-data-html.js": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/markdown-it/node_modules/entities/lib/esm/generated/decode-data-xml.js": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/mdurl/index.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/mdurl/lib/decode.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/mdurl/lib/encode.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/mdurl/lib/format.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/mdurl/lib/parse.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/punycode.js/punycode.es6.js": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/uc.micro/categories/Cc/regex.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/uc.micro/categories/Cf/regex.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/uc.micro/categories/P/regex.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/uc.micro/categories/S/regex.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/uc.micro/categories/Z/regex.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/uc.micro/index.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/uc.micro/properties/Any/regex.mjs": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "node_modules/vite-ssg/dist/index.mjs": [],
   "node_modules/vite-ssg/dist/shared/vite-ssg.C6pK7rvr.mjs": [],
@@ -1950,17 +1950,17 @@
   "src/App.vue?vue&type=script&setup=true&lang.ts": [],
   "src/App.vue?vue&type=style&index=0&lang.css": [],
   "src/assets/images/Moni_vector.svg": [
-    "./assets/StickerPage-BWCMk8Lx.js",
+    "./assets/StickerPage-e6Jhu_6T.js",
     "./assets/Moni_vector-CgvD_mcn.svg"
   ],
   "src/assets/images/aangesloten-bij-Netwerk-Mediawijsheid.png": [
-    "./assets/wave-data-qkLPExRn.js",
+    "./assets/wave-data-COemyXM9.js",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-D5F2y_tK.avif",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-D16c9bIY.webp",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-BIXC-rAe.png"
   ],
   "src/assets/images/familie.png": [
-    "./assets/AppleAppStoreButton.vue_vue_type_script_setup_true_lang-B9GP4Bjg.js",
+    "./assets/AppleAppStoreButton.vue_vue_type_script_setup_true_lang-Cyar541J.js",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
     "./assets/familie-DXWUOqNw.png",
@@ -1969,7 +1969,7 @@
     "./assets/website_images_monimentor_toekomst-q4ASVg7K.svg"
   ],
   "src/assets/images/ipad_mockup_1.png": [
-    "./assets/HomePage-CJVJOKGD.js",
+    "./assets/HomePage-BfynJRa1.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
@@ -1986,19 +1986,19 @@
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "src/assets/images/webp/aangesloten-bij-Netwerk-Mediawijsheid.avif": [
-    "./assets/wave-data-qkLPExRn.js",
+    "./assets/wave-data-COemyXM9.js",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-D5F2y_tK.avif",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-D16c9bIY.webp",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-BIXC-rAe.png"
   ],
   "src/assets/images/webp/aangesloten-bij-Netwerk-Mediawijsheid.webp": [
-    "./assets/wave-data-qkLPExRn.js",
+    "./assets/wave-data-COemyXM9.js",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-D5F2y_tK.avif",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-D16c9bIY.webp",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-BIXC-rAe.png"
   ],
   "src/assets/images/webp/dementor.webp": [
-    "./assets/HomePage-CJVJOKGD.js",
+    "./assets/HomePage-BfynJRa1.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
@@ -2015,7 +2015,7 @@
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "src/assets/images/webp/denavigator.webp": [
-    "./assets/HomePage-CJVJOKGD.js",
+    "./assets/HomePage-BfynJRa1.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
@@ -2032,7 +2032,7 @@
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "src/assets/images/webp/deverkenner.webp": [
-    "./assets/HomePage-CJVJOKGD.js",
+    "./assets/HomePage-BfynJRa1.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
@@ -2049,7 +2049,7 @@
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "src/assets/images/webp/familie.avif": [
-    "./assets/AppleAppStoreButton.vue_vue_type_script_setup_true_lang-B9GP4Bjg.js",
+    "./assets/AppleAppStoreButton.vue_vue_type_script_setup_true_lang-Cyar541J.js",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
     "./assets/familie-DXWUOqNw.png",
@@ -2058,7 +2058,7 @@
     "./assets/website_images_monimentor_toekomst-q4ASVg7K.svg"
   ],
   "src/assets/images/webp/familie.webp": [
-    "./assets/AppleAppStoreButton.vue_vue_type_script_setup_true_lang-B9GP4Bjg.js",
+    "./assets/AppleAppStoreButton.vue_vue_type_script_setup_true_lang-Cyar541J.js",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
     "./assets/familie-DXWUOqNw.png",
@@ -2067,7 +2067,7 @@
     "./assets/website_images_monimentor_toekomst-q4ASVg7K.svg"
   ],
   "src/assets/images/webp/ipad_mockup_1.avif": [
-    "./assets/HomePage-CJVJOKGD.js",
+    "./assets/HomePage-BfynJRa1.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
@@ -2084,7 +2084,7 @@
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "src/assets/images/webp/ipad_mockup_1.webp": [
-    "./assets/HomePage-CJVJOKGD.js",
+    "./assets/HomePage-BfynJRa1.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
@@ -2101,7 +2101,7 @@
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "src/assets/images/website_images_monimentor_Zelfstandig.svg": [
-    "./assets/AppleAppStoreButton.vue_vue_type_script_setup_true_lang-B9GP4Bjg.js",
+    "./assets/AppleAppStoreButton.vue_vue_type_script_setup_true_lang-Cyar541J.js",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
     "./assets/familie-DXWUOqNw.png",
@@ -2110,7 +2110,7 @@
     "./assets/website_images_monimentor_toekomst-q4ASVg7K.svg"
   ],
   "src/assets/images/website_images_monimentor_connectie.svg": [
-    "./assets/AppleAppStoreButton.vue_vue_type_script_setup_true_lang-B9GP4Bjg.js",
+    "./assets/AppleAppStoreButton.vue_vue_type_script_setup_true_lang-Cyar541J.js",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
     "./assets/familie-DXWUOqNw.png",
@@ -2119,7 +2119,7 @@
     "./assets/website_images_monimentor_toekomst-q4ASVg7K.svg"
   ],
   "src/assets/images/website_images_monimentor_toekomst.svg": [
-    "./assets/AppleAppStoreButton.vue_vue_type_script_setup_true_lang-B9GP4Bjg.js",
+    "./assets/AppleAppStoreButton.vue_vue_type_script_setup_true_lang-Cyar541J.js",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
     "./assets/familie-DXWUOqNw.png",
@@ -2128,7 +2128,7 @@
     "./assets/website_images_monimentor_toekomst-q4ASVg7K.svg"
   ],
   "src/assets/videos/monimentor-ouder.mp4": [
-    "./assets/HomePage-CJVJOKGD.js",
+    "./assets/HomePage-BfynJRa1.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
@@ -2145,7 +2145,7 @@
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "src/components/AppleAppStoreButton.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/AppleAppStoreButton.vue_vue_type_script_setup_true_lang-B9GP4Bjg.js",
+    "./assets/AppleAppStoreButton.vue_vue_type_script_setup_true_lang-Cyar541J.js",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-BeCptgp5.webp",
     "./assets/familie-DXWUOqNw.png",
@@ -2154,7 +2154,7 @@
     "./assets/website_images_monimentor_toekomst-q4ASVg7K.svg"
   ],
   "src/components/DeviceVideoFrame.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/HomePage-CJVJOKGD.js",
+    "./assets/HomePage-BfynJRa1.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
@@ -2171,16 +2171,16 @@
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "src/components/FAQItem.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/FAQPage-DPBPgDZw.js"
+    "./assets/FAQPage-BiqQPRoQ.js"
   ],
   "src/components/Footer.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/wave-data-qkLPExRn.js",
+    "./assets/wave-data-COemyXM9.js",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-D5F2y_tK.avif",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-D16c9bIY.webp",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-BIXC-rAe.png"
   ],
   "src/components/LadderStep.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/HomePage-CJVJOKGD.js",
+    "./assets/HomePage-BfynJRa1.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
@@ -2198,7 +2198,7 @@
   ],
   "src/components/LanguageSwitcher.vue?vue&type=script&setup=true&lang.ts": [],
   "src/components/MiniDemo.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/HomePage-CJVJOKGD.js",
+    "./assets/HomePage-BfynJRa1.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
@@ -2215,7 +2215,7 @@
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "src/components/MoniScene.vue": [
-    "./assets/HomePage-CJVJOKGD.js",
+    "./assets/HomePage-BfynJRa1.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
@@ -2232,7 +2232,7 @@
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "src/components/MoniScene.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/HomePage-CJVJOKGD.js",
+    "./assets/HomePage-BfynJRa1.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
@@ -2249,7 +2249,7 @@
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "src/components/MoniScene.vue?vue&type=style&index=0&scoped=09f40b66&lang.css": [
-    "./assets/HomePage-CJVJOKGD.js",
+    "./assets/HomePage-BfynJRa1.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
@@ -2267,7 +2267,7 @@
   ],
   "src/components/NavigationHeader.vue?vue&type=script&setup=true&lang.ts": [],
   "src/components/SectionSidebar.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/HomePage-CJVJOKGD.js",
+    "./assets/HomePage-BfynJRa1.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
@@ -2284,46 +2284,46 @@
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "src/components/WaveDivider.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/wave-data-qkLPExRn.js",
+    "./assets/wave-data-COemyXM9.js",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-D5F2y_tK.avif",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-D16c9bIY.webp",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-BIXC-rAe.png"
   ],
   "src/data/blog/authors.ts": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "src/data/blog/index.ts": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "src/data/blog/posts/blijf-in-beeld-zo-start-je-het-digitale-gezinsgesprek.en.md?raw": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "src/data/blog/posts/blijf-in-beeld-zo-start-je-het-digitale-gezinsgesprek.nl.md?raw": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "src/data/blog/posts/de-digitale-speeltuin-begeleiding-boven-verbod.en.md?raw": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "src/data/blog/posts/de-digitale-speeltuin-begeleiding-boven-verbod.nl.md?raw": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "src/data/blog/posts/digitale-opvoeding-tippen.en.md?raw": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "src/data/blog/posts/digitale-opvoeding-tippen.nl.md?raw": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "src/data/blog/posts/kleurwedstrijd-kleurplaat.en.md?raw": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "src/data/blog/posts/kleurwedstrijd-kleurplaat.nl.md?raw": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "src/data/blog/posts/van-politieagent-naar-gids.en.md?raw": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "src/data/blog/posts/van-politieagent-naar-gids.nl.md?raw": [
-    "./assets/authors-DIsP5xGD.js"
+    "./assets/authors-BhC7WyJG.js"
   ],
   "src/data/blog/slugs.ts": [],
   "src/i18n/index.ts": [],
@@ -2335,43 +2335,43 @@
   "src/locales/nl.json": [],
   "src/main.ts": [],
   "src/pages/AboutPage.vue": [
-    "./assets/AboutPage-COvnMId9.js"
+    "./assets/AboutPage-AZY5VYjV.js"
   ],
   "src/pages/AboutPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/AboutPage-COvnMId9.js"
+    "./assets/AboutPage-AZY5VYjV.js"
   ],
   "src/pages/BlogPage.vue": [
-    "./assets/BlogPage-Ca4-1MQX.js"
+    "./assets/BlogPage-DMPnpmUc.js"
   ],
   "src/pages/BlogPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/BlogPage-Ca4-1MQX.js"
+    "./assets/BlogPage-DMPnpmUc.js"
   ],
   "src/pages/BlogPostPage.vue": [
-    "./assets/BlogPostPage-CLWtuKij.js",
+    "./assets/BlogPostPage-D4Vq2ta_.js",
     "./assets/BlogPostPage-DQPIuGiC.css"
   ],
   "src/pages/BlogPostPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/BlogPostPage-CLWtuKij.js",
+    "./assets/BlogPostPage-D4Vq2ta_.js",
     "./assets/BlogPostPage-DQPIuGiC.css"
   ],
   "src/pages/BlogPostPage.vue?vue&type=style&index=0&lang.css": [
-    "./assets/BlogPostPage-CLWtuKij.js",
+    "./assets/BlogPostPage-D4Vq2ta_.js",
     "./assets/BlogPostPage-DQPIuGiC.css"
   ],
   "src/pages/ContactPage.vue": [
-    "./assets/ContactPage-CMTz1OBy.js"
+    "./assets/ContactPage-B2ESUwhc.js"
   ],
   "src/pages/ContactPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/ContactPage-CMTz1OBy.js"
+    "./assets/ContactPage-B2ESUwhc.js"
   ],
   "src/pages/FAQPage.vue": [
-    "./assets/FAQPage-DPBPgDZw.js"
+    "./assets/FAQPage-BiqQPRoQ.js"
   ],
   "src/pages/FAQPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/FAQPage-DPBPgDZw.js"
+    "./assets/FAQPage-BiqQPRoQ.js"
   ],
   "src/pages/HomePage.vue": [
-    "./assets/HomePage-CJVJOKGD.js",
+    "./assets/HomePage-BfynJRa1.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
@@ -2388,7 +2388,7 @@
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "src/pages/HomePage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/HomePage-CJVJOKGD.js",
+    "./assets/HomePage-BfynJRa1.js",
     "./assets/HomePage-C2yENbC-.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-D1EZRbkM.webp",
@@ -2405,11 +2405,11 @@
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "src/pages/StickerPage.vue": [
-    "./assets/StickerPage-BWCMk8Lx.js",
+    "./assets/StickerPage-e6Jhu_6T.js",
     "./assets/Moni_vector-CgvD_mcn.svg"
   ],
   "src/pages/StickerPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/StickerPage-BWCMk8Lx.js",
+    "./assets/StickerPage-e6Jhu_6T.js",
     "./assets/Moni_vector-CgvD_mcn.svg"
   ],
   "src/router/index.ts": [],
@@ -2417,7 +2417,7 @@
   "src/utils/domain-shim.ts": [],
   "src/utils/seo.ts": [],
   "src/utils/wave-data.ts": [
-    "./assets/wave-data-qkLPExRn.js",
+    "./assets/wave-data-COemyXM9.js",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-D5F2y_tK.avif",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-D16c9bIY.webp",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-BIXC-rAe.png"

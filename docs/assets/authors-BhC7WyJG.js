@@ -288,17 +288,17 @@ Download de kleurplaat vandaag nog, verzamel de potloden en maak er een gezellig
     🎨 Download kleurplaat
   </a>
 </p>`,Iu=`---
-title: "...and they lived happily ever after — digitally!"
+title: "...and they lived a long and happy digital life!"
 date: "2026-04-03"
 category: "Digital Parenting"
 author: "maarten"
-excerpt: "Does this sound familiar? Your child doesn't have their own phone yet and doesn't have long screen time history, but interest in screens is already clearly present. Discover why now — before the phone — is the foundation for healthy digital habits."
+excerpt: "Does this sound familiar? Your child doesn't have their own phone yet and doesn't have long screen time history, but interest in screens is already clearly present. Discover why now — before the phone — is when you can lay the foundation."
 tags: ["parenting", "digital", "screen", "guide"]
 ---
 
-# ...and they lived happily ever after — digitally!
+# ...and they lived a long and happy digital life!
 
-Does this sound familiar? Your child doesn't have their own phone yet and doesn't have long screen time history, but interest in screens is already clearly present. A finger reaching for the tablet, a lingering glance, a request to watch one more time. You think: *"How do I prepare them properly from the start?"* You don't want to be a combative police officer constantly monitoring, but you certainly don't want to be the 'bad' parent who just lets everything happen. This doubt is relatable. You want to do the right thing, but aren't sure where to begin. And just like every transition in parenting, the right path doesn't start when the first smartphone is handed over. It starts now. Before the phone.
+Does this sound familiar? Your child doesn't have their own phone yet and doesn't have long screen time history, but interest in screens is already clearly present. A finger reaching for the tablet, a lingering glance, a request to watch one more time. You think: *"How do I prepare them now, from the start?"* You don't want to be the combative police officer constantly checking, but you certainly don't want to be the 'bad' parent who just lets everything happen. This doubt is relatable. You want to do the right thing, but aren't sure where to begin. And just like every transition in parenting, the right path doesn't start when the first smartphone is handed over. It starts now. Before the phone.
 
 ## The 'before the phone' gap: why waiting is too late
 
@@ -306,7 +306,7 @@ Most digital parenting apps and screen time tools only kick in when the child al
 
 ## Become the relaxed guide, not the strict police officer
 
-You're not a parenting coach who has to constantly supervise. You're the guide. Every parent's deepest desire is simple: a good relationship with your child and the confidence that you're doing the right thing. Monimentor supports you precisely in that. Instead of rigid limits that lead to tantrums, we work with gentle boundaries. A time limit shown visually, a system that only activates when your child turns it on themselves, and a sounding board that thinks along rather than punishes.
+You're not a parenting coach who has to constantly supervise. You're the guide. The deepest desire of every parent is simple: a good relationship with your child and the confidence that you're doing the right thing. Monimentor supports you precisely in that. Instead of rigid limits that lead to tantrums, we work with gentle boundaries. A time limit shown visually, a system that only activates when your child turns it on themselves, and a sounding board that thinks along rather than punishes.
 
 Parents who use Monimentor notice immediately how the atmosphere changes. "As soon as the kids want to watch something, they have to turn on the app. I find that a huge advantage: they can only get started once the system is active," shares one mother. "It's very pleasant that the remaining time is now visually visible. That clear boundary means they stick to it." Your child learns to pace themselves by practicing, not by being banned. And you? You get that much-loved peace at the kitchen table back.
 
@@ -314,7 +314,7 @@ Parents who use Monimentor notice immediately how the atmosphere changes. "As so
 
 Digital parenting isn't one-size-fits-all, and we understand that. Monimentor aligns precisely with the question you have at this moment, adapted to your child's development:
 
-**4–7 years: Atmosphere and smooth transitions**  
+**4–7 years: Calm atmosphere and smooth transitions**  
 It's about creating a safe, predictable routine. How do you ensure agreements are followed without ending in a tantrum? Monimentor makes the transition from screens to playing, eating, or sleeping smooth, so the tablet becomes a clear part of the daily family routine.
 
 **8–10 years: Building self-regulation**  
@@ -325,7 +325,7 @@ The transition to middle school is around the corner. Now it's about building re
 
 ## Technology that gives, not takes
 
-Monimentor was born from a deeply held belief: technology should give, not take. Wonder about how things work. The free will to make your own choices. Skills and resilience to enter that world with confidence. That's why Monimentor is completely free. No hidden costs, no data selling, just space for your family to grow (together) in the digital world. And you don't learn that by banning things. You learn it by practicing. With Monimentor.
+Monimentor was born from a deeply held belief: technology should give, not take. A sense of wonder about how things work. The free will to make your own choices. Skills and resilience to enter that world with confidence. That's why Monimentor is completely free. No hidden costs, no data selling, just space for your family to grow (together) in the digital world. And you don't learn that by banning things. You learn it by practicing. With Monimentor.
 
 ## Ready to share control?
 
