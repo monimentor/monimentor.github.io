@@ -65,4 +65,44 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://monimentor.com/blog/van-schermpaniek-naar-digitale-rust-zo-bouw-je-weerbaarheid</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://monimentor.com/en/blog/blijf-in-beeld-zo-start-je-het-digitale-gezinsgesprek</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://monimentor.com/en/blog/de-digitale-speeltuin-begeleiding-boven-verbod</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://monimentor.com/en/blog/digitale-opvoeding-tippen</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://monimentor.com/en/blog/hoe-moni-gebaren-leert-en-jij-je-kind-digitaal-begeleidt</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://monimentor.com/en/blog/kleurwedstrijd-kleurplaat</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://monimentor.com/en/blog/van-politieagent-naar-gids</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://monimentor.com/en/blog/van-schermpaniek-naar-digitale-rust-zo-bouw-je-weerbaarheid</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
