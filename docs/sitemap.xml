@@ -46,6 +46,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://monimentor.com/blog/de-eu-kids-act-waarom-deze-wet-jou-als-ouder-ontlast</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://monimentor.com/blog/digitale-opvoeding-tippen</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -77,6 +82,11 @@
   </url>
   <url>
     <loc>https://monimentor.com/en/blog/de-digitale-speeltuin-begeleiding-boven-verbod</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://monimentor.com/en/blog/de-eu-kids-act-waarom-deze-wet-jou-als-ouder-ontlast</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
