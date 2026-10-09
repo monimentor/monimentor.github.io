@@ -1,0 +1,1 @@
+function s(e){if(!e||typeof e!="string")return!1;const t=e.trim();return/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(t)}async function i(e){const t=(e.email||"").trim().toLowerCase();if(!s(t))throw new Error("invalid_email");return e.honeypot&&e.honeypot.trim().length>0?{success:!0}:(e.lang,e.source,e.formType,await new Promise(r=>setTimeout(r,400)),{success:!0})}export{i as s};

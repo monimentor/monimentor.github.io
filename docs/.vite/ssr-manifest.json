@@ -9,562 +9,556 @@
     "./assets/klaro-CZluPq7x.js"
   ],
   "\u0000plugin-vue:export-helper": [
-    "./assets/Button-JRvDYqUA.js"
+    "./assets/_plugin-vue_export-helper-DlAUqK2U.js"
   ],
   "\u0000vite/modulepreload-polyfill.js": [],
   "\u0000vite/preload-helper.js": [],
   "../../../../../images/monimentor-cloudsurfers-boardgame.webp": [
-    "./assets/SolutionPage-BJkEfzOA.js",
-    "./assets/SolutionPage-CdmZZ3lk.css"
+    "./assets/CloudSurfersPage-DjKZ5ToH.js"
   ],
   "../../../../../images/monimentor-family-playing-cloudsurfers.webp": [
-    "./assets/SolutionPage-BJkEfzOA.js",
-    "./assets/SolutionPage-CdmZZ3lk.css"
+    "./assets/CloudSurfersPage-DjKZ5ToH.js"
   ],
   "../../../../../images/monimentor-girl_app.webp": [
-    "./assets/SolutionPage-BJkEfzOA.js",
-    "./assets/SolutionPage-CdmZZ3lk.css"
-  ],
-  "../../../../../images/placeholder-dashboard.svg": [
-    "./assets/placeholder-dashboard-Ck9CKfSF.js"
+    "./assets/SolutionPage-CB8TybGd.js"
   ],
   "../monimentor-3d/node_modules/@dimforge/rapier3d-compat/rapier.es.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/browser/build/npm/esm/prod/helpers.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/browser/build/npm/esm/prod/integrations/browserapierrors.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/api.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/asyncContext/index.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/asyncContext/stackStrategy.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/attributes.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/breadcrumbs.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/carrier.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/checkin.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/client.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/constants.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/currentScopes.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/debug-build.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/defaultScopes.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/envelope.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/eventProcessors.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/exports.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/feedback.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/fetch.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/index.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/instrument/console.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/instrument/fetch.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/instrument/globalError.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/instrument/globalUnhandledRejection.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/instrument/handlers.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/integration.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/integrations/captureconsole.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/integrations/consola.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/integrations/console.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/integrations/dedupe.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/integrations/eventFilters.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/integrations/extraerrordata.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/integrations/featureFlags/featureFlagsIntegration.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/integrations/featureFlags/growthbook.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/integrations/functiontostring.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/integrations/linkederrors.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/integrations/mcp-server/attributeExtraction.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/integrations/mcp-server/attributes.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/integrations/mcp-server/correlation.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/integrations/mcp-server/errorCapture.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/integrations/mcp-server/handlers.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/integrations/mcp-server/index.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/integrations/mcp-server/methodConfig.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/integrations/mcp-server/piiFiltering.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/integrations/mcp-server/resultExtraction.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/integrations/mcp-server/sessionExtraction.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/integrations/mcp-server/sessionManagement.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/integrations/mcp-server/spans.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/integrations/mcp-server/transport.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/integrations/mcp-server/validation.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/integrations/moduleMetadata.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/integrations/requestdata.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/integrations/rewriteframes.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/integrations/supabase.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/integrations/third-party-errors-filter.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/integrations/zoderrors.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/logs/console-integration.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/logs/constants.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/logs/envelope.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/logs/internal.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/logs/public-api.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/logs/utils.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/metadata.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/metrics/envelope.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/metrics/internal.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/metrics/public-api.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/profiling.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/scope.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/sdk.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/semanticAttributes.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/server-runtime-client.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/session.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/tracing/ai/gen-ai-attributes.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/tracing/ai/messageTruncation.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/tracing/ai/utils.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/tracing/anthropic-ai/constants.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/tracing/anthropic-ai/index.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/tracing/anthropic-ai/streaming.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/tracing/anthropic-ai/utils.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/tracing/dynamicSamplingContext.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/tracing/errors.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/tracing/google-genai/constants.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/tracing/google-genai/index.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/tracing/google-genai/streaming.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/tracing/google-genai/utils.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/tracing/idleSpan.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/tracing/langchain/constants.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/tracing/langchain/index.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/tracing/langchain/utils.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/tracing/langgraph/constants.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/tracing/langgraph/index.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/tracing/langgraph/utils.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/tracing/logSpans.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/tracing/measurement.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/tracing/openai/constants.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/tracing/openai/index.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/tracing/openai/streaming.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/tracing/openai/utils.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/tracing/sampling.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/tracing/sentryNonRecordingSpan.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/tracing/sentrySpan.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/tracing/spanstatus.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/tracing/trace.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/tracing/utils.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/tracing/vercel-ai/constants.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/tracing/vercel-ai/index.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/tracing/vercel-ai/utils.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/tracing/vercel-ai/vercel-ai-attributes.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/transports/base.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/transports/multiplexed.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/transports/offline.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/transports/userAgent.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/trpc.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/aggregate-errors.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/ai/providerSkip.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/anr.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/baggage.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/breadcrumb-log-level.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/browser.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/clientreport.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/cookie.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/debounce.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/debug-ids.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/debug-logger.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/dsn.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/env.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/envelope.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/error.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/eventUtils.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/eventbuilder.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/exports.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/featureFlags.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/flushIfServerless.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/handleCallbackErrors.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/hasSpansEnabled.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/ipAddress.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/is.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/isBrowser.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/isSentryRequestUrl.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/lru.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/merge.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/meta.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/misc.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/node-stack-trace.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/node.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/normalize.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/object.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/parameterize.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/parseSampleRate.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/path.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/prepareEvent.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/promisebuffer.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/propagationContext.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/randomSafeContext.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/ratelimit.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/request.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/scopeData.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/sdkMetadata.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/severity.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/should-ignore-span.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/spanOnScope.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/spanUtils.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/stacktrace.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/string.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/supports.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/syncpromise.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/time.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/trace-info.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/traceData.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/tracing.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/transactionEvent.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/url.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/vercelWaitUntil.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/version.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/utils/worldwide.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/vendor/escapeStringForRegex.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/@sentry/core/build/esm/vendor/getIpAddress.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/gsap/CSSPlugin.js": [
-    "./assets/HomePage-DHy9rzgt.js",
-    "./assets/HomePage-C2yENbC-.css",
+    "./assets/HomePage-BfFqiWzO.js",
+    "./assets/HomePage-BCIjntro.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
@@ -574,14 +568,15 @@
     "./assets/platform-BG_-aveU.glb",
     "./assets/text-BfOb54GY.glb",
     "./assets/platform_overflow-Cpt9h5Jm.glb",
+    "./assets/telescope-B9cY8wiI.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
     "./assets/dementor-B6TKp34Q.webp",
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "../monimentor-3d/node_modules/gsap/gsap-core.js": [
-    "./assets/HomePage-DHy9rzgt.js",
-    "./assets/HomePage-C2yENbC-.css",
+    "./assets/HomePage-BfFqiWzO.js",
+    "./assets/HomePage-BCIjntro.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
@@ -591,14 +586,15 @@
     "./assets/platform-BG_-aveU.glb",
     "./assets/text-BfOb54GY.glb",
     "./assets/platform_overflow-Cpt9h5Jm.glb",
+    "./assets/telescope-B9cY8wiI.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
     "./assets/dementor-B6TKp34Q.webp",
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "../monimentor-3d/node_modules/gsap/index.js": [
-    "./assets/HomePage-DHy9rzgt.js",
-    "./assets/HomePage-C2yENbC-.css",
+    "./assets/HomePage-BfFqiWzO.js",
+    "./assets/HomePage-BCIjntro.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
@@ -608,32 +604,33 @@
     "./assets/platform-BG_-aveU.glb",
     "./assets/text-BfOb54GY.glb",
     "./assets/platform_overflow-Cpt9h5Jm.glb",
+    "./assets/telescope-B9cY8wiI.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
     "./assets/dementor-B6TKp34Q.webp",
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "../monimentor-3d/node_modules/three/build/three.core.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/three/build/three.module.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/three/examples/jsm/controls/OrbitControls.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/three/examples/jsm/loaders/DRACOLoader.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/three/examples/jsm/loaders/GLTFLoader.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/node_modules/three/examples/jsm/utils/BufferGeometryUtils.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "../monimentor-3d/src/three-objects/createJar.ts": [
-    "./assets/HomePage-DHy9rzgt.js",
-    "./assets/HomePage-C2yENbC-.css",
+    "./assets/HomePage-BfFqiWzO.js",
+    "./assets/HomePage-BCIjntro.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
@@ -643,14 +640,15 @@
     "./assets/platform-BG_-aveU.glb",
     "./assets/text-BfOb54GY.glb",
     "./assets/platform_overflow-Cpt9h5Jm.glb",
+    "./assets/telescope-B9cY8wiI.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
     "./assets/dementor-B6TKp34Q.webp",
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "../monimentor-3d/src/three-objects/createMoni.ts": [
-    "./assets/HomePage-DHy9rzgt.js",
-    "./assets/HomePage-C2yENbC-.css",
+    "./assets/HomePage-BfFqiWzO.js",
+    "./assets/HomePage-BCIjntro.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
@@ -660,14 +658,15 @@
     "./assets/platform-BG_-aveU.glb",
     "./assets/text-BfOb54GY.glb",
     "./assets/platform_overflow-Cpt9h5Jm.glb",
+    "./assets/telescope-B9cY8wiI.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
     "./assets/dementor-B6TKp34Q.webp",
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "../monimentor-3d/src/three-objects/createOrb.ts": [
-    "./assets/HomePage-DHy9rzgt.js",
-    "./assets/HomePage-C2yENbC-.css",
+    "./assets/HomePage-BfFqiWzO.js",
+    "./assets/HomePage-BCIjntro.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
@@ -677,14 +676,15 @@
     "./assets/platform-BG_-aveU.glb",
     "./assets/text-BfOb54GY.glb",
     "./assets/platform_overflow-Cpt9h5Jm.glb",
+    "./assets/telescope-B9cY8wiI.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
     "./assets/dementor-B6TKp34Q.webp",
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "../monimentor-3d/src/three-objects/createPlatform.ts": [
-    "./assets/HomePage-DHy9rzgt.js",
-    "./assets/HomePage-C2yENbC-.css",
+    "./assets/HomePage-BfFqiWzO.js",
+    "./assets/HomePage-BCIjntro.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
@@ -694,14 +694,15 @@
     "./assets/platform-BG_-aveU.glb",
     "./assets/text-BfOb54GY.glb",
     "./assets/platform_overflow-Cpt9h5Jm.glb",
+    "./assets/telescope-B9cY8wiI.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
     "./assets/dementor-B6TKp34Q.webp",
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "../monimentor-3d/src/three-objects/createPlatformOverflow.ts": [
-    "./assets/HomePage-DHy9rzgt.js",
-    "./assets/HomePage-C2yENbC-.css",
+    "./assets/HomePage-BfFqiWzO.js",
+    "./assets/HomePage-BCIjntro.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
@@ -711,14 +712,15 @@
     "./assets/platform-BG_-aveU.glb",
     "./assets/text-BfOb54GY.glb",
     "./assets/platform_overflow-Cpt9h5Jm.glb",
+    "./assets/telescope-B9cY8wiI.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
     "./assets/dementor-B6TKp34Q.webp",
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "../monimentor-3d/src/three-objects/createRocket.ts": [
-    "./assets/HomePage-DHy9rzgt.js",
-    "./assets/HomePage-C2yENbC-.css",
+    "./assets/HomePage-BfFqiWzO.js",
+    "./assets/HomePage-BCIjntro.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
@@ -728,14 +730,15 @@
     "./assets/platform-BG_-aveU.glb",
     "./assets/text-BfOb54GY.glb",
     "./assets/platform_overflow-Cpt9h5Jm.glb",
+    "./assets/telescope-B9cY8wiI.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
     "./assets/dementor-B6TKp34Q.webp",
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "../monimentor-3d/src/three-objects/createSmoke.ts": [
-    "./assets/HomePage-DHy9rzgt.js",
-    "./assets/HomePage-C2yENbC-.css",
+    "./assets/HomePage-BfFqiWzO.js",
+    "./assets/HomePage-BCIjntro.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
@@ -745,14 +748,15 @@
     "./assets/platform-BG_-aveU.glb",
     "./assets/text-BfOb54GY.glb",
     "./assets/platform_overflow-Cpt9h5Jm.glb",
+    "./assets/telescope-B9cY8wiI.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
     "./assets/dementor-B6TKp34Q.webp",
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "../monimentor-3d/src/three-objects/createSnow.ts": [
-    "./assets/HomePage-DHy9rzgt.js",
-    "./assets/HomePage-C2yENbC-.css",
+    "./assets/HomePage-BfFqiWzO.js",
+    "./assets/HomePage-BCIjntro.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
@@ -762,14 +766,33 @@
     "./assets/platform-BG_-aveU.glb",
     "./assets/text-BfOb54GY.glb",
     "./assets/platform_overflow-Cpt9h5Jm.glb",
+    "./assets/telescope-B9cY8wiI.glb",
+    "./assets/deverkenner-COtWLF-W.webp",
+    "./assets/denavigator-D6ufxPr7.webp",
+    "./assets/dementor-B6TKp34Q.webp",
+    "./assets/monimentor-ouder-C7-jEHWb.mp4"
+  ],
+  "../monimentor-3d/src/three-objects/createTelescope.ts": [
+    "./assets/HomePage-BfFqiWzO.js",
+    "./assets/HomePage-BCIjntro.css",
+    "./assets/ipad_mockup_1-B_98ijG-.avif",
+    "./assets/ipad_mockup_1-CwT9xb6r.webp",
+    "./assets/ipad_mockup_1-pvdEN4UG.png",
+    "./assets/jar-vJS975Oh.glb",
+    "./assets/rocket-CEp8rETc.glb",
+    "./assets/Moni-yrr_6dWd.glb",
+    "./assets/platform-BG_-aveU.glb",
+    "./assets/text-BfOb54GY.glb",
+    "./assets/platform_overflow-Cpt9h5Jm.glb",
+    "./assets/telescope-B9cY8wiI.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
     "./assets/dementor-B6TKp34Q.webp",
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "../monimentor-3d/src/three-objects/models/Moni.glb?url": [
-    "./assets/HomePage-DHy9rzgt.js",
-    "./assets/HomePage-C2yENbC-.css",
+    "./assets/HomePage-BfFqiWzO.js",
+    "./assets/HomePage-BCIjntro.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
@@ -779,14 +802,15 @@
     "./assets/platform-BG_-aveU.glb",
     "./assets/text-BfOb54GY.glb",
     "./assets/platform_overflow-Cpt9h5Jm.glb",
+    "./assets/telescope-B9cY8wiI.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
     "./assets/dementor-B6TKp34Q.webp",
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "../monimentor-3d/src/three-objects/models/jar.glb?url": [
-    "./assets/HomePage-DHy9rzgt.js",
-    "./assets/HomePage-C2yENbC-.css",
+    "./assets/HomePage-BfFqiWzO.js",
+    "./assets/HomePage-BCIjntro.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
@@ -796,14 +820,15 @@
     "./assets/platform-BG_-aveU.glb",
     "./assets/text-BfOb54GY.glb",
     "./assets/platform_overflow-Cpt9h5Jm.glb",
+    "./assets/telescope-B9cY8wiI.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
     "./assets/dementor-B6TKp34Q.webp",
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "../monimentor-3d/src/three-objects/models/platform.glb?url": [
-    "./assets/HomePage-DHy9rzgt.js",
-    "./assets/HomePage-C2yENbC-.css",
+    "./assets/HomePage-BfFqiWzO.js",
+    "./assets/HomePage-BCIjntro.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
@@ -813,14 +838,15 @@
     "./assets/platform-BG_-aveU.glb",
     "./assets/text-BfOb54GY.glb",
     "./assets/platform_overflow-Cpt9h5Jm.glb",
+    "./assets/telescope-B9cY8wiI.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
     "./assets/dementor-B6TKp34Q.webp",
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "../monimentor-3d/src/three-objects/models/platform_overflow.glb?url": [
-    "./assets/HomePage-DHy9rzgt.js",
-    "./assets/HomePage-C2yENbC-.css",
+    "./assets/HomePage-BfFqiWzO.js",
+    "./assets/HomePage-BCIjntro.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
@@ -830,14 +856,15 @@
     "./assets/platform-BG_-aveU.glb",
     "./assets/text-BfOb54GY.glb",
     "./assets/platform_overflow-Cpt9h5Jm.glb",
+    "./assets/telescope-B9cY8wiI.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
     "./assets/dementor-B6TKp34Q.webp",
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "../monimentor-3d/src/three-objects/models/rocket.glb?url": [
-    "./assets/HomePage-DHy9rzgt.js",
-    "./assets/HomePage-C2yENbC-.css",
+    "./assets/HomePage-BfFqiWzO.js",
+    "./assets/HomePage-BCIjntro.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
@@ -847,14 +874,33 @@
     "./assets/platform-BG_-aveU.glb",
     "./assets/text-BfOb54GY.glb",
     "./assets/platform_overflow-Cpt9h5Jm.glb",
+    "./assets/telescope-B9cY8wiI.glb",
+    "./assets/deverkenner-COtWLF-W.webp",
+    "./assets/denavigator-D6ufxPr7.webp",
+    "./assets/dementor-B6TKp34Q.webp",
+    "./assets/monimentor-ouder-C7-jEHWb.mp4"
+  ],
+  "../monimentor-3d/src/three-objects/models/telescope.glb?url": [
+    "./assets/HomePage-BfFqiWzO.js",
+    "./assets/HomePage-BCIjntro.css",
+    "./assets/ipad_mockup_1-B_98ijG-.avif",
+    "./assets/ipad_mockup_1-CwT9xb6r.webp",
+    "./assets/ipad_mockup_1-pvdEN4UG.png",
+    "./assets/jar-vJS975Oh.glb",
+    "./assets/rocket-CEp8rETc.glb",
+    "./assets/Moni-yrr_6dWd.glb",
+    "./assets/platform-BG_-aveU.glb",
+    "./assets/text-BfOb54GY.glb",
+    "./assets/platform_overflow-Cpt9h5Jm.glb",
+    "./assets/telescope-B9cY8wiI.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
     "./assets/dementor-B6TKp34Q.webp",
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "../monimentor-3d/src/three-objects/models/text.glb?url": [
-    "./assets/HomePage-DHy9rzgt.js",
-    "./assets/HomePage-C2yENbC-.css",
+    "./assets/HomePage-BfFqiWzO.js",
+    "./assets/HomePage-BCIjntro.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
@@ -864,14 +910,15 @@
     "./assets/platform-BG_-aveU.glb",
     "./assets/text-BfOb54GY.glb",
     "./assets/platform_overflow-Cpt9h5Jm.glb",
+    "./assets/telescope-B9cY8wiI.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
     "./assets/dementor-B6TKp34Q.webp",
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "../monimentor-3d/src/three-objects/moniAnimationManager.ts": [
-    "./assets/HomePage-DHy9rzgt.js",
-    "./assets/HomePage-C2yENbC-.css",
+    "./assets/HomePage-BfFqiWzO.js",
+    "./assets/HomePage-BCIjntro.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
@@ -881,14 +928,15 @@
     "./assets/platform-BG_-aveU.glb",
     "./assets/text-BfOb54GY.glb",
     "./assets/platform_overflow-Cpt9h5Jm.glb",
+    "./assets/telescope-B9cY8wiI.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
     "./assets/dementor-B6TKp34Q.webp",
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "../monimentor-3d/src/three-objects/moniBlinkController.ts": [
-    "./assets/HomePage-DHy9rzgt.js",
-    "./assets/HomePage-C2yENbC-.css",
+    "./assets/HomePage-BfFqiWzO.js",
+    "./assets/HomePage-BCIjntro.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
@@ -898,14 +946,15 @@
     "./assets/platform-BG_-aveU.glb",
     "./assets/text-BfOb54GY.glb",
     "./assets/platform_overflow-Cpt9h5Jm.glb",
+    "./assets/telescope-B9cY8wiI.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
     "./assets/dementor-B6TKp34Q.webp",
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "../monimentor-3d/src/three-objects/moniIdleBreakController.ts": [
-    "./assets/HomePage-DHy9rzgt.js",
-    "./assets/HomePage-C2yENbC-.css",
+    "./assets/HomePage-BfFqiWzO.js",
+    "./assets/HomePage-BCIjntro.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
@@ -915,14 +964,15 @@
     "./assets/platform-BG_-aveU.glb",
     "./assets/text-BfOb54GY.glb",
     "./assets/platform_overflow-Cpt9h5Jm.glb",
+    "./assets/telescope-B9cY8wiI.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
     "./assets/dementor-B6TKp34Q.webp",
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "../monimentor-3d/src/three-objects/moniWorld.ts": [
-    "./assets/HomePage-DHy9rzgt.js",
-    "./assets/HomePage-C2yENbC-.css",
+    "./assets/HomePage-BfFqiWzO.js",
+    "./assets/HomePage-BCIjntro.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
@@ -932,14 +982,15 @@
     "./assets/platform-BG_-aveU.glb",
     "./assets/text-BfOb54GY.glb",
     "./assets/platform_overflow-Cpt9h5Jm.glb",
+    "./assets/telescope-B9cY8wiI.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
     "./assets/dementor-B6TKp34Q.webp",
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "../monimentor-3d/src/three-objects/orbManager.ts": [
-    "./assets/HomePage-DHy9rzgt.js",
-    "./assets/HomePage-C2yENbC-.css",
+    "./assets/HomePage-BfFqiWzO.js",
+    "./assets/HomePage-BCIjntro.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
@@ -949,14 +1000,15 @@
     "./assets/platform-BG_-aveU.glb",
     "./assets/text-BfOb54GY.glb",
     "./assets/platform_overflow-Cpt9h5Jm.glb",
+    "./assets/telescope-B9cY8wiI.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
     "./assets/dementor-B6TKp34Q.webp",
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "../monimentor-3d/src/three-objects/useRocketController.ts": [
-    "./assets/HomePage-DHy9rzgt.js",
-    "./assets/HomePage-C2yENbC-.css",
+    "./assets/HomePage-BfFqiWzO.js",
+    "./assets/HomePage-BCIjntro.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
@@ -966,24 +1018,100 @@
     "./assets/platform-BG_-aveU.glb",
     "./assets/text-BfOb54GY.glb",
     "./assets/platform_overflow-Cpt9h5Jm.glb",
+    "./assets/telescope-B9cY8wiI.glb",
+    "./assets/deverkenner-COtWLF-W.webp",
+    "./assets/denavigator-D6ufxPr7.webp",
+    "./assets/dementor-B6TKp34Q.webp",
+    "./assets/monimentor-ouder-C7-jEHWb.mp4"
+  ],
+  "../monimentor-3d/src/three-objects/visibilityRules.ts": [
+    "./assets/HomePage-BfFqiWzO.js",
+    "./assets/HomePage-BCIjntro.css",
+    "./assets/ipad_mockup_1-B_98ijG-.avif",
+    "./assets/ipad_mockup_1-CwT9xb6r.webp",
+    "./assets/ipad_mockup_1-pvdEN4UG.png",
+    "./assets/jar-vJS975Oh.glb",
+    "./assets/rocket-CEp8rETc.glb",
+    "./assets/Moni-yrr_6dWd.glb",
+    "./assets/platform-BG_-aveU.glb",
+    "./assets/text-BfOb54GY.glb",
+    "./assets/platform_overflow-Cpt9h5Jm.glb",
+    "./assets/telescope-B9cY8wiI.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
     "./assets/dementor-B6TKp34Q.webp",
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "../monimentor-ui/packages/components/src/base/Button.vue": [
-    "./assets/Button-JRvDYqUA.js"
+    "./assets/Button-FA9Hge3Z.js"
   ],
   "../monimentor-ui/packages/components/src/base/Button.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/Button-JRvDYqUA.js"
+    "./assets/Button-FA9Hge3Z.js"
   ],
   "../monimentor-ui/packages/components/src/base/Button.vue?vue&type=style&index=0&scoped=51823b0c&lang.css": [],
   "../monimentor-ui/packages/components/src/base/GlassCard.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/GlassCard.vue_vue_type_script_setup_true_lang-cxFxM4iY.js"
+    "./assets/GlassCard.vue_vue_type_script_setup_true_lang-C2wqOUf7.js"
   ],
   "../monimentor-ui/packages/components/src/base/MoniLogo.vue?vue&type=script&setup=true&lang.ts": [],
   "index.html": [],
+  "node_modules/@heroicons/vue/24/outline/esm/AcademicCapIcon.js": [
+    "./assets/MediacoachPage-DlDT5XXm.js"
+  ],
+  "node_modules/@heroicons/vue/24/outline/esm/ArrowDownTrayIcon.js": [
+    "./assets/SmartphoneChecklistSection.vue_vue_type_script_setup_true_lang-Bx0m_5jU.js"
+  ],
+  "node_modules/@heroicons/vue/24/outline/esm/BookOpenIcon.js": [
+    "./assets/SchoolPage-Bl9t7PC4.js"
+  ],
+  "node_modules/@heroicons/vue/24/outline/esm/BuildingLibraryIcon.js": [
+    "./assets/SchoolPage-Bl9t7PC4.js"
+  ],
+  "node_modules/@heroicons/vue/24/outline/esm/ChatBubbleBottomCenterTextIcon.js": [
+    "./assets/MediacoachPage-DlDT5XXm.js"
+  ],
+  "node_modules/@heroicons/vue/24/outline/esm/CheckCircleIcon.js": [
+    "./assets/SmartphoneChecklistSection.vue_vue_type_script_setup_true_lang-Bx0m_5jU.js"
+  ],
+  "node_modules/@heroicons/vue/24/outline/esm/DocumentCheckIcon.js": [
+    "./assets/SmartphoneChecklistSection.vue_vue_type_script_setup_true_lang-Bx0m_5jU.js"
+  ],
+  "node_modules/@heroicons/vue/24/outline/esm/EnvelopeIcon.js": [
+    "./assets/SmartphoneChecklistSection.vue_vue_type_script_setup_true_lang-Bx0m_5jU.js"
+  ],
+  "node_modules/@heroicons/vue/24/outline/esm/HeartIcon.js": [
+    "./assets/JGZPage-Bp44ZIfv.js"
+  ],
+  "node_modules/@heroicons/vue/24/outline/esm/MoonIcon.js": [
+    "./assets/JGZPage-Bp44ZIfv.js"
+  ],
+  "node_modules/@heroicons/vue/24/outline/esm/ShieldCheckIcon.js": [
+    "./assets/SmartphoneChecklistSection.vue_vue_type_script_setup_true_lang-Bx0m_5jU.js"
+  ],
+  "node_modules/@heroicons/vue/24/outline/esm/SparklesIcon.js": [
+    "./assets/SmartphoneChecklistSection.vue_vue_type_script_setup_true_lang-Bx0m_5jU.js"
+  ],
   "node_modules/@heroicons/vue/24/outline/esm/UserCircleIcon.js": [],
+  "node_modules/@heroicons/vue/24/outline/esm/UserGroupIcon.js": [
+    "./assets/SchoolPage-Bl9t7PC4.js"
+  ],
+  "node_modules/@heroicons/vue/24/outline/esm/XMarkIcon.js": [
+    "./assets/HomePage-BfFqiWzO.js",
+    "./assets/HomePage-BCIjntro.css",
+    "./assets/ipad_mockup_1-B_98ijG-.avif",
+    "./assets/ipad_mockup_1-CwT9xb6r.webp",
+    "./assets/ipad_mockup_1-pvdEN4UG.png",
+    "./assets/jar-vJS975Oh.glb",
+    "./assets/rocket-CEp8rETc.glb",
+    "./assets/Moni-yrr_6dWd.glb",
+    "./assets/platform-BG_-aveU.glb",
+    "./assets/text-BfOb54GY.glb",
+    "./assets/platform_overflow-Cpt9h5Jm.glb",
+    "./assets/telescope-B9cY8wiI.glb",
+    "./assets/deverkenner-COtWLF-W.webp",
+    "./assets/denavigator-D6ufxPr7.webp",
+    "./assets/dementor-B6TKp34Q.webp",
+    "./assets/monimentor-ouder-C7-jEHWb.mp4"
+  ],
   "node_modules/@intlify/core-base/dist/core-base.mjs": [],
   "node_modules/@intlify/message-compiler/dist/message-compiler.mjs": [],
   "node_modules/@intlify/shared/dist/shared.mjs": [],
@@ -1082,11 +1210,11 @@
   "node_modules/@sentry/browser/build/npm/esm/prod/eventbuilder.js": [],
   "node_modules/@sentry/browser/build/npm/esm/prod/feedbackSync.js": [],
   "node_modules/@sentry/browser/build/npm/esm/prod/helpers.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/build/npm/esm/prod/integrations/breadcrumbs.js": [],
   "node_modules/@sentry/browser/build/npm/esm/prod/integrations/browserapierrors.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/build/npm/esm/prod/integrations/browsersession.js": [],
   "node_modules/@sentry/browser/build/npm/esm/prod/integrations/culturecontext.js": [],
@@ -1106,556 +1234,556 @@
   "node_modules/@sentry/browser/build/npm/esm/prod/transports/fetch.js": [],
   "node_modules/@sentry/browser/build/npm/esm/prod/utils/detectBrowserExtension.js": [],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/api.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/asyncContext/index.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/asyncContext/stackStrategy.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/asyncContext/tracing-channel-binding.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/attributes.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/breadcrumbs.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/browser.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/carrier.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/checkin.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/client.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/constants.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/currentScopes.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/debug-build.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/defaultScopes.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/envelope.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/eventProcessors.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/exports.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/feedback.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/fetch.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/instrument/console.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/instrument/fetch.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/instrument/globalError.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/instrument/globalUnhandledRejection.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/instrument/handlers.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/integration.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/integrations/captureconsole.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/integrations/consola.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/integrations/console.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/integrations/conversationId.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/integrations/dedupe.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/integrations/eventFilters.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/integrations/extraerrordata.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/integrations/featureFlags/featureFlagsIntegration.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/integrations/featureFlags/growthbook.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/integrations/functiontostring.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/integrations/linkederrors.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/integrations/moduleMetadata.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/integrations/requestdata.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/integrations/rewriteframes.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/integrations/spanStreaming.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/integrations/supabase.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/integrations/third-party-errors-filter.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/integrations/zoderrors.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/logs/console-integration.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/logs/constants.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/logs/envelope.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/logs/internal.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/logs/public-api.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/logs/utils.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/metadata.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/metrics/envelope.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/metrics/internal.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/metrics/public-api.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/profiling.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/scope.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/sdk.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/semanticAttributes.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/session.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/spanKind.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/tracing/ai/gen-ai-attributes.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/tracing/ai/mediaStripping.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/tracing/ai/messageTruncation.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/tracing/ai/utils.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/tracing/anthropic-ai/constants.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/tracing/anthropic-ai/index.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/tracing/anthropic-ai/streaming.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/tracing/anthropic-ai/utils.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/tracing/bindScopeToEmitter.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/tracing/dynamicSamplingContext.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/tracing/errors.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/tracing/google-genai/constants.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/tracing/google-genai/index.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/tracing/google-genai/streaming.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/tracing/google-genai/utils.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/tracing/idleSpan.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/tracing/langchain/constants.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/tracing/langchain/embeddings.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/tracing/langchain/index.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/tracing/langchain/utils.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/tracing/langgraph/constants.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/tracing/langgraph/index.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/tracing/langgraph/utils.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/tracing/logSpans.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/tracing/measurement.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/tracing/openai/constants.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/tracing/openai/index.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/tracing/openai/streaming.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/tracing/openai/utils.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/tracing/sampling.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/tracing/sentryNonRecordingSpan.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/tracing/sentrySpan.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/tracing/spans/beforeSendSpan.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/tracing/spans/captureSpan.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/tracing/spans/envelope.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/tracing/spans/estimateSize.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/tracing/spans/extractGenAiSpans.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/tracing/spans/hasSpanStreamingEnabled.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/tracing/spans/scopeContextAttributes.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/tracing/spans/spanBuffer.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/tracing/spans/spanJsonToStreamedSpan.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/tracing/spanstatus.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/tracing/trace.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/tracing/utils.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/tracing/vercel-ai/constants.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/tracing/vercel-ai/index.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/tracing/vercel-ai/utils.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/tracing/vercel-ai/vercel-ai-attributes.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/transports/base.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/transports/multiplexed.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/transports/offline.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/aggregate-errors.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/ai/providerSkip.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/baggage.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/breadcrumb-log-level.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/browser.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/chain-and-copy-promiselike.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/clientreport.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/cookie.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/data-collection/defaultPiiToCollectionOptions.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/data-collection/filterCookies.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/data-collection/filterKeyValueData.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/data-collection/filterQueryParams.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/data-collection/filtering-snippets.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/data-collection/resolveDataCollectionOptions.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/debounce.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/debug-ids.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/debug-logger.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/dsn.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/env.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/envToBool.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/envelope.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/error.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/eventUtils.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/eventbuilder.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/exports.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/featureFlags.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/handleCallbackErrors.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/hasSpansEnabled.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/ipAddress.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/is.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/isBrowser.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/isSentryRequestUrl.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/lru.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/merge.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/meta.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/misc.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/node.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/normalizationHints.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/normalize.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/object.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/parameterize.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/parseSampleRate.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/path.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/prepareEvent.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/promisebuffer.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/propagationContext.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/randomSafeContext.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/ratelimit.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/request.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/scopeData.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/sdkMetadata.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/severity.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/should-ignore-span.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/spanOnScope.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/spanUtils.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/stacktrace.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/string.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/supports.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/syncpromise.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/time.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/timer.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/timestampSequence.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/trace-info.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/traceData.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/tracePropagationTargets.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/tracing.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/transactionEvent.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/tunnel.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/url.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/version.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/weakRef.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/utils/worldwide.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/vendor/escapeStringForRegex.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/browser/node_modules/@sentry/core/build/esm/vendor/getIpAddress.js": [
-    "./assets/three-vendor-CpCvPNmD.js"
+    "./assets/three-vendor-BndqFU31.js"
   ],
   "node_modules/@sentry/feedback/build/npm/esm/index.js": [],
   "node_modules/@sentry/feedback/node_modules/@sentry/core/build/esm/asyncContext/index.js": [],
@@ -1733,224 +1861,224 @@
   "node_modules/@vueuse/head/node_modules/@unhead/vue/dist/shared/vue.ziyDaVMR.mjs": [],
   "node_modules/@vueuse/head/node_modules/unhead/dist/index.mjs": [],
   "node_modules/fuse.js/dist/fuse.mjs": [
-    "./assets/FAQPage-J3KN0471.js"
+    "./assets/FAQPage-QwaOqjtJ.js"
   ],
   "node_modules/hookable/dist/index.mjs": [],
   "node_modules/klaro/dist/klaro.js": [
     "./assets/klaro-CZluPq7x.js"
   ],
   "node_modules/linkify-it/index.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/linkify-it/lib/re.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/lib/common/html_blocks.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/lib/common/html_re.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/lib/common/utils.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/lib/helpers/index.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/lib/helpers/parse_link_destination.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/lib/helpers/parse_link_label.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/lib/helpers/parse_link_title.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/lib/index.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/lib/parser_block.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/lib/parser_core.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/lib/parser_inline.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/lib/presets/commonmark.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/lib/presets/default.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/lib/presets/zero.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/lib/renderer.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/lib/ruler.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/lib/rules_block/blockquote.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/lib/rules_block/code.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/lib/rules_block/fence.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/lib/rules_block/heading.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/lib/rules_block/hr.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/lib/rules_block/html_block.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/lib/rules_block/lheading.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/lib/rules_block/list.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/lib/rules_block/paragraph.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/lib/rules_block/reference.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/lib/rules_block/state_block.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/lib/rules_block/table.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/lib/rules_core/block.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/lib/rules_core/inline.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/lib/rules_core/linkify.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/lib/rules_core/normalize.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/lib/rules_core/replacements.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/lib/rules_core/smartquotes.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/lib/rules_core/state_core.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/lib/rules_core/text_join.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/autolink.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/backticks.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/balance_pairs.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/emphasis.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/entity.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/escape.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/fragments_join.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/html_inline.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/image.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/link.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/linkify.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/newline.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/state_inline.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/strikethrough.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/text.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/lib/token.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/node_modules/entities/lib/esm/decode.js": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/node_modules/entities/lib/esm/decode_codepoint.js": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/node_modules/entities/lib/esm/generated/decode-data-html.js": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/markdown-it/node_modules/entities/lib/esm/generated/decode-data-xml.js": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/mdurl/index.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/mdurl/lib/decode.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/mdurl/lib/encode.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/mdurl/lib/format.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/mdurl/lib/parse.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/punycode.js/punycode.es6.js": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/uc.micro/categories/Cc/regex.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/uc.micro/categories/Cf/regex.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/uc.micro/categories/P/regex.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/uc.micro/categories/S/regex.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/uc.micro/categories/Z/regex.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/uc.micro/index.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/uc.micro/properties/Any/regex.mjs": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "node_modules/vite-ssg/dist/index.mjs": [],
   "node_modules/vite-ssg/dist/shared/vite-ssg.C6pK7rvr.mjs": [],
@@ -1968,11 +2096,11 @@
   "src/App.vue?vue&type=script&setup=true&lang.ts": [],
   "src/App.vue?vue&type=style&index=0&lang.css": [],
   "src/assets/images/Moni_vector.svg": [
-    "./assets/StickerPage-I_qm2-dy.js",
+    "./assets/StickerPage-JYyrYi3P.js",
     "./assets/Moni_vector-CgvD_mcn.svg"
   ],
   "src/assets/images/aangesloten-bij-Netwerk-Mediawijsheid.png": [
-    "./assets/wave-data-O3qcs3xE.js",
+    "./assets/wave-data-DjgIYj8C.js",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-D5F2y_tK.avif",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-DrT5azu7.webp",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-BIXC-rAe.png"
@@ -1986,9 +2114,21 @@
     "./assets/website_images_monimentor_connectie-Cu6lYAmn.svg",
     "./assets/website_images_monimentor_toekomst-q4ASVg7K.svg"
   ],
+  "src/assets/images/image-partners.webp": [
+    "./assets/AboutPage-BndAJFRF.js",
+    "./assets/monimentor-team-CYQ6NE3q.webp",
+    "./assets/image-partners-D2LUc1La.webp",
+    "./assets/image-voorgezinnen-BNpwZnZb.webp"
+  ],
+  "src/assets/images/image-voorgezinnen.webp": [
+    "./assets/AboutPage-BndAJFRF.js",
+    "./assets/monimentor-team-CYQ6NE3q.webp",
+    "./assets/image-partners-D2LUc1La.webp",
+    "./assets/image-voorgezinnen-BNpwZnZb.webp"
+  ],
   "src/assets/images/ipad_mockup_1.png": [
-    "./assets/HomePage-DHy9rzgt.js",
-    "./assets/HomePage-C2yENbC-.css",
+    "./assets/HomePage-BfFqiWzO.js",
+    "./assets/HomePage-BCIjntro.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
@@ -1998,26 +2138,38 @@
     "./assets/platform-BG_-aveU.glb",
     "./assets/text-BfOb54GY.glb",
     "./assets/platform_overflow-Cpt9h5Jm.glb",
+    "./assets/telescope-B9cY8wiI.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
     "./assets/dementor-B6TKp34Q.webp",
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
+  "src/assets/images/monimentor-dashboard.png": [
+    "./assets/monimentor-dashboard-CgwOK300.js",
+    "./assets/monimentor-dashboard-DEfUeRVE.css",
+    "./assets/monimentor-dashboard-HsDbx7Gg.png"
+  ],
+  "src/assets/images/monimentor-team.webp": [
+    "./assets/AboutPage-BndAJFRF.js",
+    "./assets/monimentor-team-CYQ6NE3q.webp",
+    "./assets/image-partners-D2LUc1La.webp",
+    "./assets/image-voorgezinnen-BNpwZnZb.webp"
+  ],
   "src/assets/images/webp/aangesloten-bij-Netwerk-Mediawijsheid.avif": [
-    "./assets/wave-data-O3qcs3xE.js",
+    "./assets/wave-data-DjgIYj8C.js",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-D5F2y_tK.avif",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-DrT5azu7.webp",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-BIXC-rAe.png"
   ],
   "src/assets/images/webp/aangesloten-bij-Netwerk-Mediawijsheid.webp": [
-    "./assets/wave-data-O3qcs3xE.js",
+    "./assets/wave-data-DjgIYj8C.js",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-D5F2y_tK.avif",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-DrT5azu7.webp",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-BIXC-rAe.png"
   ],
   "src/assets/images/webp/dementor.webp": [
-    "./assets/HomePage-DHy9rzgt.js",
-    "./assets/HomePage-C2yENbC-.css",
+    "./assets/HomePage-BfFqiWzO.js",
+    "./assets/HomePage-BCIjntro.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
@@ -2027,14 +2179,15 @@
     "./assets/platform-BG_-aveU.glb",
     "./assets/text-BfOb54GY.glb",
     "./assets/platform_overflow-Cpt9h5Jm.glb",
+    "./assets/telescope-B9cY8wiI.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
     "./assets/dementor-B6TKp34Q.webp",
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "src/assets/images/webp/denavigator.webp": [
-    "./assets/HomePage-DHy9rzgt.js",
-    "./assets/HomePage-C2yENbC-.css",
+    "./assets/HomePage-BfFqiWzO.js",
+    "./assets/HomePage-BCIjntro.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
@@ -2044,14 +2197,15 @@
     "./assets/platform-BG_-aveU.glb",
     "./assets/text-BfOb54GY.glb",
     "./assets/platform_overflow-Cpt9h5Jm.glb",
+    "./assets/telescope-B9cY8wiI.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
     "./assets/dementor-B6TKp34Q.webp",
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "src/assets/images/webp/deverkenner.webp": [
-    "./assets/HomePage-DHy9rzgt.js",
-    "./assets/HomePage-C2yENbC-.css",
+    "./assets/HomePage-BfFqiWzO.js",
+    "./assets/HomePage-BCIjntro.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
@@ -2061,6 +2215,7 @@
     "./assets/platform-BG_-aveU.glb",
     "./assets/text-BfOb54GY.glb",
     "./assets/platform_overflow-Cpt9h5Jm.glb",
+    "./assets/telescope-B9cY8wiI.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
     "./assets/dementor-B6TKp34Q.webp",
@@ -2085,8 +2240,8 @@
     "./assets/website_images_monimentor_toekomst-q4ASVg7K.svg"
   ],
   "src/assets/images/webp/ipad_mockup_1.avif": [
-    "./assets/HomePage-DHy9rzgt.js",
-    "./assets/HomePage-C2yENbC-.css",
+    "./assets/HomePage-BfFqiWzO.js",
+    "./assets/HomePage-BCIjntro.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
@@ -2096,14 +2251,15 @@
     "./assets/platform-BG_-aveU.glb",
     "./assets/text-BfOb54GY.glb",
     "./assets/platform_overflow-Cpt9h5Jm.glb",
+    "./assets/telescope-B9cY8wiI.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
     "./assets/dementor-B6TKp34Q.webp",
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "src/assets/images/webp/ipad_mockup_1.webp": [
-    "./assets/HomePage-DHy9rzgt.js",
-    "./assets/HomePage-C2yENbC-.css",
+    "./assets/HomePage-BfFqiWzO.js",
+    "./assets/HomePage-BCIjntro.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
@@ -2113,6 +2269,7 @@
     "./assets/platform-BG_-aveU.glb",
     "./assets/text-BfOb54GY.glb",
     "./assets/platform_overflow-Cpt9h5Jm.glb",
+    "./assets/telescope-B9cY8wiI.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
     "./assets/dementor-B6TKp34Q.webp",
@@ -2146,8 +2303,8 @@
     "./assets/website_images_monimentor_toekomst-q4ASVg7K.svg"
   ],
   "src/assets/videos/monimentor-ouder.mp4": [
-    "./assets/HomePage-DHy9rzgt.js",
-    "./assets/HomePage-C2yENbC-.css",
+    "./assets/HomePage-BfFqiWzO.js",
+    "./assets/HomePage-BCIjntro.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
@@ -2157,17 +2314,36 @@
     "./assets/platform-BG_-aveU.glb",
     "./assets/text-BfOb54GY.glb",
     "./assets/platform_overflow-Cpt9h5Jm.glb",
+    "./assets/telescope-B9cY8wiI.glb",
+    "./assets/deverkenner-COtWLF-W.webp",
+    "./assets/denavigator-D6ufxPr7.webp",
+    "./assets/dementor-B6TKp34Q.webp",
+    "./assets/monimentor-ouder-C7-jEHWb.mp4"
+  ],
+  "src/components/AndroidWaitlistModal.vue?vue&type=script&setup=true&lang.ts": [
+    "./assets/HomePage-BfFqiWzO.js",
+    "./assets/HomePage-BCIjntro.css",
+    "./assets/ipad_mockup_1-B_98ijG-.avif",
+    "./assets/ipad_mockup_1-CwT9xb6r.webp",
+    "./assets/ipad_mockup_1-pvdEN4UG.png",
+    "./assets/jar-vJS975Oh.glb",
+    "./assets/rocket-CEp8rETc.glb",
+    "./assets/Moni-yrr_6dWd.glb",
+    "./assets/platform-BG_-aveU.glb",
+    "./assets/text-BfOb54GY.glb",
+    "./assets/platform_overflow-Cpt9h5Jm.glb",
+    "./assets/telescope-B9cY8wiI.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
     "./assets/dementor-B6TKp34Q.webp",
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "src/components/AppleAppStoreButton.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/AppleAppStoreButton.vue_vue_type_script_setup_true_lang-BEMRGl54.js"
+    "./assets/AppleAppStoreButton.vue_vue_type_script_setup_true_lang-DXiCTWof.js"
   ],
   "src/components/DeviceVideoFrame.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/HomePage-DHy9rzgt.js",
-    "./assets/HomePage-C2yENbC-.css",
+    "./assets/HomePage-BfFqiWzO.js",
+    "./assets/HomePage-BCIjntro.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
@@ -2177,23 +2353,24 @@
     "./assets/platform-BG_-aveU.glb",
     "./assets/text-BfOb54GY.glb",
     "./assets/platform_overflow-Cpt9h5Jm.glb",
+    "./assets/telescope-B9cY8wiI.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
     "./assets/dementor-B6TKp34Q.webp",
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "src/components/FAQItem.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/FAQPage-J3KN0471.js"
+    "./assets/FAQItem.vue_vue_type_script_setup_true_lang-W3I3cDWa.js"
   ],
   "src/components/Footer.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/wave-data-O3qcs3xE.js",
+    "./assets/wave-data-DjgIYj8C.js",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-D5F2y_tK.avif",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-DrT5azu7.webp",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-BIXC-rAe.png"
   ],
   "src/components/LadderStep.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/HomePage-DHy9rzgt.js",
-    "./assets/HomePage-C2yENbC-.css",
+    "./assets/HomePage-BfFqiWzO.js",
+    "./assets/HomePage-BCIjntro.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
@@ -2203,6 +2380,7 @@
     "./assets/platform-BG_-aveU.glb",
     "./assets/text-BfOb54GY.glb",
     "./assets/platform_overflow-Cpt9h5Jm.glb",
+    "./assets/telescope-B9cY8wiI.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
     "./assets/dementor-B6TKp34Q.webp",
@@ -2210,8 +2388,8 @@
   ],
   "src/components/LanguageSwitcher.vue?vue&type=script&setup=true&lang.ts": [],
   "src/components/MiniDemo.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/HomePage-DHy9rzgt.js",
-    "./assets/HomePage-C2yENbC-.css",
+    "./assets/HomePage-BfFqiWzO.js",
+    "./assets/HomePage-BCIjntro.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
@@ -2221,14 +2399,15 @@
     "./assets/platform-BG_-aveU.glb",
     "./assets/text-BfOb54GY.glb",
     "./assets/platform_overflow-Cpt9h5Jm.glb",
+    "./assets/telescope-B9cY8wiI.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
     "./assets/dementor-B6TKp34Q.webp",
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "src/components/MoniScene.vue": [
-    "./assets/HomePage-DHy9rzgt.js",
-    "./assets/HomePage-C2yENbC-.css",
+    "./assets/HomePage-BfFqiWzO.js",
+    "./assets/HomePage-BCIjntro.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
@@ -2238,14 +2417,15 @@
     "./assets/platform-BG_-aveU.glb",
     "./assets/text-BfOb54GY.glb",
     "./assets/platform_overflow-Cpt9h5Jm.glb",
+    "./assets/telescope-B9cY8wiI.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
     "./assets/dementor-B6TKp34Q.webp",
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "src/components/MoniScene.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/HomePage-DHy9rzgt.js",
-    "./assets/HomePage-C2yENbC-.css",
+    "./assets/HomePage-BfFqiWzO.js",
+    "./assets/HomePage-BCIjntro.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
@@ -2255,14 +2435,15 @@
     "./assets/platform-BG_-aveU.glb",
     "./assets/text-BfOb54GY.glb",
     "./assets/platform_overflow-Cpt9h5Jm.glb",
+    "./assets/telescope-B9cY8wiI.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
     "./assets/dementor-B6TKp34Q.webp",
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
-  "src/components/MoniScene.vue?vue&type=style&index=0&scoped=09f40b66&lang.css": [
-    "./assets/HomePage-DHy9rzgt.js",
-    "./assets/HomePage-C2yENbC-.css",
+  "src/components/MoniScene.vue?vue&type=style&index=0&scoped=b01525c9&lang.css": [
+    "./assets/HomePage-BfFqiWzO.js",
+    "./assets/HomePage-BCIjntro.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
@@ -2272,6 +2453,7 @@
     "./assets/platform-BG_-aveU.glb",
     "./assets/text-BfOb54GY.glb",
     "./assets/platform_overflow-Cpt9h5Jm.glb",
+    "./assets/telescope-B9cY8wiI.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
     "./assets/dementor-B6TKp34Q.webp",
@@ -2279,20 +2461,23 @@
   ],
   "src/components/NavigationHeader.vue?vue&type=script&setup=true&lang.ts": [],
   "src/components/RotatingQuotes.vue": [
-    "./assets/SolutionPage-BJkEfzOA.js",
-    "./assets/SolutionPage-CdmZZ3lk.css"
+    "./assets/monimentor-dashboard-CgwOK300.js",
+    "./assets/monimentor-dashboard-DEfUeRVE.css",
+    "./assets/monimentor-dashboard-HsDbx7Gg.png"
   ],
   "src/components/RotatingQuotes.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/SolutionPage-BJkEfzOA.js",
-    "./assets/SolutionPage-CdmZZ3lk.css"
+    "./assets/monimentor-dashboard-CgwOK300.js",
+    "./assets/monimentor-dashboard-DEfUeRVE.css",
+    "./assets/monimentor-dashboard-HsDbx7Gg.png"
   ],
-  "src/components/RotatingQuotes.vue?vue&type=style&index=0&scoped=023ed811&lang.css": [
-    "./assets/SolutionPage-BJkEfzOA.js",
-    "./assets/SolutionPage-CdmZZ3lk.css"
+  "src/components/RotatingQuotes.vue?vue&type=style&index=0&scoped=2aa3df73&lang.css": [
+    "./assets/monimentor-dashboard-CgwOK300.js",
+    "./assets/monimentor-dashboard-DEfUeRVE.css",
+    "./assets/monimentor-dashboard-HsDbx7Gg.png"
   ],
   "src/components/SectionSidebar.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/HomePage-DHy9rzgt.js",
-    "./assets/HomePage-C2yENbC-.css",
+    "./assets/HomePage-BfFqiWzO.js",
+    "./assets/HomePage-BCIjntro.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
@@ -2302,70 +2487,80 @@
     "./assets/platform-BG_-aveU.glb",
     "./assets/text-BfOb54GY.glb",
     "./assets/platform_overflow-Cpt9h5Jm.glb",
+    "./assets/telescope-B9cY8wiI.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
     "./assets/dementor-B6TKp34Q.webp",
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
+  "src/components/SmartphoneChecklistSection.vue?vue&type=script&setup=true&lang.ts": [
+    "./assets/SmartphoneChecklistSection.vue_vue_type_script_setup_true_lang-Bx0m_5jU.js"
+  ],
   "src/components/WaveDivider.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/wave-data-O3qcs3xE.js",
+    "./assets/wave-data-DjgIYj8C.js",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-D5F2y_tK.avif",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-DrT5azu7.webp",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-BIXC-rAe.png"
   ],
   "src/data/blog/authors.ts": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "src/data/blog/index.ts": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "src/data/blog/posts/blijf-in-beeld-zo-start-je-het-digitale-gezinsgesprek.en.md?raw": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "src/data/blog/posts/blijf-in-beeld-zo-start-je-het-digitale-gezinsgesprek.nl.md?raw": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "src/data/blog/posts/de-digitale-speeltuin-begeleiding-boven-verbod.en.md?raw": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "src/data/blog/posts/de-digitale-speeltuin-begeleiding-boven-verbod.nl.md?raw": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "src/data/blog/posts/de-eu-kids-act-waarom-deze-wet-jou-als-ouder-ontlast.en.md?raw": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "src/data/blog/posts/de-eu-kids-act-waarom-deze-wet-jou-als-ouder-ontlast.nl.md?raw": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "src/data/blog/posts/digitale-opvoeding-tippen.en.md?raw": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "src/data/blog/posts/digitale-opvoeding-tippen.nl.md?raw": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "src/data/blog/posts/hoe-moni-gebaren-leert-en-jij-je-kind-digitaal-begeleidt.en.md?raw": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "src/data/blog/posts/hoe-moni-gebaren-leert-en-jij-je-kind-digitaal-begeleidt.nl.md?raw": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "src/data/blog/posts/kleurwedstrijd-kleurplaat.en.md?raw": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "src/data/blog/posts/kleurwedstrijd-kleurplaat.nl.md?raw": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
+  ],
+  "src/data/blog/posts/roblox-herken-de-valkuilen-en-stel-veilige-digitale-grenzen.en.md?raw": [
+    "./assets/authors-BW3ChvEf.js"
+  ],
+  "src/data/blog/posts/roblox-herken-de-valkuilen-en-stel-veilige-digitale-grenzen.nl.md?raw": [
+    "./assets/authors-BW3ChvEf.js"
   ],
   "src/data/blog/posts/van-politieagent-naar-gids.en.md?raw": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "src/data/blog/posts/van-politieagent-naar-gids.nl.md?raw": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "src/data/blog/posts/van-schermpaniek-naar-digitale-rust-zo-bouw-je-weerbaarheid.en.md?raw": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "src/data/blog/posts/van-schermpaniek-naar-digitale-rust-zo-bouw-je-weerbaarheid.nl.md?raw": [
-    "./assets/authors-CcxFXIXa.js"
+    "./assets/authors-BW3ChvEf.js"
   ],
   "src/data/blog/slugs.ts": [],
   "src/i18n/index.ts": [],
@@ -2377,44 +2572,56 @@
   "src/locales/nl.json": [],
   "src/main.ts": [],
   "src/pages/AboutPage.vue": [
-    "./assets/AboutPage-FFKgv6xm.js"
+    "./assets/AboutPage-BndAJFRF.js",
+    "./assets/monimentor-team-CYQ6NE3q.webp",
+    "./assets/image-partners-D2LUc1La.webp",
+    "./assets/image-voorgezinnen-BNpwZnZb.webp"
   ],
   "src/pages/AboutPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/AboutPage-FFKgv6xm.js"
+    "./assets/AboutPage-BndAJFRF.js",
+    "./assets/monimentor-team-CYQ6NE3q.webp",
+    "./assets/image-partners-D2LUc1La.webp",
+    "./assets/image-voorgezinnen-BNpwZnZb.webp"
   ],
   "src/pages/BlogPage.vue": [
-    "./assets/BlogPage-TDlN3dS3.js"
+    "./assets/BlogPage-DR30buoz.js"
   ],
   "src/pages/BlogPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/BlogPage-TDlN3dS3.js"
+    "./assets/BlogPage-DR30buoz.js"
   ],
   "src/pages/BlogPostPage.vue": [
-    "./assets/BlogPostPage-Bvgbea8o.js",
-    "./assets/BlogPostPage-DQPIuGiC.css"
+    "./assets/BlogPostPage-CxknUHH0.js",
+    "./assets/BlogPostPage-FCvLgs6x.css"
   ],
   "src/pages/BlogPostPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/BlogPostPage-Bvgbea8o.js",
-    "./assets/BlogPostPage-DQPIuGiC.css"
+    "./assets/BlogPostPage-CxknUHH0.js",
+    "./assets/BlogPostPage-FCvLgs6x.css"
   ],
   "src/pages/BlogPostPage.vue?vue&type=style&index=0&lang.css": [
-    "./assets/BlogPostPage-Bvgbea8o.js",
-    "./assets/BlogPostPage-DQPIuGiC.css"
+    "./assets/BlogPostPage-CxknUHH0.js",
+    "./assets/BlogPostPage-FCvLgs6x.css"
+  ],
+  "src/pages/CloudSurfersPage.vue": [
+    "./assets/CloudSurfersPage-DjKZ5ToH.js"
+  ],
+  "src/pages/CloudSurfersPage.vue?vue&type=script&setup=true&lang.ts": [
+    "./assets/CloudSurfersPage-DjKZ5ToH.js"
   ],
   "src/pages/ContactPage.vue": [
-    "./assets/ContactPage-D9jMXoXg.js"
+    "./assets/ContactPage-D0PEzRqc.js"
   ],
   "src/pages/ContactPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/ContactPage-D9jMXoXg.js"
+    "./assets/ContactPage-D0PEzRqc.js"
   ],
   "src/pages/FAQPage.vue": [
-    "./assets/FAQPage-J3KN0471.js"
+    "./assets/FAQPage-QwaOqjtJ.js"
   ],
   "src/pages/FAQPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/FAQPage-J3KN0471.js"
+    "./assets/FAQPage-QwaOqjtJ.js"
   ],
   "src/pages/HomePage.vue": [
-    "./assets/HomePage-DHy9rzgt.js",
-    "./assets/HomePage-C2yENbC-.css",
+    "./assets/HomePage-BfFqiWzO.js",
+    "./assets/HomePage-BCIjntro.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
@@ -2424,14 +2631,15 @@
     "./assets/platform-BG_-aveU.glb",
     "./assets/text-BfOb54GY.glb",
     "./assets/platform_overflow-Cpt9h5Jm.glb",
+    "./assets/telescope-B9cY8wiI.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
     "./assets/dementor-B6TKp34Q.webp",
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
   "src/pages/HomePage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/HomePage-DHy9rzgt.js",
-    "./assets/HomePage-C2yENbC-.css",
+    "./assets/HomePage-BfFqiWzO.js",
+    "./assets/HomePage-BCIjntro.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
     "./assets/ipad_mockup_1-pvdEN4UG.png",
@@ -2441,36 +2649,57 @@
     "./assets/platform-BG_-aveU.glb",
     "./assets/text-BfOb54GY.glb",
     "./assets/platform_overflow-Cpt9h5Jm.glb",
+    "./assets/telescope-B9cY8wiI.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
     "./assets/dementor-B6TKp34Q.webp",
     "./assets/monimentor-ouder-C7-jEHWb.mp4"
   ],
+  "src/pages/JGZPage.vue": [
+    "./assets/JGZPage-Bp44ZIfv.js"
+  ],
+  "src/pages/JGZPage.vue?vue&type=script&setup=true&lang.ts": [
+    "./assets/JGZPage-Bp44ZIfv.js"
+  ],
+  "src/pages/MediacoachPage.vue": [
+    "./assets/MediacoachPage-DlDT5XXm.js"
+  ],
+  "src/pages/MediacoachPage.vue?vue&type=script&setup=true&lang.ts": [
+    "./assets/MediacoachPage-DlDT5XXm.js"
+  ],
+  "src/pages/SchoolPage.vue": [
+    "./assets/SchoolPage-Bl9t7PC4.js"
+  ],
+  "src/pages/SchoolPage.vue?vue&type=script&setup=true&lang.ts": [
+    "./assets/SchoolPage-Bl9t7PC4.js"
+  ],
   "src/pages/SolutionPage.vue": [
-    "./assets/SolutionPage-BJkEfzOA.js",
-    "./assets/SolutionPage-CdmZZ3lk.css"
+    "./assets/SolutionPage-CB8TybGd.js"
   ],
   "src/pages/SolutionPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/SolutionPage-BJkEfzOA.js",
-    "./assets/SolutionPage-CdmZZ3lk.css"
+    "./assets/SolutionPage-CB8TybGd.js"
   ],
   "src/pages/StickerPage.vue": [
-    "./assets/StickerPage-I_qm2-dy.js",
+    "./assets/StickerPage-JYyrYi3P.js",
     "./assets/Moni_vector-CgvD_mcn.svg"
   ],
   "src/pages/StickerPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/StickerPage-I_qm2-dy.js",
+    "./assets/StickerPage-JYyrYi3P.js",
     "./assets/Moni_vector-CgvD_mcn.svg"
   ],
   "src/router/index.ts": [],
+  "src/router/route-definitions.ts": [],
   "src/style.css": [],
   "src/utils/domain-shim.ts": [],
   "src/utils/faq-synonyms.ts": [
-    "./assets/FAQPage-J3KN0471.js"
+    "./assets/FAQPage-QwaOqjtJ.js"
+  ],
+  "src/utils/lead-submission.ts": [
+    "./assets/lead-submission-CyiPQYgO.js"
   ],
   "src/utils/seo.ts": [],
   "src/utils/wave-data.ts": [
-    "./assets/wave-data-O3qcs3xE.js",
+    "./assets/wave-data-DjgIYj8C.js",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-D5F2y_tK.avif",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-DrT5azu7.webp",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-BIXC-rAe.png"
