@@ -14,10 +14,10 @@
   "\u0000vite/modulepreload-polyfill.js": [],
   "\u0000vite/preload-helper.js": [],
   "../../../../../images/monimentor-cloudsurfers-boardgame.webp": [
-    "./assets/CloudSurfersPage-CUmmaSpn.js"
+    "./assets/CloudSurfersPage-DvRufJLy.js"
   ],
   "../../../../../images/monimentor-family-playing-cloudsurfers.webp": [
-    "./assets/CloudSurfersPage-CUmmaSpn.js"
+    "./assets/CloudSurfersPage-DvRufJLy.js"
   ],
   "../monimentor-3d/node_modules/@dimforge/rapier3d-compat/rapier.es.js": [
     "./assets/three-vendor-DD70jpMi.js"
@@ -554,7 +554,7 @@
     "./assets/three-vendor-DD70jpMi.js"
   ],
   "../monimentor-3d/node_modules/gsap/CSSPlugin.js": [
-    "./assets/HomePage-_Nxq4I9W.js",
+    "./assets/HomePage-iyEE2Vn5.js",
     "./assets/HomePage-CK_AvLkj.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
@@ -562,6 +562,7 @@
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
     "./assets/Moni--rlofoea.glb",
+    "./assets/text-H_PYhNLD.glb",
     "./assets/telescope-9piW7RrV.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
@@ -570,7 +571,7 @@
     "./assets/monimentor-dashboard-HsDbx7Gg.png"
   ],
   "../monimentor-3d/node_modules/gsap/gsap-core.js": [
-    "./assets/HomePage-_Nxq4I9W.js",
+    "./assets/HomePage-iyEE2Vn5.js",
     "./assets/HomePage-CK_AvLkj.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
@@ -578,6 +579,7 @@
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
     "./assets/Moni--rlofoea.glb",
+    "./assets/text-H_PYhNLD.glb",
     "./assets/telescope-9piW7RrV.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
@@ -586,7 +588,7 @@
     "./assets/monimentor-dashboard-HsDbx7Gg.png"
   ],
   "../monimentor-3d/node_modules/gsap/index.js": [
-    "./assets/HomePage-_Nxq4I9W.js",
+    "./assets/HomePage-iyEE2Vn5.js",
     "./assets/HomePage-CK_AvLkj.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
@@ -594,6 +596,7 @@
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
     "./assets/Moni--rlofoea.glb",
+    "./assets/text-H_PYhNLD.glb",
     "./assets/telescope-9piW7RrV.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
@@ -620,7 +623,7 @@
     "./assets/three-vendor-DD70jpMi.js"
   ],
   "../monimentor-3d/src/three-objects/createJar.ts": [
-    "./assets/HomePage-_Nxq4I9W.js",
+    "./assets/HomePage-iyEE2Vn5.js",
     "./assets/HomePage-CK_AvLkj.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
@@ -628,6 +631,7 @@
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
     "./assets/Moni--rlofoea.glb",
+    "./assets/text-H_PYhNLD.glb",
     "./assets/telescope-9piW7RrV.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
@@ -636,7 +640,7 @@
     "./assets/monimentor-dashboard-HsDbx7Gg.png"
   ],
   "../monimentor-3d/src/three-objects/createMoni.ts": [
-    "./assets/HomePage-_Nxq4I9W.js",
+    "./assets/HomePage-iyEE2Vn5.js",
     "./assets/HomePage-CK_AvLkj.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
@@ -644,6 +648,7 @@
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
     "./assets/Moni--rlofoea.glb",
+    "./assets/text-H_PYhNLD.glb",
     "./assets/telescope-9piW7RrV.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
@@ -652,7 +657,7 @@
     "./assets/monimentor-dashboard-HsDbx7Gg.png"
   ],
   "../monimentor-3d/src/three-objects/createOrb.ts": [
-    "./assets/HomePage-_Nxq4I9W.js",
+    "./assets/HomePage-iyEE2Vn5.js",
     "./assets/HomePage-CK_AvLkj.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
@@ -660,6 +665,7 @@
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
     "./assets/Moni--rlofoea.glb",
+    "./assets/text-H_PYhNLD.glb",
     "./assets/telescope-9piW7RrV.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
@@ -668,7 +674,7 @@
     "./assets/monimentor-dashboard-HsDbx7Gg.png"
   ],
   "../monimentor-3d/src/three-objects/createPlatform.ts": [
-    "./assets/HomePage-_Nxq4I9W.js",
+    "./assets/HomePage-iyEE2Vn5.js",
     "./assets/HomePage-CK_AvLkj.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
@@ -676,6 +682,7 @@
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
     "./assets/Moni--rlofoea.glb",
+    "./assets/text-H_PYhNLD.glb",
     "./assets/telescope-9piW7RrV.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
@@ -684,7 +691,7 @@
     "./assets/monimentor-dashboard-HsDbx7Gg.png"
   ],
   "../monimentor-3d/src/three-objects/createPlatformOverflow.ts": [
-    "./assets/HomePage-_Nxq4I9W.js",
+    "./assets/HomePage-iyEE2Vn5.js",
     "./assets/HomePage-CK_AvLkj.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
@@ -692,6 +699,7 @@
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
     "./assets/Moni--rlofoea.glb",
+    "./assets/text-H_PYhNLD.glb",
     "./assets/telescope-9piW7RrV.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
@@ -700,7 +708,7 @@
     "./assets/monimentor-dashboard-HsDbx7Gg.png"
   ],
   "../monimentor-3d/src/three-objects/createRocket.ts": [
-    "./assets/HomePage-_Nxq4I9W.js",
+    "./assets/HomePage-iyEE2Vn5.js",
     "./assets/HomePage-CK_AvLkj.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
@@ -708,6 +716,7 @@
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
     "./assets/Moni--rlofoea.glb",
+    "./assets/text-H_PYhNLD.glb",
     "./assets/telescope-9piW7RrV.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
@@ -716,7 +725,7 @@
     "./assets/monimentor-dashboard-HsDbx7Gg.png"
   ],
   "../monimentor-3d/src/three-objects/createSmoke.ts": [
-    "./assets/HomePage-_Nxq4I9W.js",
+    "./assets/HomePage-iyEE2Vn5.js",
     "./assets/HomePage-CK_AvLkj.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
@@ -724,6 +733,7 @@
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
     "./assets/Moni--rlofoea.glb",
+    "./assets/text-H_PYhNLD.glb",
     "./assets/telescope-9piW7RrV.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
@@ -732,7 +742,7 @@
     "./assets/monimentor-dashboard-HsDbx7Gg.png"
   ],
   "../monimentor-3d/src/three-objects/createSnow.ts": [
-    "./assets/HomePage-_Nxq4I9W.js",
+    "./assets/HomePage-iyEE2Vn5.js",
     "./assets/HomePage-CK_AvLkj.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
@@ -740,6 +750,7 @@
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
     "./assets/Moni--rlofoea.glb",
+    "./assets/text-H_PYhNLD.glb",
     "./assets/telescope-9piW7RrV.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
@@ -748,7 +759,7 @@
     "./assets/monimentor-dashboard-HsDbx7Gg.png"
   ],
   "../monimentor-3d/src/three-objects/createTelescope.ts": [
-    "./assets/HomePage-_Nxq4I9W.js",
+    "./assets/HomePage-iyEE2Vn5.js",
     "./assets/HomePage-CK_AvLkj.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
@@ -756,6 +767,7 @@
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
     "./assets/Moni--rlofoea.glb",
+    "./assets/text-H_PYhNLD.glb",
     "./assets/telescope-9piW7RrV.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
@@ -764,7 +776,7 @@
     "./assets/monimentor-dashboard-HsDbx7Gg.png"
   ],
   "../monimentor-3d/src/three-objects/models/Moni.glb?url": [
-    "./assets/HomePage-_Nxq4I9W.js",
+    "./assets/HomePage-iyEE2Vn5.js",
     "./assets/HomePage-CK_AvLkj.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
@@ -772,6 +784,7 @@
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
     "./assets/Moni--rlofoea.glb",
+    "./assets/text-H_PYhNLD.glb",
     "./assets/telescope-9piW7RrV.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
@@ -780,7 +793,7 @@
     "./assets/monimentor-dashboard-HsDbx7Gg.png"
   ],
   "../monimentor-3d/src/three-objects/models/jar.glb?url": [
-    "./assets/HomePage-_Nxq4I9W.js",
+    "./assets/HomePage-iyEE2Vn5.js",
     "./assets/HomePage-CK_AvLkj.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
@@ -788,6 +801,7 @@
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
     "./assets/Moni--rlofoea.glb",
+    "./assets/text-H_PYhNLD.glb",
     "./assets/telescope-9piW7RrV.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
@@ -796,7 +810,7 @@
     "./assets/monimentor-dashboard-HsDbx7Gg.png"
   ],
   "../monimentor-3d/src/three-objects/models/platform.glb?url": [
-    "./assets/HomePage-_Nxq4I9W.js",
+    "./assets/HomePage-iyEE2Vn5.js",
     "./assets/HomePage-CK_AvLkj.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
@@ -804,6 +818,7 @@
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
     "./assets/Moni--rlofoea.glb",
+    "./assets/text-H_PYhNLD.glb",
     "./assets/telescope-9piW7RrV.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
@@ -812,7 +827,7 @@
     "./assets/monimentor-dashboard-HsDbx7Gg.png"
   ],
   "../monimentor-3d/src/three-objects/models/platform_overflow.glb?url": [
-    "./assets/HomePage-_Nxq4I9W.js",
+    "./assets/HomePage-iyEE2Vn5.js",
     "./assets/HomePage-CK_AvLkj.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
@@ -820,6 +835,7 @@
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
     "./assets/Moni--rlofoea.glb",
+    "./assets/text-H_PYhNLD.glb",
     "./assets/telescope-9piW7RrV.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
@@ -828,7 +844,7 @@
     "./assets/monimentor-dashboard-HsDbx7Gg.png"
   ],
   "../monimentor-3d/src/three-objects/models/rocket.glb?url": [
-    "./assets/HomePage-_Nxq4I9W.js",
+    "./assets/HomePage-iyEE2Vn5.js",
     "./assets/HomePage-CK_AvLkj.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
@@ -836,6 +852,7 @@
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
     "./assets/Moni--rlofoea.glb",
+    "./assets/text-H_PYhNLD.glb",
     "./assets/telescope-9piW7RrV.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
@@ -844,7 +861,7 @@
     "./assets/monimentor-dashboard-HsDbx7Gg.png"
   ],
   "../monimentor-3d/src/three-objects/models/telescope.glb?url": [
-    "./assets/HomePage-_Nxq4I9W.js",
+    "./assets/HomePage-iyEE2Vn5.js",
     "./assets/HomePage-CK_AvLkj.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
@@ -852,6 +869,7 @@
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
     "./assets/Moni--rlofoea.glb",
+    "./assets/text-H_PYhNLD.glb",
     "./assets/telescope-9piW7RrV.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
@@ -860,7 +878,7 @@
     "./assets/monimentor-dashboard-HsDbx7Gg.png"
   ],
   "../monimentor-3d/src/three-objects/models/text.glb?url": [
-    "./assets/HomePage-_Nxq4I9W.js",
+    "./assets/HomePage-iyEE2Vn5.js",
     "./assets/HomePage-CK_AvLkj.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
@@ -868,6 +886,7 @@
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
     "./assets/Moni--rlofoea.glb",
+    "./assets/text-H_PYhNLD.glb",
     "./assets/telescope-9piW7RrV.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
@@ -876,7 +895,7 @@
     "./assets/monimentor-dashboard-HsDbx7Gg.png"
   ],
   "../monimentor-3d/src/three-objects/moniAnimationManager.ts": [
-    "./assets/HomePage-_Nxq4I9W.js",
+    "./assets/HomePage-iyEE2Vn5.js",
     "./assets/HomePage-CK_AvLkj.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
@@ -884,6 +903,7 @@
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
     "./assets/Moni--rlofoea.glb",
+    "./assets/text-H_PYhNLD.glb",
     "./assets/telescope-9piW7RrV.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
@@ -892,7 +912,7 @@
     "./assets/monimentor-dashboard-HsDbx7Gg.png"
   ],
   "../monimentor-3d/src/three-objects/moniBlinkController.ts": [
-    "./assets/HomePage-_Nxq4I9W.js",
+    "./assets/HomePage-iyEE2Vn5.js",
     "./assets/HomePage-CK_AvLkj.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
@@ -900,6 +920,7 @@
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
     "./assets/Moni--rlofoea.glb",
+    "./assets/text-H_PYhNLD.glb",
     "./assets/telescope-9piW7RrV.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
@@ -908,7 +929,7 @@
     "./assets/monimentor-dashboard-HsDbx7Gg.png"
   ],
   "../monimentor-3d/src/three-objects/moniIdleBreakController.ts": [
-    "./assets/HomePage-_Nxq4I9W.js",
+    "./assets/HomePage-iyEE2Vn5.js",
     "./assets/HomePage-CK_AvLkj.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
@@ -916,6 +937,7 @@
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
     "./assets/Moni--rlofoea.glb",
+    "./assets/text-H_PYhNLD.glb",
     "./assets/telescope-9piW7RrV.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
@@ -924,7 +946,7 @@
     "./assets/monimentor-dashboard-HsDbx7Gg.png"
   ],
   "../monimentor-3d/src/three-objects/moniWorld.ts": [
-    "./assets/HomePage-_Nxq4I9W.js",
+    "./assets/HomePage-iyEE2Vn5.js",
     "./assets/HomePage-CK_AvLkj.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
@@ -932,6 +954,7 @@
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
     "./assets/Moni--rlofoea.glb",
+    "./assets/text-H_PYhNLD.glb",
     "./assets/telescope-9piW7RrV.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
@@ -940,7 +963,7 @@
     "./assets/monimentor-dashboard-HsDbx7Gg.png"
   ],
   "../monimentor-3d/src/three-objects/orbManager.ts": [
-    "./assets/HomePage-_Nxq4I9W.js",
+    "./assets/HomePage-iyEE2Vn5.js",
     "./assets/HomePage-CK_AvLkj.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
@@ -948,6 +971,7 @@
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
     "./assets/Moni--rlofoea.glb",
+    "./assets/text-H_PYhNLD.glb",
     "./assets/telescope-9piW7RrV.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
@@ -956,7 +980,7 @@
     "./assets/monimentor-dashboard-HsDbx7Gg.png"
   ],
   "../monimentor-3d/src/three-objects/useRocketController.ts": [
-    "./assets/HomePage-_Nxq4I9W.js",
+    "./assets/HomePage-iyEE2Vn5.js",
     "./assets/HomePage-CK_AvLkj.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
@@ -964,6 +988,7 @@
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
     "./assets/Moni--rlofoea.glb",
+    "./assets/text-H_PYhNLD.glb",
     "./assets/telescope-9piW7RrV.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
@@ -972,7 +997,7 @@
     "./assets/monimentor-dashboard-HsDbx7Gg.png"
   ],
   "../monimentor-3d/src/three-objects/visibilityRules.ts": [
-    "./assets/HomePage-_Nxq4I9W.js",
+    "./assets/HomePage-iyEE2Vn5.js",
     "./assets/HomePage-CK_AvLkj.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
@@ -980,6 +1005,7 @@
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
     "./assets/Moni--rlofoea.glb",
+    "./assets/text-H_PYhNLD.glb",
     "./assets/telescope-9piW7RrV.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
@@ -988,76 +1014,66 @@
     "./assets/monimentor-dashboard-HsDbx7Gg.png"
   ],
   "../monimentor-ui/packages/components/src/base/Button.vue": [
-    "./assets/Button-DxCEfppR.js"
+    "./assets/Button-ThjNlW_A.js"
   ],
   "../monimentor-ui/packages/components/src/base/Button.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/Button-DxCEfppR.js"
+    "./assets/Button-ThjNlW_A.js"
   ],
   "../monimentor-ui/packages/components/src/base/Button.vue?vue&type=style&index=0&scoped=51823b0c&lang.css": [],
   "../monimentor-ui/packages/components/src/base/GlassCard.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/GlassCard.vue_vue_type_script_setup_true_lang-CbijNq4h.js"
+    "./assets/GlassCard.vue_vue_type_script_setup_true_lang-DFxo0lDV.js"
   ],
   "../monimentor-ui/packages/components/src/base/MoniLogo.vue?vue&type=script&setup=true&lang.ts": [],
   "index.html": [],
   "node_modules/@heroicons/vue/24/outline/esm/AcademicCapIcon.js": [
-    "./assets/MediacoachPage-CYn03Fvu.js"
+    "./assets/MediacoachPage-hxdZvR4w.js"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/ArrowDownTrayIcon.js": [
-    "./assets/SmartphoneChecklistSection.vue_vue_type_script_setup_true_lang-ibFPWFeF.js"
+    "./assets/SparklesIcon-DNfqDT5y.js"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/BookOpenIcon.js": [
-    "./assets/SchoolPage-BaExG8y5.js"
+    "./assets/SchoolPage-CweOjT1a.js"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/BuildingLibraryIcon.js": [
-    "./assets/SchoolPage-BaExG8y5.js"
+    "./assets/SchoolPage-CweOjT1a.js"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/ChatBubbleBottomCenterTextIcon.js": [
-    "./assets/MediacoachPage-CYn03Fvu.js"
+    "./assets/MediacoachPage-hxdZvR4w.js"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/CheckCircleIcon.js": [
-    "./assets/EnvelopeIcon-CtiYRod5.js"
+    "./assets/SparklesIcon-DNfqDT5y.js"
+  ],
+  "node_modules/@heroicons/vue/24/outline/esm/DocumentArrowDownIcon.js": [
+    "./assets/DownloadModal.vue_vue_type_script_setup_true_lang-BNzwQnvA.js"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/DocumentCheckIcon.js": [
-    "./assets/SmartphoneChecklistSection.vue_vue_type_script_setup_true_lang-ibFPWFeF.js"
+    "./assets/SmartphoneChecklistSection.vue_vue_type_script_setup_true_lang-BWbixlZB.js"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/EnvelopeIcon.js": [
-    "./assets/EnvelopeIcon-CtiYRod5.js"
+    "./assets/SparklesIcon-DNfqDT5y.js"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/HeartIcon.js": [
-    "./assets/JGZPage-BqSh2h6-.js"
+    "./assets/JGZPage-Cc09tqmo.js"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/MoonIcon.js": [
-    "./assets/JGZPage-BqSh2h6-.js"
+    "./assets/JGZPage-Cc09tqmo.js"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/PhoneIcon.js": [
-    "./assets/BlogPostPage-BK488Lat.js",
+    "./assets/BlogPostPage-DeqGoP7o.js",
     "./assets/BlogPostPage-FCvLgs6x.css"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/ShieldCheckIcon.js": [
-    "./assets/SmartphoneChecklistSection.vue_vue_type_script_setup_true_lang-ibFPWFeF.js"
+    "./assets/SmartphoneChecklistSection.vue_vue_type_script_setup_true_lang-BWbixlZB.js"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/SparklesIcon.js": [
-    "./assets/SmartphoneChecklistSection.vue_vue_type_script_setup_true_lang-ibFPWFeF.js"
+    "./assets/SparklesIcon-DNfqDT5y.js"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/UserCircleIcon.js": [],
   "node_modules/@heroicons/vue/24/outline/esm/UserGroupIcon.js": [
-    "./assets/SchoolPage-BaExG8y5.js"
+    "./assets/SchoolPage-CweOjT1a.js"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/XMarkIcon.js": [
-    "./assets/HomePage-_Nxq4I9W.js",
-    "./assets/HomePage-CK_AvLkj.css",
-    "./assets/ipad_mockup_1-B_98ijG-.avif",
-    "./assets/ipad_mockup_1-CwT9xb6r.webp",
-    "./assets/ipad_mockup_1-pvdEN4UG.png",
-    "./assets/jar-DY-esj36.glb",
-    "./assets/rocket-D6Rtk7R6.glb",
-    "./assets/Moni--rlofoea.glb",
-    "./assets/telescope-9piW7RrV.glb",
-    "./assets/deverkenner-COtWLF-W.webp",
-    "./assets/denavigator-D6ufxPr7.webp",
-    "./assets/dementor-B6TKp34Q.webp",
-    "./assets/monimentor-ouder-C7-jEHWb.mp4",
-    "./assets/monimentor-dashboard-HsDbx7Gg.png"
+    "./assets/XMarkIcon-Pye9e-7M.js"
   ],
   "node_modules/@intlify/core-base/dist/core-base.mjs": [],
   "node_modules/@intlify/message-compiler/dist/message-compiler.mjs": [],
@@ -1808,224 +1824,224 @@
   "node_modules/@vueuse/head/node_modules/@unhead/vue/dist/shared/vue.ziyDaVMR.mjs": [],
   "node_modules/@vueuse/head/node_modules/unhead/dist/index.mjs": [],
   "node_modules/fuse.js/dist/fuse.mjs": [
-    "./assets/FAQPage-BR9Ibgj9.js"
+    "./assets/FAQPage-B8bU6mux.js"
   ],
   "node_modules/hookable/dist/index.mjs": [],
   "node_modules/klaro/dist/klaro.js": [
     "./assets/klaro-CZluPq7x.js"
   ],
   "node_modules/linkify-it/index.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/linkify-it/lib/re.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/lib/common/html_blocks.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/lib/common/html_re.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/lib/common/utils.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/lib/helpers/index.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/lib/helpers/parse_link_destination.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/lib/helpers/parse_link_label.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/lib/helpers/parse_link_title.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/lib/index.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/lib/parser_block.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/lib/parser_core.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/lib/parser_inline.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/lib/presets/commonmark.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/lib/presets/default.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/lib/presets/zero.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/lib/renderer.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/lib/ruler.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/lib/rules_block/blockquote.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/lib/rules_block/code.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/lib/rules_block/fence.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/lib/rules_block/heading.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/lib/rules_block/hr.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/lib/rules_block/html_block.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/lib/rules_block/lheading.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/lib/rules_block/list.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/lib/rules_block/paragraph.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/lib/rules_block/reference.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/lib/rules_block/state_block.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/lib/rules_block/table.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/lib/rules_core/block.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/lib/rules_core/inline.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/lib/rules_core/linkify.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/lib/rules_core/normalize.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/lib/rules_core/replacements.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/lib/rules_core/smartquotes.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/lib/rules_core/state_core.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/lib/rules_core/text_join.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/autolink.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/backticks.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/balance_pairs.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/emphasis.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/entity.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/escape.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/fragments_join.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/html_inline.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/image.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/link.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/linkify.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/newline.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/state_inline.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/strikethrough.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/text.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/lib/token.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/node_modules/entities/lib/esm/decode.js": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/node_modules/entities/lib/esm/decode_codepoint.js": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/node_modules/entities/lib/esm/generated/decode-data-html.js": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/markdown-it/node_modules/entities/lib/esm/generated/decode-data-xml.js": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/mdurl/index.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/mdurl/lib/decode.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/mdurl/lib/encode.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/mdurl/lib/format.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/mdurl/lib/parse.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/punycode.js/punycode.es6.js": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/uc.micro/categories/Cc/regex.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/uc.micro/categories/Cf/regex.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/uc.micro/categories/P/regex.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/uc.micro/categories/S/regex.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/uc.micro/categories/Z/regex.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/uc.micro/index.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/uc.micro/properties/Any/regex.mjs": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "node_modules/vite-ssg/dist/index.mjs": [],
   "node_modules/vite-ssg/dist/shared/vite-ssg.C6pK7rvr.mjs": [],
@@ -2043,11 +2059,11 @@
   "src/App.vue?vue&type=script&setup=true&lang.ts": [],
   "src/App.vue?vue&type=style&index=0&lang.css": [],
   "src/assets/images/Moni_vector.svg": [
-    "./assets/StickerPage-BJBrxsp9.js",
+    "./assets/StickerPage-DRuqNodA.js",
     "./assets/Moni_vector-CgvD_mcn.svg"
   ],
   "src/assets/images/aangesloten-bij-Netwerk-Mediawijsheid.png": [
-    "./assets/Footer.vue_vue_type_script_setup_true_lang-l80M7JjE.js",
+    "./assets/Footer.vue_vue_type_script_setup_true_lang-xmPnClxY.js",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-D5F2y_tK.avif",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-DrT5azu7.webp",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-BIXC-rAe.png"
@@ -2062,19 +2078,19 @@
     "./assets/website_images_monimentor_toekomst-q4ASVg7K.svg"
   ],
   "src/assets/images/image-partners.webp": [
-    "./assets/AboutPage-UwcqF835.js",
+    "./assets/AboutPage-DYaFW_Xk.js",
     "./assets/monimentor-team-CYQ6NE3q.webp",
     "./assets/image-partners-D2LUc1La.webp",
     "./assets/image-voorgezinnen-BNpwZnZb.webp"
   ],
   "src/assets/images/image-voorgezinnen.webp": [
-    "./assets/AboutPage-UwcqF835.js",
+    "./assets/AboutPage-DYaFW_Xk.js",
     "./assets/monimentor-team-CYQ6NE3q.webp",
     "./assets/image-partners-D2LUc1La.webp",
     "./assets/image-voorgezinnen-BNpwZnZb.webp"
   ],
   "src/assets/images/ipad_mockup_1.png": [
-    "./assets/HomePage-_Nxq4I9W.js",
+    "./assets/HomePage-iyEE2Vn5.js",
     "./assets/HomePage-CK_AvLkj.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
@@ -2082,6 +2098,7 @@
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
     "./assets/Moni--rlofoea.glb",
+    "./assets/text-H_PYhNLD.glb",
     "./assets/telescope-9piW7RrV.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
@@ -2090,7 +2107,7 @@
     "./assets/monimentor-dashboard-HsDbx7Gg.png"
   ],
   "src/assets/images/monimentor-dashboard.png": [
-    "./assets/HomePage-_Nxq4I9W.js",
+    "./assets/HomePage-iyEE2Vn5.js",
     "./assets/HomePage-CK_AvLkj.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
@@ -2098,6 +2115,7 @@
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
     "./assets/Moni--rlofoea.glb",
+    "./assets/text-H_PYhNLD.glb",
     "./assets/telescope-9piW7RrV.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
@@ -2106,25 +2124,25 @@
     "./assets/monimentor-dashboard-HsDbx7Gg.png"
   ],
   "src/assets/images/monimentor-team.webp": [
-    "./assets/AboutPage-UwcqF835.js",
+    "./assets/AboutPage-DYaFW_Xk.js",
     "./assets/monimentor-team-CYQ6NE3q.webp",
     "./assets/image-partners-D2LUc1La.webp",
     "./assets/image-voorgezinnen-BNpwZnZb.webp"
   ],
   "src/assets/images/webp/aangesloten-bij-Netwerk-Mediawijsheid.avif": [
-    "./assets/Footer.vue_vue_type_script_setup_true_lang-l80M7JjE.js",
+    "./assets/Footer.vue_vue_type_script_setup_true_lang-xmPnClxY.js",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-D5F2y_tK.avif",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-DrT5azu7.webp",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-BIXC-rAe.png"
   ],
   "src/assets/images/webp/aangesloten-bij-Netwerk-Mediawijsheid.webp": [
-    "./assets/Footer.vue_vue_type_script_setup_true_lang-l80M7JjE.js",
+    "./assets/Footer.vue_vue_type_script_setup_true_lang-xmPnClxY.js",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-D5F2y_tK.avif",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-DrT5azu7.webp",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-BIXC-rAe.png"
   ],
   "src/assets/images/webp/dementor.webp": [
-    "./assets/HomePage-_Nxq4I9W.js",
+    "./assets/HomePage-iyEE2Vn5.js",
     "./assets/HomePage-CK_AvLkj.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
@@ -2132,6 +2150,7 @@
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
     "./assets/Moni--rlofoea.glb",
+    "./assets/text-H_PYhNLD.glb",
     "./assets/telescope-9piW7RrV.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
@@ -2140,7 +2159,7 @@
     "./assets/monimentor-dashboard-HsDbx7Gg.png"
   ],
   "src/assets/images/webp/denavigator.webp": [
-    "./assets/HomePage-_Nxq4I9W.js",
+    "./assets/HomePage-iyEE2Vn5.js",
     "./assets/HomePage-CK_AvLkj.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
@@ -2148,6 +2167,7 @@
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
     "./assets/Moni--rlofoea.glb",
+    "./assets/text-H_PYhNLD.glb",
     "./assets/telescope-9piW7RrV.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
@@ -2156,7 +2176,7 @@
     "./assets/monimentor-dashboard-HsDbx7Gg.png"
   ],
   "src/assets/images/webp/deverkenner.webp": [
-    "./assets/HomePage-_Nxq4I9W.js",
+    "./assets/HomePage-iyEE2Vn5.js",
     "./assets/HomePage-CK_AvLkj.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
@@ -2164,6 +2184,7 @@
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
     "./assets/Moni--rlofoea.glb",
+    "./assets/text-H_PYhNLD.glb",
     "./assets/telescope-9piW7RrV.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
@@ -2190,7 +2211,7 @@
     "./assets/website_images_monimentor_toekomst-q4ASVg7K.svg"
   ],
   "src/assets/images/webp/ipad_mockup_1.avif": [
-    "./assets/HomePage-_Nxq4I9W.js",
+    "./assets/HomePage-iyEE2Vn5.js",
     "./assets/HomePage-CK_AvLkj.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
@@ -2198,6 +2219,7 @@
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
     "./assets/Moni--rlofoea.glb",
+    "./assets/text-H_PYhNLD.glb",
     "./assets/telescope-9piW7RrV.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
@@ -2206,7 +2228,7 @@
     "./assets/monimentor-dashboard-HsDbx7Gg.png"
   ],
   "src/assets/images/webp/ipad_mockup_1.webp": [
-    "./assets/HomePage-_Nxq4I9W.js",
+    "./assets/HomePage-iyEE2Vn5.js",
     "./assets/HomePage-CK_AvLkj.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
@@ -2214,6 +2236,7 @@
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
     "./assets/Moni--rlofoea.glb",
+    "./assets/text-H_PYhNLD.glb",
     "./assets/telescope-9piW7RrV.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
@@ -2249,7 +2272,7 @@
     "./assets/website_images_monimentor_toekomst-q4ASVg7K.svg"
   ],
   "src/assets/videos/monimentor-ouder.mp4": [
-    "./assets/HomePage-_Nxq4I9W.js",
+    "./assets/HomePage-iyEE2Vn5.js",
     "./assets/HomePage-CK_AvLkj.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
@@ -2257,6 +2280,7 @@
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
     "./assets/Moni--rlofoea.glb",
+    "./assets/text-H_PYhNLD.glb",
     "./assets/telescope-9piW7RrV.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
@@ -2265,11 +2289,11 @@
     "./assets/monimentor-dashboard-HsDbx7Gg.png"
   ],
   "src/components/ActiviteitenAanmeldForm.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/BlogPostPage-BK488Lat.js",
+    "./assets/BlogPostPage-DeqGoP7o.js",
     "./assets/BlogPostPage-FCvLgs6x.css"
   ],
   "src/components/AndroidWaitlistModal.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/HomePage-_Nxq4I9W.js",
+    "./assets/HomePage-iyEE2Vn5.js",
     "./assets/HomePage-CK_AvLkj.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
@@ -2277,6 +2301,7 @@
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
     "./assets/Moni--rlofoea.glb",
+    "./assets/text-H_PYhNLD.glb",
     "./assets/telescope-9piW7RrV.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
@@ -2285,10 +2310,10 @@
     "./assets/monimentor-dashboard-HsDbx7Gg.png"
   ],
   "src/components/AppleAppStoreButton.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/AppleAppStoreButton.vue_vue_type_script_setup_true_lang-Dyhas318.js"
+    "./assets/AppleAppStoreButton.vue_vue_type_script_setup_true_lang-C_7BQ-SG.js"
   ],
   "src/components/DeviceVideoFrame.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/HomePage-_Nxq4I9W.js",
+    "./assets/HomePage-iyEE2Vn5.js",
     "./assets/HomePage-CK_AvLkj.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
@@ -2296,6 +2321,7 @@
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
     "./assets/Moni--rlofoea.glb",
+    "./assets/text-H_PYhNLD.glb",
     "./assets/telescope-9piW7RrV.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
@@ -2303,17 +2329,23 @@
     "./assets/monimentor-ouder-C7-jEHWb.mp4",
     "./assets/monimentor-dashboard-HsDbx7Gg.png"
   ],
+  "src/components/DownloadButton.vue?vue&type=script&setup=true&lang.ts": [
+    "./assets/KleurplaatPage-CEVl7mxk.js"
+  ],
+  "src/components/DownloadModal.vue?vue&type=script&setup=true&lang.ts": [
+    "./assets/DownloadModal.vue_vue_type_script_setup_true_lang-BNzwQnvA.js"
+  ],
   "src/components/FAQItem.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/FAQPage-BR9Ibgj9.js"
+    "./assets/FAQPage-B8bU6mux.js"
   ],
   "src/components/Footer.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/Footer.vue_vue_type_script_setup_true_lang-l80M7JjE.js",
+    "./assets/Footer.vue_vue_type_script_setup_true_lang-xmPnClxY.js",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-D5F2y_tK.avif",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-DrT5azu7.webp",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-BIXC-rAe.png"
   ],
   "src/components/LadderStep.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/HomePage-_Nxq4I9W.js",
+    "./assets/HomePage-iyEE2Vn5.js",
     "./assets/HomePage-CK_AvLkj.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
@@ -2321,6 +2353,7 @@
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
     "./assets/Moni--rlofoea.glb",
+    "./assets/text-H_PYhNLD.glb",
     "./assets/telescope-9piW7RrV.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
@@ -2330,7 +2363,7 @@
   ],
   "src/components/LanguageSwitcher.vue?vue&type=script&setup=true&lang.ts": [],
   "src/components/MiniDemo.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/HomePage-_Nxq4I9W.js",
+    "./assets/HomePage-iyEE2Vn5.js",
     "./assets/HomePage-CK_AvLkj.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
@@ -2338,6 +2371,7 @@
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
     "./assets/Moni--rlofoea.glb",
+    "./assets/text-H_PYhNLD.glb",
     "./assets/telescope-9piW7RrV.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
@@ -2346,7 +2380,7 @@
     "./assets/monimentor-dashboard-HsDbx7Gg.png"
   ],
   "src/components/MoniScene.vue": [
-    "./assets/HomePage-_Nxq4I9W.js",
+    "./assets/HomePage-iyEE2Vn5.js",
     "./assets/HomePage-CK_AvLkj.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
@@ -2354,6 +2388,7 @@
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
     "./assets/Moni--rlofoea.glb",
+    "./assets/text-H_PYhNLD.glb",
     "./assets/telescope-9piW7RrV.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
@@ -2362,7 +2397,7 @@
     "./assets/monimentor-dashboard-HsDbx7Gg.png"
   ],
   "src/components/MoniScene.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/HomePage-_Nxq4I9W.js",
+    "./assets/HomePage-iyEE2Vn5.js",
     "./assets/HomePage-CK_AvLkj.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
@@ -2370,6 +2405,7 @@
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
     "./assets/Moni--rlofoea.glb",
+    "./assets/text-H_PYhNLD.glb",
     "./assets/telescope-9piW7RrV.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
@@ -2378,7 +2414,7 @@
     "./assets/monimentor-dashboard-HsDbx7Gg.png"
   ],
   "src/components/MoniScene.vue?vue&type=style&index=0&scoped=2c395d43&lang.css": [
-    "./assets/HomePage-_Nxq4I9W.js",
+    "./assets/HomePage-iyEE2Vn5.js",
     "./assets/HomePage-CK_AvLkj.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
@@ -2386,6 +2422,7 @@
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
     "./assets/Moni--rlofoea.glb",
+    "./assets/text-H_PYhNLD.glb",
     "./assets/telescope-9piW7RrV.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
@@ -2395,7 +2432,7 @@
   ],
   "src/components/NavigationHeader.vue?vue&type=script&setup=true&lang.ts": [],
   "src/components/RotatingQuotes.vue": [
-    "./assets/HomePage-_Nxq4I9W.js",
+    "./assets/HomePage-iyEE2Vn5.js",
     "./assets/HomePage-CK_AvLkj.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
@@ -2403,6 +2440,7 @@
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
     "./assets/Moni--rlofoea.glb",
+    "./assets/text-H_PYhNLD.glb",
     "./assets/telescope-9piW7RrV.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
@@ -2411,7 +2449,7 @@
     "./assets/monimentor-dashboard-HsDbx7Gg.png"
   ],
   "src/components/RotatingQuotes.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/HomePage-_Nxq4I9W.js",
+    "./assets/HomePage-iyEE2Vn5.js",
     "./assets/HomePage-CK_AvLkj.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
@@ -2419,6 +2457,7 @@
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
     "./assets/Moni--rlofoea.glb",
+    "./assets/text-H_PYhNLD.glb",
     "./assets/telescope-9piW7RrV.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
@@ -2427,7 +2466,7 @@
     "./assets/monimentor-dashboard-HsDbx7Gg.png"
   ],
   "src/components/RotatingQuotes.vue?vue&type=style&index=0&scoped=e9e107f5&lang.css": [
-    "./assets/HomePage-_Nxq4I9W.js",
+    "./assets/HomePage-iyEE2Vn5.js",
     "./assets/HomePage-CK_AvLkj.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
@@ -2435,6 +2474,7 @@
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
     "./assets/Moni--rlofoea.glb",
+    "./assets/text-H_PYhNLD.glb",
     "./assets/telescope-9piW7RrV.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
@@ -2443,7 +2483,7 @@
     "./assets/monimentor-dashboard-HsDbx7Gg.png"
   ],
   "src/components/SectionSidebar.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/HomePage-_Nxq4I9W.js",
+    "./assets/HomePage-iyEE2Vn5.js",
     "./assets/HomePage-CK_AvLkj.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
@@ -2451,6 +2491,7 @@
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
     "./assets/Moni--rlofoea.glb",
+    "./assets/text-H_PYhNLD.glb",
     "./assets/telescope-9piW7RrV.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
@@ -2459,79 +2500,97 @@
     "./assets/monimentor-dashboard-HsDbx7Gg.png"
   ],
   "src/components/SmartphoneChecklistSection.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/SmartphoneChecklistSection.vue_vue_type_script_setup_true_lang-ibFPWFeF.js"
+    "./assets/SmartphoneChecklistSection.vue_vue_type_script_setup_true_lang-BWbixlZB.js"
   ],
   "src/components/WaveSection.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/Footer.vue_vue_type_script_setup_true_lang-l80M7JjE.js",
+    "./assets/Footer.vue_vue_type_script_setup_true_lang-xmPnClxY.js",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-D5F2y_tK.avif",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-DrT5azu7.webp",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-BIXC-rAe.png"
   ],
   "src/data/blog/authors.ts": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "src/data/blog/index.ts": [
-    "./assets/authors-DZJR7JBd.js"
-  ],
-  "src/data/blog/posts/blijf-in-beeld-zo-start-je-het-digitale-gezinsgesprek.en.md?raw": [
-    "./assets/authors-DZJR7JBd.js"
-  ],
-  "src/data/blog/posts/blijf-in-beeld-zo-start-je-het-digitale-gezinsgesprek.nl.md?raw": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "src/data/blog/posts/de-digitale-speeltuin-begeleiding-boven-verbod.en.md?raw": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "src/data/blog/posts/de-digitale-speeltuin-begeleiding-boven-verbod.nl.md?raw": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "src/data/blog/posts/de-eu-kids-act-waarom-deze-wet-jou-als-ouder-ontlast.en.md?raw": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "src/data/blog/posts/de-eu-kids-act-waarom-deze-wet-jou-als-ouder-ontlast.nl.md?raw": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
+  ],
+  "src/data/blog/posts/de-whatsapp-klasgroep-op-de-basisschool.en.md?raw": [
+    "./assets/authors-ChWqrMJc.js"
+  ],
+  "src/data/blog/posts/de-whatsapp-klasgroep-op-de-basisschool.nl.md?raw": [
+    "./assets/authors-ChWqrMJc.js"
   ],
   "src/data/blog/posts/digitale-opvoeding-makkelijker-doe-mee-aan-deze-mediawijsheidweek.en.md?raw": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "src/data/blog/posts/digitale-opvoeding-makkelijker-doe-mee-aan-deze-mediawijsheidweek.nl.md?raw": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
-  "src/data/blog/posts/digitale-opvoeding-tippen.en.md?raw": [
-    "./assets/authors-DZJR7JBd.js"
+  "src/data/blog/posts/digitale-opvoeding-voor-de-eerste-telefoon.en.md?raw": [
+    "./assets/authors-ChWqrMJc.js"
   ],
-  "src/data/blog/posts/digitale-opvoeding-tippen.nl.md?raw": [
-    "./assets/authors-DZJR7JBd.js"
+  "src/data/blog/posts/digitale-opvoeding-voor-de-eerste-telefoon.nl.md?raw": [
+    "./assets/authors-ChWqrMJc.js"
   ],
   "src/data/blog/posts/hoe-moni-gebaren-leert-en-jij-je-kind-digitaal-begeleidt.en.md?raw": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "src/data/blog/posts/hoe-moni-gebaren-leert-en-jij-je-kind-digitaal-begeleidt.nl.md?raw": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
+  ],
+  "src/data/blog/posts/iedereen-heeft-het-verbonden-zonder-eigen-telefoon.en.md?raw": [
+    "./assets/authors-ChWqrMJc.js"
+  ],
+  "src/data/blog/posts/iedereen-heeft-het-verbonden-zonder-eigen-telefoon.nl.md?raw": [
+    "./assets/authors-ChWqrMJc.js"
+  ],
+  "src/data/blog/posts/kind-boos-als-tablet-weg-moet-schermtijdstress.en.md?raw": [
+    "./assets/authors-ChWqrMJc.js"
+  ],
+  "src/data/blog/posts/kind-boos-als-tablet-weg-moet-schermtijdstress.nl.md?raw": [
+    "./assets/authors-ChWqrMJc.js"
   ],
   "src/data/blog/posts/kleurwedstrijd-kleurplaat.en.md?raw": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "src/data/blog/posts/kleurwedstrijd-kleurplaat.nl.md?raw": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "src/data/blog/posts/roblox-herken-de-valkuilen-en-stel-veilige-digitale-grenzen.en.md?raw": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "src/data/blog/posts/roblox-herken-de-valkuilen-en-stel-veilige-digitale-grenzen.nl.md?raw": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
-  "src/data/blog/posts/van-politieagent-naar-gids.en.md?raw": [
-    "./assets/authors-DZJR7JBd.js"
+  "src/data/blog/posts/schermtijd-instellen-ipad-iphone-kinderen.en.md?raw": [
+    "./assets/authors-ChWqrMJc.js"
   ],
-  "src/data/blog/posts/van-politieagent-naar-gids.nl.md?raw": [
-    "./assets/authors-DZJR7JBd.js"
+  "src/data/blog/posts/schermtijd-instellen-ipad-iphone-kinderen.nl.md?raw": [
+    "./assets/authors-ChWqrMJc.js"
   ],
   "src/data/blog/posts/van-schermpaniek-naar-digitale-rust-zo-bouw-je-weerbaarheid.en.md?raw": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
   ],
   "src/data/blog/posts/van-schermpaniek-naar-digitale-rust-zo-bouw-je-weerbaarheid.nl.md?raw": [
-    "./assets/authors-DZJR7JBd.js"
+    "./assets/authors-ChWqrMJc.js"
+  ],
+  "src/data/blog/posts/wanneer-een-eigen-telefoon-kabinetsrichtlijn-uitgelegd.en.md?raw": [
+    "./assets/authors-ChWqrMJc.js"
+  ],
+  "src/data/blog/posts/wanneer-een-eigen-telefoon-kabinetsrichtlijn-uitgelegd.nl.md?raw": [
+    "./assets/authors-ChWqrMJc.js"
   ],
   "src/data/blog/slugs.ts": [],
   "src/i18n/index.ts": [],
@@ -2543,55 +2602,55 @@
   "src/locales/nl.json": [],
   "src/main.ts": [],
   "src/pages/AboutPage.vue": [
-    "./assets/AboutPage-UwcqF835.js",
+    "./assets/AboutPage-DYaFW_Xk.js",
     "./assets/monimentor-team-CYQ6NE3q.webp",
     "./assets/image-partners-D2LUc1La.webp",
     "./assets/image-voorgezinnen-BNpwZnZb.webp"
   ],
   "src/pages/AboutPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/AboutPage-UwcqF835.js",
+    "./assets/AboutPage-DYaFW_Xk.js",
     "./assets/monimentor-team-CYQ6NE3q.webp",
     "./assets/image-partners-D2LUc1La.webp",
     "./assets/image-voorgezinnen-BNpwZnZb.webp"
   ],
   "src/pages/BlogPage.vue": [
-    "./assets/BlogPage-4o6iJpxc.js"
+    "./assets/BlogPage-m-yK56q_.js"
   ],
   "src/pages/BlogPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/BlogPage-4o6iJpxc.js"
+    "./assets/BlogPage-m-yK56q_.js"
   ],
   "src/pages/BlogPostPage.vue": [
-    "./assets/BlogPostPage-BK488Lat.js",
+    "./assets/BlogPostPage-DeqGoP7o.js",
     "./assets/BlogPostPage-FCvLgs6x.css"
   ],
   "src/pages/BlogPostPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/BlogPostPage-BK488Lat.js",
+    "./assets/BlogPostPage-DeqGoP7o.js",
     "./assets/BlogPostPage-FCvLgs6x.css"
   ],
   "src/pages/BlogPostPage.vue?vue&type=style&index=0&lang.css": [
-    "./assets/BlogPostPage-BK488Lat.js",
+    "./assets/BlogPostPage-DeqGoP7o.js",
     "./assets/BlogPostPage-FCvLgs6x.css"
   ],
   "src/pages/CloudSurfersPage.vue": [
-    "./assets/CloudSurfersPage-CUmmaSpn.js"
+    "./assets/CloudSurfersPage-DvRufJLy.js"
   ],
   "src/pages/CloudSurfersPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/CloudSurfersPage-CUmmaSpn.js"
+    "./assets/CloudSurfersPage-DvRufJLy.js"
   ],
   "src/pages/ContactPage.vue": [
-    "./assets/ContactPage-CxiDUE6h.js"
+    "./assets/ContactPage-DQE-NwPl.js"
   ],
   "src/pages/ContactPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/ContactPage-CxiDUE6h.js"
+    "./assets/ContactPage-DQE-NwPl.js"
   ],
   "src/pages/FAQPage.vue": [
-    "./assets/FAQPage-BR9Ibgj9.js"
+    "./assets/FAQPage-B8bU6mux.js"
   ],
   "src/pages/FAQPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/FAQPage-BR9Ibgj9.js"
+    "./assets/FAQPage-B8bU6mux.js"
   ],
   "src/pages/HomePage.vue": [
-    "./assets/HomePage-_Nxq4I9W.js",
+    "./assets/HomePage-iyEE2Vn5.js",
     "./assets/HomePage-CK_AvLkj.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
@@ -2599,6 +2658,7 @@
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
     "./assets/Moni--rlofoea.glb",
+    "./assets/text-H_PYhNLD.glb",
     "./assets/telescope-9piW7RrV.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
@@ -2607,7 +2667,7 @@
     "./assets/monimentor-dashboard-HsDbx7Gg.png"
   ],
   "src/pages/HomePage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/HomePage-_Nxq4I9W.js",
+    "./assets/HomePage-iyEE2Vn5.js",
     "./assets/HomePage-CK_AvLkj.css",
     "./assets/ipad_mockup_1-B_98ijG-.avif",
     "./assets/ipad_mockup_1-CwT9xb6r.webp",
@@ -2615,6 +2675,7 @@
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
     "./assets/Moni--rlofoea.glb",
+    "./assets/text-H_PYhNLD.glb",
     "./assets/telescope-9piW7RrV.glb",
     "./assets/deverkenner-COtWLF-W.webp",
     "./assets/denavigator-D6ufxPr7.webp",
@@ -2623,50 +2684,53 @@
     "./assets/monimentor-dashboard-HsDbx7Gg.png"
   ],
   "src/pages/JGZPage.vue": [
-    "./assets/JGZPage-BqSh2h6-.js"
+    "./assets/JGZPage-Cc09tqmo.js"
   ],
   "src/pages/JGZPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/JGZPage-BqSh2h6-.js"
+    "./assets/JGZPage-Cc09tqmo.js"
   ],
   "src/pages/KleurplaatPage.vue": [
-    "./assets/KleurplaatPage-mGqe4rhJ.js"
+    "./assets/KleurplaatPage-CEVl7mxk.js"
   ],
   "src/pages/KleurplaatPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/KleurplaatPage-mGqe4rhJ.js"
+    "./assets/KleurplaatPage-CEVl7mxk.js"
   ],
   "src/pages/MediacoachPage.vue": [
-    "./assets/MediacoachPage-CYn03Fvu.js"
+    "./assets/MediacoachPage-hxdZvR4w.js"
   ],
   "src/pages/MediacoachPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/MediacoachPage-CYn03Fvu.js"
+    "./assets/MediacoachPage-hxdZvR4w.js"
   ],
   "src/pages/SchoolPage.vue": [
-    "./assets/SchoolPage-BaExG8y5.js"
+    "./assets/SchoolPage-CweOjT1a.js"
   ],
   "src/pages/SchoolPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/SchoolPage-BaExG8y5.js"
+    "./assets/SchoolPage-CweOjT1a.js"
   ],
   "src/pages/StickerPage.vue": [
-    "./assets/StickerPage-BJBrxsp9.js",
+    "./assets/StickerPage-DRuqNodA.js",
     "./assets/Moni_vector-CgvD_mcn.svg"
   ],
   "src/pages/StickerPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/StickerPage-BJBrxsp9.js",
+    "./assets/StickerPage-DRuqNodA.js",
     "./assets/Moni_vector-CgvD_mcn.svg"
   ],
   "src/router/index.ts": [],
   "src/router/route-definitions.ts": [],
   "src/style.css": [],
   "src/utils/domain-shim.ts": [],
+  "src/utils/download.ts": [
+    "./assets/DownloadModal.vue_vue_type_script_setup_true_lang-BNzwQnvA.js"
+  ],
   "src/utils/faq-synonyms.ts": [
-    "./assets/FAQPage-BR9Ibgj9.js"
+    "./assets/FAQPage-B8bU6mux.js"
   ],
   "src/utils/lead-submission.ts": [
-    "./assets/lead-submission-BLn0JnR1.js"
+    "./assets/lead-submission-vmCn3UMc.js"
   ],
   "src/utils/seo.ts": [],
   "src/utils/wave-data.ts": [
-    "./assets/Footer.vue_vue_type_script_setup_true_lang-l80M7JjE.js",
+    "./assets/Footer.vue_vue_type_script_setup_true_lang-xmPnClxY.js",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-D5F2y_tK.avif",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-DrT5azu7.webp",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-BIXC-rAe.png"
