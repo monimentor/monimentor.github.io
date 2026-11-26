@@ -14,10 +14,10 @@
   "\u0000vite/modulepreload-polyfill.js": [],
   "\u0000vite/preload-helper.js": [],
   "../../../../../images/monimentor-cloudsurfers-boardgame.webp": [
-    "./assets/CloudSurfersPage-XFmvI9ab.js"
+    "./assets/CloudSurfersPage-D33jKNnB.js"
   ],
   "../../../../../images/monimentor-family-playing-cloudsurfers.webp": [
-    "./assets/CloudSurfersPage-XFmvI9ab.js"
+    "./assets/CloudSurfersPage-D33jKNnB.js"
   ],
   "../monimentor-3d/node_modules/@dimforge/rapier3d-compat/rapier.es.js": [
     "./assets/three-vendor-DD70jpMi.js"
@@ -554,7 +554,7 @@
     "./assets/three-vendor-DD70jpMi.js"
   ],
   "../monimentor-3d/node_modules/gsap/CSSPlugin.js": [
-    "./assets/HomePage-BFogklLZ.js",
+    "./assets/HomePage-BDEy9yvR.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -576,7 +576,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "../monimentor-3d/node_modules/gsap/gsap-core.js": [
-    "./assets/HomePage-BFogklLZ.js",
+    "./assets/HomePage-BDEy9yvR.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -598,7 +598,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "../monimentor-3d/node_modules/gsap/index.js": [
-    "./assets/HomePage-BFogklLZ.js",
+    "./assets/HomePage-BDEy9yvR.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -638,7 +638,7 @@
     "./assets/three-vendor-DD70jpMi.js"
   ],
   "../monimentor-3d/src/three-objects/createJar.ts": [
-    "./assets/HomePage-BFogklLZ.js",
+    "./assets/HomePage-BDEy9yvR.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -660,7 +660,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "../monimentor-3d/src/three-objects/createMoni.ts": [
-    "./assets/HomePage-BFogklLZ.js",
+    "./assets/HomePage-BDEy9yvR.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -682,7 +682,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "../monimentor-3d/src/three-objects/createOrb.ts": [
-    "./assets/HomePage-BFogklLZ.js",
+    "./assets/HomePage-BDEy9yvR.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -704,7 +704,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "../monimentor-3d/src/three-objects/createPlatform.ts": [
-    "./assets/HomePage-BFogklLZ.js",
+    "./assets/HomePage-BDEy9yvR.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -726,7 +726,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "../monimentor-3d/src/three-objects/createPlatformOverflow.ts": [
-    "./assets/HomePage-BFogklLZ.js",
+    "./assets/HomePage-BDEy9yvR.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -748,7 +748,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "../monimentor-3d/src/three-objects/createRocket.ts": [
-    "./assets/HomePage-BFogklLZ.js",
+    "./assets/HomePage-BDEy9yvR.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -770,7 +770,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "../monimentor-3d/src/three-objects/createSmoke.ts": [
-    "./assets/HomePage-BFogklLZ.js",
+    "./assets/HomePage-BDEy9yvR.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -792,7 +792,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "../monimentor-3d/src/three-objects/createSnow.ts": [
-    "./assets/HomePage-BFogklLZ.js",
+    "./assets/HomePage-BDEy9yvR.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -814,7 +814,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "../monimentor-3d/src/three-objects/createTelescope.ts": [
-    "./assets/HomePage-BFogklLZ.js",
+    "./assets/HomePage-BDEy9yvR.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -836,7 +836,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "../monimentor-3d/src/three-objects/models/Moni.glb?url": [
-    "./assets/HomePage-BFogklLZ.js",
+    "./assets/HomePage-BDEy9yvR.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -858,7 +858,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "../monimentor-3d/src/three-objects/models/jar.glb?url": [
-    "./assets/HomePage-BFogklLZ.js",
+    "./assets/HomePage-BDEy9yvR.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -880,7 +880,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "../monimentor-3d/src/three-objects/models/platform.glb?url": [
-    "./assets/HomePage-BFogklLZ.js",
+    "./assets/HomePage-BDEy9yvR.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -902,7 +902,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "../monimentor-3d/src/three-objects/models/platform_overflow.glb?url": [
-    "./assets/HomePage-BFogklLZ.js",
+    "./assets/HomePage-BDEy9yvR.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -924,7 +924,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "../monimentor-3d/src/three-objects/models/rocket.glb?url": [
-    "./assets/HomePage-BFogklLZ.js",
+    "./assets/HomePage-BDEy9yvR.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -946,7 +946,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "../monimentor-3d/src/three-objects/models/telescope.glb?url": [
-    "./assets/HomePage-BFogklLZ.js",
+    "./assets/HomePage-BDEy9yvR.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -968,7 +968,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "../monimentor-3d/src/three-objects/models/text.glb?url": [
-    "./assets/HomePage-BFogklLZ.js",
+    "./assets/HomePage-BDEy9yvR.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -990,7 +990,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "../monimentor-3d/src/three-objects/moniAnimationManager.ts": [
-    "./assets/HomePage-BFogklLZ.js",
+    "./assets/HomePage-BDEy9yvR.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -1012,7 +1012,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "../monimentor-3d/src/three-objects/moniBlinkController.ts": [
-    "./assets/HomePage-BFogklLZ.js",
+    "./assets/HomePage-BDEy9yvR.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -1034,7 +1034,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "../monimentor-3d/src/three-objects/moniIdleBreakController.ts": [
-    "./assets/HomePage-BFogklLZ.js",
+    "./assets/HomePage-BDEy9yvR.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -1056,7 +1056,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "../monimentor-3d/src/three-objects/moniWorld.ts": [
-    "./assets/HomePage-BFogklLZ.js",
+    "./assets/HomePage-BDEy9yvR.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -1078,7 +1078,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "../monimentor-3d/src/three-objects/orbManager.ts": [
-    "./assets/HomePage-BFogklLZ.js",
+    "./assets/HomePage-BDEy9yvR.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -1100,7 +1100,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "../monimentor-3d/src/three-objects/useRocketController.ts": [
-    "./assets/HomePage-BFogklLZ.js",
+    "./assets/HomePage-BDEy9yvR.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -1122,7 +1122,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "../monimentor-3d/src/three-objects/visibilityRules.ts": [
-    "./assets/HomePage-BFogklLZ.js",
+    "./assets/HomePage-BDEy9yvR.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -1144,31 +1144,31 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "../monimentor-ui/packages/components/src/base/Button.vue": [
-    "./assets/Button-DKSkCrvC.js"
+    "./assets/Button-B3hfHzpq.js"
   ],
   "../monimentor-ui/packages/components/src/base/Button.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/Button-DKSkCrvC.js"
+    "./assets/Button-B3hfHzpq.js"
   ],
   "../monimentor-ui/packages/components/src/base/Button.vue?vue&type=style&index=0&scoped=51823b0c&lang.css": [],
   "../monimentor-ui/packages/components/src/base/GlassCard.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/GlassCard.vue_vue_type_script_setup_true_lang-BCBnEriu.js"
+    "./assets/GlassCard.vue_vue_type_script_setup_true_lang-B8VSaooM.js"
   ],
   "../monimentor-ui/packages/components/src/base/MoniLogo.vue?vue&type=script&setup=true&lang.ts": [],
   "index.html": [],
   "node_modules/@heroicons/vue/24/outline/esm/AcademicCapIcon.js": [
-    "./assets/AcademicCapIcon-gzyyGrPL.js"
+    "./assets/AcademicCapIcon-CZOikUhl.js"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/ArrowDownTrayIcon.js": [
-    "./assets/ArrowDownTrayIcon-DE2_u2t6.js"
+    "./assets/ArrowDownTrayIcon-BZwLxO6D.js"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/ArrowRightIcon.js": [
-    "./assets/ContactPage-CJj2g4HY.js"
+    "./assets/ContactPage-C7gWrsXS.js"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/ArrowTopRightOnSquareIcon.js": [
-    "./assets/DownloadsPage-BLmyPJBX.js"
+    "./assets/ArrowTopRightOnSquareIcon-SW_XbhDY.js"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/BoltIcon.js": [
-    "./assets/HomePage-BFogklLZ.js",
+    "./assets/HomePage-BDEy9yvR.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -1190,57 +1190,84 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/BookOpenIcon.js": [
-    "./assets/UserGroupIcon-DzYilQ1d.js"
+    "./assets/UserGroupIcon-CVnqRb3S.js"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/BuildingLibraryIcon.js": [
-    "./assets/BuildingLibraryIcon-83UOWXrc.js"
+    "./assets/BuildingLibraryIcon-BCUPmVbz.js"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/ChatBubbleBottomCenterTextIcon.js": [
-    "./assets/MediacoachPage-tl0E6SU1.js"
+    "./assets/MediacoachPage-BQ_iZvFX.js"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/CheckCircleIcon.js": [
-    "./assets/EnvelopeIcon-4VWpq_h1.js"
+    "./assets/CheckCircleIcon-yUA7h9k4.js"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/ChevronRightIcon.js": [
-    "./assets/InstagramPage-DhixBggR.js"
+    "./assets/InstagramPage-CB9FIakW.js"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/ClipboardDocumentCheckIcon.js": [
-    "./assets/DevicePhoneMobileIcon-CkRphYdH.js"
+    "./assets/ClipboardDocumentCheckIcon-DU-s9JEn.js"
+  ],
+  "node_modules/@heroicons/vue/24/outline/esm/CurrencyEuroIcon.js": [
+    "./assets/AboutPage-BFMR5I8e.js",
+    "./assets/monimentor-team-CYQ6NE3q.webp",
+    "./assets/about-family-table-CqrddHA5.webp",
+    "./assets/about-family-table-DxsHeyZ0.avif",
+    "./assets/about-family-living-tL2ZYOMl.webp",
+    "./assets/about-family-living-Ck9pU4zc.avif",
+    "./assets/image-partners-D2LUc1La.webp"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/DevicePhoneMobileIcon.js": [
-    "./assets/DevicePhoneMobileIcon-CkRphYdH.js"
+    "./assets/DevicePhoneMobileIcon-CVaL4RsR.js"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/DocumentArrowDownIcon.js": [
-    "./assets/DownloadModal.vue_vue_type_script_setup_true_lang-BJbt4QF2.js"
+    "./assets/DownloadModal.vue_vue_type_script_setup_true_lang-Bd69nmYg.js"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/DocumentCheckIcon.js": [
-    "./assets/SmartphoneChecklistSection.vue_vue_type_script_setup_true_lang-DlVeC38t.js"
+    "./assets/SmartphoneChecklistSection.vue_vue_type_script_setup_true_lang-BQJBWXrF.js"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/EnvelopeIcon.js": [
-    "./assets/EnvelopeIcon-4VWpq_h1.js"
+    "./assets/EnvelopeIcon-DHarIgtL.js"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/HeartIcon.js": [
-    "./assets/HeartIcon-DBXjHCMs.js"
+    "./assets/HeartIcon-Cy9Gkc2T.js"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/MoonIcon.js": [
-    "./assets/JGZPage-DSl_XCm7.js"
+    "./assets/JGZPage-MrVbKO52.js"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/PhoneIcon.js": [
-    "./assets/BlogPostPage-CrvVYpTI.js",
+    "./assets/BlogPostPage-Fc5-iFYk.js",
     "./assets/BlogPostPage-CGdK4y-A.css"
   ],
+  "node_modules/@heroicons/vue/24/outline/esm/ScaleIcon.js": [
+    "./assets/AboutPage-BFMR5I8e.js",
+    "./assets/monimentor-team-CYQ6NE3q.webp",
+    "./assets/about-family-table-CqrddHA5.webp",
+    "./assets/about-family-table-DxsHeyZ0.avif",
+    "./assets/about-family-living-tL2ZYOMl.webp",
+    "./assets/about-family-living-Ck9pU4zc.avif",
+    "./assets/image-partners-D2LUc1La.webp"
+  ],
   "node_modules/@heroicons/vue/24/outline/esm/ShieldCheckIcon.js": [
-    "./assets/SmartphoneChecklistSection.vue_vue_type_script_setup_true_lang-DlVeC38t.js"
+    "./assets/ShieldCheckIcon-BiTcM8wZ.js"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/SparklesIcon.js": [
-    "./assets/SparklesIcon-CmwVfZIA.js"
+    "./assets/SparklesIcon-CiZo45J9.js"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/UserCircleIcon.js": [],
   "node_modules/@heroicons/vue/24/outline/esm/UserGroupIcon.js": [
-    "./assets/UserGroupIcon-DzYilQ1d.js"
+    "./assets/UserGroupIcon-CVnqRb3S.js"
+  ],
+  "node_modules/@heroicons/vue/24/outline/esm/UsersIcon.js": [
+    "./assets/AboutPage-BFMR5I8e.js",
+    "./assets/monimentor-team-CYQ6NE3q.webp",
+    "./assets/about-family-table-CqrddHA5.webp",
+    "./assets/about-family-table-DxsHeyZ0.avif",
+    "./assets/about-family-living-tL2ZYOMl.webp",
+    "./assets/about-family-living-Ck9pU4zc.avif",
+    "./assets/image-partners-D2LUc1La.webp"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/XMarkIcon.js": [
-    "./assets/XMarkIcon-L5USdjNE.js"
+    "./assets/XMarkIcon-DErbuH-q.js"
   ],
   "node_modules/@intlify/core-base/dist/core-base.mjs": [],
   "node_modules/@intlify/message-compiler/dist/message-compiler.mjs": [],
@@ -1991,7 +2018,7 @@
   "node_modules/@vueuse/head/node_modules/@unhead/vue/dist/shared/vue.ziyDaVMR.mjs": [],
   "node_modules/@vueuse/head/node_modules/unhead/dist/index.mjs": [],
   "node_modules/fuse.js/dist/fuse.mjs": [
-    "./assets/FAQPage-gWrnEYlj.js"
+    "./assets/FAQPage-M4biqcxY.js"
   ],
   "node_modules/hookable/dist/index.mjs": [],
   "node_modules/klaro/dist/klaro.js": [
@@ -2235,8 +2262,44 @@
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-DrT5azu7.webp",
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-BIXC-rAe.png"
   ],
+  "src/assets/images/about-family-living.avif": [
+    "./assets/AboutPage-BFMR5I8e.js",
+    "./assets/monimentor-team-CYQ6NE3q.webp",
+    "./assets/about-family-table-CqrddHA5.webp",
+    "./assets/about-family-table-DxsHeyZ0.avif",
+    "./assets/about-family-living-tL2ZYOMl.webp",
+    "./assets/about-family-living-Ck9pU4zc.avif",
+    "./assets/image-partners-D2LUc1La.webp"
+  ],
+  "src/assets/images/about-family-living.webp": [
+    "./assets/AboutPage-BFMR5I8e.js",
+    "./assets/monimentor-team-CYQ6NE3q.webp",
+    "./assets/about-family-table-CqrddHA5.webp",
+    "./assets/about-family-table-DxsHeyZ0.avif",
+    "./assets/about-family-living-tL2ZYOMl.webp",
+    "./assets/about-family-living-Ck9pU4zc.avif",
+    "./assets/image-partners-D2LUc1La.webp"
+  ],
+  "src/assets/images/about-family-table.avif": [
+    "./assets/AboutPage-BFMR5I8e.js",
+    "./assets/monimentor-team-CYQ6NE3q.webp",
+    "./assets/about-family-table-CqrddHA5.webp",
+    "./assets/about-family-table-DxsHeyZ0.avif",
+    "./assets/about-family-living-tL2ZYOMl.webp",
+    "./assets/about-family-living-Ck9pU4zc.avif",
+    "./assets/image-partners-D2LUc1La.webp"
+  ],
+  "src/assets/images/about-family-table.webp": [
+    "./assets/AboutPage-BFMR5I8e.js",
+    "./assets/monimentor-team-CYQ6NE3q.webp",
+    "./assets/about-family-table-CqrddHA5.webp",
+    "./assets/about-family-table-DxsHeyZ0.avif",
+    "./assets/about-family-living-tL2ZYOMl.webp",
+    "./assets/about-family-living-Ck9pU4zc.avif",
+    "./assets/image-partners-D2LUc1La.webp"
+  ],
   "src/assets/images/familie.png": [
-    "./assets/StickerPage-DfYvN2BU.js",
+    "./assets/StickerPage-CTyrTnjU.js",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-DRxrfPuA.webp",
     "./assets/familie-DXWUOqNw.png",
@@ -2245,19 +2308,16 @@
     "./assets/website_images_monimentor_toekomst-q4ASVg7K.svg"
   ],
   "src/assets/images/image-partners.webp": [
-    "./assets/AboutPage-BxgQVFAG.js",
+    "./assets/AboutPage-BFMR5I8e.js",
     "./assets/monimentor-team-CYQ6NE3q.webp",
-    "./assets/image-partners-D2LUc1La.webp",
-    "./assets/image-voorgezinnen-BNpwZnZb.webp"
-  ],
-  "src/assets/images/image-voorgezinnen.webp": [
-    "./assets/AboutPage-BxgQVFAG.js",
-    "./assets/monimentor-team-CYQ6NE3q.webp",
-    "./assets/image-partners-D2LUc1La.webp",
-    "./assets/image-voorgezinnen-BNpwZnZb.webp"
+    "./assets/about-family-table-CqrddHA5.webp",
+    "./assets/about-family-table-DxsHeyZ0.avif",
+    "./assets/about-family-living-tL2ZYOMl.webp",
+    "./assets/about-family-living-Ck9pU4zc.avif",
+    "./assets/image-partners-D2LUc1La.webp"
   ],
   "src/assets/images/monimentor-family.avif": [
-    "./assets/HomePage-BFogklLZ.js",
+    "./assets/HomePage-BDEy9yvR.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -2279,7 +2339,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "src/assets/images/monimentor-family.webp": [
-    "./assets/HomePage-BFogklLZ.js",
+    "./assets/HomePage-BDEy9yvR.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -2301,13 +2361,16 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "src/assets/images/monimentor-team.webp": [
-    "./assets/AboutPage-BxgQVFAG.js",
+    "./assets/AboutPage-BFMR5I8e.js",
     "./assets/monimentor-team-CYQ6NE3q.webp",
-    "./assets/image-partners-D2LUc1La.webp",
-    "./assets/image-voorgezinnen-BNpwZnZb.webp"
+    "./assets/about-family-table-CqrddHA5.webp",
+    "./assets/about-family-table-DxsHeyZ0.avif",
+    "./assets/about-family-living-tL2ZYOMl.webp",
+    "./assets/about-family-living-Ck9pU4zc.avif",
+    "./assets/image-partners-D2LUc1La.webp"
   ],
   "src/assets/images/screenshots/appstore-download.avif": [
-    "./assets/HomePage-BFogklLZ.js",
+    "./assets/HomePage-BDEy9yvR.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -2329,7 +2392,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "src/assets/images/screenshots/appstore-download.webp": [
-    "./assets/HomePage-BFogklLZ.js",
+    "./assets/HomePage-BDEy9yvR.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -2351,7 +2414,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "src/assets/images/screenshots/dashboard-insights.avif": [
-    "./assets/HomePage-BFogklLZ.js",
+    "./assets/HomePage-BDEy9yvR.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -2373,7 +2436,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "src/assets/images/screenshots/dashboard-insights.webp": [
-    "./assets/HomePage-BFogklLZ.js",
+    "./assets/HomePage-BDEy9yvR.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -2395,7 +2458,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "src/assets/images/screenshots/knikkerpot-filling.avif": [
-    "./assets/HomePage-BFogklLZ.js",
+    "./assets/HomePage-BDEy9yvR.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -2417,7 +2480,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "src/assets/images/screenshots/knikkerpot-filling.webp": [
-    "./assets/HomePage-BFogklLZ.js",
+    "./assets/HomePage-BDEy9yvR.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -2439,7 +2502,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "src/assets/images/screenshots/knikkerpot-overflow.avif": [
-    "./assets/HomePage-BFogklLZ.js",
+    "./assets/HomePage-BDEy9yvR.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -2461,7 +2524,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "src/assets/images/screenshots/knikkerpot-overflow.webp": [
-    "./assets/HomePage-BFogklLZ.js",
+    "./assets/HomePage-BDEy9yvR.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -2483,7 +2546,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "src/assets/images/screenshots/user-selection.avif": [
-    "./assets/HomePage-BFogklLZ.js",
+    "./assets/HomePage-BDEy9yvR.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -2505,7 +2568,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "src/assets/images/screenshots/user-selection.webp": [
-    "./assets/HomePage-BFogklLZ.js",
+    "./assets/HomePage-BDEy9yvR.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -2539,7 +2602,7 @@
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-BIXC-rAe.png"
   ],
   "src/assets/images/webp/familie.avif": [
-    "./assets/StickerPage-DfYvN2BU.js",
+    "./assets/StickerPage-CTyrTnjU.js",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-DRxrfPuA.webp",
     "./assets/familie-DXWUOqNw.png",
@@ -2548,7 +2611,7 @@
     "./assets/website_images_monimentor_toekomst-q4ASVg7K.svg"
   ],
   "src/assets/images/webp/familie.webp": [
-    "./assets/StickerPage-DfYvN2BU.js",
+    "./assets/StickerPage-CTyrTnjU.js",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-DRxrfPuA.webp",
     "./assets/familie-DXWUOqNw.png",
@@ -2557,7 +2620,7 @@
     "./assets/website_images_monimentor_toekomst-q4ASVg7K.svg"
   ],
   "src/assets/images/website_images_monimentor_Zelfstandig.svg": [
-    "./assets/StickerPage-DfYvN2BU.js",
+    "./assets/StickerPage-CTyrTnjU.js",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-DRxrfPuA.webp",
     "./assets/familie-DXWUOqNw.png",
@@ -2566,7 +2629,7 @@
     "./assets/website_images_monimentor_toekomst-q4ASVg7K.svg"
   ],
   "src/assets/images/website_images_monimentor_connectie.svg": [
-    "./assets/StickerPage-DfYvN2BU.js",
+    "./assets/StickerPage-CTyrTnjU.js",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-DRxrfPuA.webp",
     "./assets/familie-DXWUOqNw.png",
@@ -2575,7 +2638,7 @@
     "./assets/website_images_monimentor_toekomst-q4ASVg7K.svg"
   ],
   "src/assets/images/website_images_monimentor_toekomst.svg": [
-    "./assets/StickerPage-DfYvN2BU.js",
+    "./assets/StickerPage-CTyrTnjU.js",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-DRxrfPuA.webp",
     "./assets/familie-DXWUOqNw.png",
@@ -2584,7 +2647,7 @@
     "./assets/website_images_monimentor_toekomst-q4ASVg7K.svg"
   ],
   "src/assets/videos/monimentor-ouder.mp4": [
-    "./assets/HomePage-BFogklLZ.js",
+    "./assets/HomePage-BDEy9yvR.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -2606,11 +2669,11 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "src/components/ActiviteitenAanmeldForm.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/BlogPostPage-CrvVYpTI.js",
+    "./assets/BlogPostPage-Fc5-iFYk.js",
     "./assets/BlogPostPage-CGdK4y-A.css"
   ],
   "src/components/AndroidWaitlistModal.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/HomePage-BFogklLZ.js",
+    "./assets/HomePage-BDEy9yvR.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -2632,14 +2695,14 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "src/components/AppleAppStoreButton.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/AppleAppStoreButton.vue_vue_type_script_setup_true_lang-DnZKjKej.js"
+    "./assets/AppleAppStoreButton.vue_vue_type_script_setup_true_lang-DIVzJIAs.js"
   ],
   "src/components/BlogShareBar.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/BlogPostPage-CrvVYpTI.js",
+    "./assets/BlogPostPage-Fc5-iFYk.js",
     "./assets/BlogPostPage-CGdK4y-A.css"
   ],
   "src/components/DeviceVideoFrame.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/HomePage-BFogklLZ.js",
+    "./assets/HomePage-BDEy9yvR.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -2661,20 +2724,20 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "src/components/DownloadButton.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/DownloadButton.vue_vue_type_script_setup_true_lang-BEVn1wI9.js"
+    "./assets/DownloadButton.vue_vue_type_script_setup_true_lang-B-N-qhau.js"
   ],
   "src/components/DownloadModal.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/DownloadModal.vue_vue_type_script_setup_true_lang-BJbt4QF2.js"
+    "./assets/DownloadModal.vue_vue_type_script_setup_true_lang-Bd69nmYg.js"
   ],
   "src/components/FAQItem.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/FAQPage-gWrnEYlj.js"
+    "./assets/FAQPage-M4biqcxY.js"
   ],
   "src/components/Footer.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/Footer.vue_vue_type_script_setup_true_lang-D8PIRoQz.js"
+    "./assets/Footer.vue_vue_type_script_setup_true_lang-W37Zv5Gg.js"
   ],
   "src/components/LanguageSwitcher.vue?vue&type=script&setup=true&lang.ts": [],
   "src/components/MoniScene.vue": [
-    "./assets/HomePage-BFogklLZ.js",
+    "./assets/HomePage-BDEy9yvR.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -2696,7 +2759,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "src/components/MoniScene.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/HomePage-BFogklLZ.js",
+    "./assets/HomePage-BDEy9yvR.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -2718,7 +2781,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "src/components/MoniScene.vue?vue&type=style&index=0&scoped=2c395d43&lang.css": [
-    "./assets/HomePage-BFogklLZ.js",
+    "./assets/HomePage-BDEy9yvR.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -2741,7 +2804,7 @@
   ],
   "src/components/NavigationHeader.vue?vue&type=script&setup=true&lang.ts": [],
   "src/components/PhoneScreenshotFrame.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/HomePage-BFogklLZ.js",
+    "./assets/HomePage-BDEy9yvR.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -2763,7 +2826,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "src/components/RotatingQuotes.vue": [
-    "./assets/HomePage-BFogklLZ.js",
+    "./assets/HomePage-BDEy9yvR.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -2785,7 +2848,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "src/components/RotatingQuotes.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/HomePage-BFogklLZ.js",
+    "./assets/HomePage-BDEy9yvR.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -2807,7 +2870,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "src/components/RotatingQuotes.vue?vue&type=style&index=0&scoped=e6bfa89b&lang.css": [
-    "./assets/HomePage-BFogklLZ.js",
+    "./assets/HomePage-BDEy9yvR.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -2829,7 +2892,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "src/components/SectionSidebar.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/HomePage-BFogklLZ.js",
+    "./assets/HomePage-BDEy9yvR.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -2851,10 +2914,10 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "src/components/SmartphoneChecklistSection.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/SmartphoneChecklistSection.vue_vue_type_script_setup_true_lang-DlVeC38t.js"
+    "./assets/SmartphoneChecklistSection.vue_vue_type_script_setup_true_lang-BQJBWXrF.js"
   ],
   "src/components/WaveSection.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/Footer.vue_vue_type_script_setup_true_lang-D8PIRoQz.js"
+    "./assets/Footer.vue_vue_type_script_setup_true_lang-W37Zv5Gg.js"
   ],
   "src/data/blog/authors.ts": [
     "./assets/authors-CTBEFxvk.js"
@@ -2942,7 +3005,7 @@
   ],
   "src/data/blog/slugs.ts": [],
   "src/data/downloads.ts": [
-    "./assets/DownloadsPage-BLmyPJBX.js"
+    "./assets/DownloadsPage-g4VrQ4zp.js"
   ],
   "src/i18n/index.ts": [],
   "src/klaro-config.ts": [
@@ -2953,61 +3016,67 @@
   "src/locales/nl.json": [],
   "src/main.ts": [],
   "src/pages/AboutPage.vue": [
-    "./assets/AboutPage-BxgQVFAG.js",
+    "./assets/AboutPage-BFMR5I8e.js",
     "./assets/monimentor-team-CYQ6NE3q.webp",
-    "./assets/image-partners-D2LUc1La.webp",
-    "./assets/image-voorgezinnen-BNpwZnZb.webp"
+    "./assets/about-family-table-CqrddHA5.webp",
+    "./assets/about-family-table-DxsHeyZ0.avif",
+    "./assets/about-family-living-tL2ZYOMl.webp",
+    "./assets/about-family-living-Ck9pU4zc.avif",
+    "./assets/image-partners-D2LUc1La.webp"
   ],
   "src/pages/AboutPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/AboutPage-BxgQVFAG.js",
+    "./assets/AboutPage-BFMR5I8e.js",
     "./assets/monimentor-team-CYQ6NE3q.webp",
-    "./assets/image-partners-D2LUc1La.webp",
-    "./assets/image-voorgezinnen-BNpwZnZb.webp"
+    "./assets/about-family-table-CqrddHA5.webp",
+    "./assets/about-family-table-DxsHeyZ0.avif",
+    "./assets/about-family-living-tL2ZYOMl.webp",
+    "./assets/about-family-living-Ck9pU4zc.avif",
+    "./assets/image-partners-D2LUc1La.webp"
   ],
   "src/pages/BlogPage.vue": [
-    "./assets/BlogPage-DLAK5hx0.js"
+    "./assets/BlogPage-DQWsdDlx.js"
   ],
   "src/pages/BlogPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/BlogPage-DLAK5hx0.js"
+    "./assets/BlogPage-DQWsdDlx.js"
   ],
   "src/pages/BlogPostPage.vue": [
-    "./assets/BlogPostPage-CrvVYpTI.js",
+    "./assets/BlogPostPage-Fc5-iFYk.js",
     "./assets/BlogPostPage-CGdK4y-A.css"
   ],
   "src/pages/BlogPostPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/BlogPostPage-CrvVYpTI.js",
+    "./assets/BlogPostPage-Fc5-iFYk.js",
     "./assets/BlogPostPage-CGdK4y-A.css"
   ],
   "src/pages/BlogPostPage.vue?vue&type=style&index=0&lang.css": [
-    "./assets/BlogPostPage-CrvVYpTI.js",
+    "./assets/BlogPostPage-Fc5-iFYk.js",
     "./assets/BlogPostPage-CGdK4y-A.css"
   ],
   "src/pages/CloudSurfersPage.vue": [
-    "./assets/CloudSurfersPage-XFmvI9ab.js"
+    "./assets/CloudSurfersPage-D33jKNnB.js"
   ],
   "src/pages/CloudSurfersPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/CloudSurfersPage-XFmvI9ab.js"
+    "./assets/CloudSurfersPage-D33jKNnB.js"
   ],
   "src/pages/ContactPage.vue": [
-    "./assets/ContactPage-CJj2g4HY.js"
+    "./assets/ContactPage-C7gWrsXS.js"
   ],
   "src/pages/ContactPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/ContactPage-CJj2g4HY.js"
+    "./assets/ContactPage-C7gWrsXS.js"
   ],
   "src/pages/DownloadsPage.vue": [
-    "./assets/DownloadsPage-BLmyPJBX.js"
+    "./assets/DownloadsPage-g4VrQ4zp.js"
   ],
   "src/pages/DownloadsPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/DownloadsPage-BLmyPJBX.js"
+    "./assets/DownloadsPage-g4VrQ4zp.js"
   ],
   "src/pages/FAQPage.vue": [
-    "./assets/FAQPage-gWrnEYlj.js"
+    "./assets/FAQPage-M4biqcxY.js"
   ],
   "src/pages/FAQPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/FAQPage-gWrnEYlj.js"
+    "./assets/FAQPage-M4biqcxY.js"
   ],
   "src/pages/HomePage.vue": [
-    "./assets/HomePage-BFogklLZ.js",
+    "./assets/HomePage-BDEy9yvR.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -3029,7 +3098,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "src/pages/HomePage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/HomePage-BFogklLZ.js",
+    "./assets/HomePage-BDEy9yvR.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -3051,37 +3120,37 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "src/pages/InstagramPage.vue": [
-    "./assets/InstagramPage-DhixBggR.js"
+    "./assets/InstagramPage-CB9FIakW.js"
   ],
   "src/pages/InstagramPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/InstagramPage-DhixBggR.js"
+    "./assets/InstagramPage-CB9FIakW.js"
   ],
   "src/pages/JGZPage.vue": [
-    "./assets/JGZPage-DSl_XCm7.js"
+    "./assets/JGZPage-MrVbKO52.js"
   ],
   "src/pages/JGZPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/JGZPage-DSl_XCm7.js"
+    "./assets/JGZPage-MrVbKO52.js"
   ],
   "src/pages/KleurplaatPage.vue": [
-    "./assets/KleurplaatPage-B-FsGdoV.js"
+    "./assets/KleurplaatPage-OvWlw7Hw.js"
   ],
   "src/pages/KleurplaatPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/KleurplaatPage-B-FsGdoV.js"
+    "./assets/KleurplaatPage-OvWlw7Hw.js"
   ],
   "src/pages/MediacoachPage.vue": [
-    "./assets/MediacoachPage-tl0E6SU1.js"
+    "./assets/MediacoachPage-BQ_iZvFX.js"
   ],
   "src/pages/MediacoachPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/MediacoachPage-tl0E6SU1.js"
+    "./assets/MediacoachPage-BQ_iZvFX.js"
   ],
   "src/pages/SchoolPage.vue": [
-    "./assets/SchoolPage-DN5RXsoB.js"
+    "./assets/SchoolPage-C8OGofCw.js"
   ],
   "src/pages/SchoolPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/SchoolPage-DN5RXsoB.js"
+    "./assets/SchoolPage-C8OGofCw.js"
   ],
   "src/pages/StickerPage.vue": [
-    "./assets/StickerPage-DfYvN2BU.js",
+    "./assets/StickerPage-CTyrTnjU.js",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-DRxrfPuA.webp",
     "./assets/familie-DXWUOqNw.png",
@@ -3090,7 +3159,7 @@
     "./assets/website_images_monimentor_toekomst-q4ASVg7K.svg"
   ],
   "src/pages/StickerPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/StickerPage-DfYvN2BU.js",
+    "./assets/StickerPage-CTyrTnjU.js",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-DRxrfPuA.webp",
     "./assets/familie-DXWUOqNw.png",
@@ -3103,16 +3172,16 @@
   "src/style.css": [],
   "src/utils/domain-shim.ts": [],
   "src/utils/download.ts": [
-    "./assets/DownloadModal.vue_vue_type_script_setup_true_lang-BJbt4QF2.js"
+    "./assets/DownloadModal.vue_vue_type_script_setup_true_lang-Bd69nmYg.js"
   ],
   "src/utils/faq-synonyms.ts": [
-    "./assets/FAQPage-gWrnEYlj.js"
+    "./assets/FAQPage-M4biqcxY.js"
   ],
   "src/utils/lead-submission.ts": [
     "./assets/lead-submission-vmCn3UMc.js"
   ],
   "src/utils/seo.ts": [],
   "src/utils/wave-data.ts": [
-    "./assets/Footer.vue_vue_type_script_setup_true_lang-D8PIRoQz.js"
+    "./assets/Footer.vue_vue_type_script_setup_true_lang-W37Zv5Gg.js"
   ]
 }
