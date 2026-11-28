@@ -14,10 +14,10 @@
   "\u0000vite/modulepreload-polyfill.js": [],
   "\u0000vite/preload-helper.js": [],
   "../../../../../images/monimentor-cloudsurfers-boardgame.webp": [
-    "./assets/CloudSurfersPage-CTlQJ3-T.js"
+    "./assets/CloudSurfersPage-BukZ2zrW.js"
   ],
   "../../../../../images/monimentor-family-playing-cloudsurfers.webp": [
-    "./assets/CloudSurfersPage-CTlQJ3-T.js"
+    "./assets/CloudSurfersPage-BukZ2zrW.js"
   ],
   "../monimentor-3d/node_modules/@dimforge/rapier3d-compat/rapier.es.js": [
     "./assets/three-vendor-DD70jpMi.js"
@@ -554,7 +554,7 @@
     "./assets/three-vendor-DD70jpMi.js"
   ],
   "../monimentor-3d/node_modules/gsap/CSSPlugin.js": [
-    "./assets/HomePage-DslflmHv.js",
+    "./assets/HomePage-D26vL6LD.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -576,7 +576,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "../monimentor-3d/node_modules/gsap/gsap-core.js": [
-    "./assets/HomePage-DslflmHv.js",
+    "./assets/HomePage-D26vL6LD.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -598,7 +598,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "../monimentor-3d/node_modules/gsap/index.js": [
-    "./assets/HomePage-DslflmHv.js",
+    "./assets/HomePage-D26vL6LD.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -638,7 +638,7 @@
     "./assets/three-vendor-DD70jpMi.js"
   ],
   "../monimentor-3d/src/three-objects/createJar.ts": [
-    "./assets/HomePage-DslflmHv.js",
+    "./assets/HomePage-D26vL6LD.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -660,7 +660,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "../monimentor-3d/src/three-objects/createMoni.ts": [
-    "./assets/HomePage-DslflmHv.js",
+    "./assets/HomePage-D26vL6LD.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -682,7 +682,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "../monimentor-3d/src/three-objects/createOrb.ts": [
-    "./assets/HomePage-DslflmHv.js",
+    "./assets/HomePage-D26vL6LD.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -704,7 +704,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "../monimentor-3d/src/three-objects/createPlatform.ts": [
-    "./assets/HomePage-DslflmHv.js",
+    "./assets/HomePage-D26vL6LD.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -726,7 +726,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "../monimentor-3d/src/three-objects/createPlatformOverflow.ts": [
-    "./assets/HomePage-DslflmHv.js",
+    "./assets/HomePage-D26vL6LD.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -748,7 +748,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "../monimentor-3d/src/three-objects/createRocket.ts": [
-    "./assets/HomePage-DslflmHv.js",
+    "./assets/HomePage-D26vL6LD.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -770,7 +770,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "../monimentor-3d/src/three-objects/createSmoke.ts": [
-    "./assets/HomePage-DslflmHv.js",
+    "./assets/HomePage-D26vL6LD.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -792,7 +792,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "../monimentor-3d/src/three-objects/createSnow.ts": [
-    "./assets/HomePage-DslflmHv.js",
+    "./assets/HomePage-D26vL6LD.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -814,7 +814,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "../monimentor-3d/src/three-objects/createTelescope.ts": [
-    "./assets/HomePage-DslflmHv.js",
+    "./assets/HomePage-D26vL6LD.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -836,7 +836,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "../monimentor-3d/src/three-objects/models/Moni.glb?url": [
-    "./assets/HomePage-DslflmHv.js",
+    "./assets/HomePage-D26vL6LD.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -858,7 +858,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "../monimentor-3d/src/three-objects/models/jar.glb?url": [
-    "./assets/HomePage-DslflmHv.js",
+    "./assets/HomePage-D26vL6LD.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -880,7 +880,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "../monimentor-3d/src/three-objects/models/platform.glb?url": [
-    "./assets/HomePage-DslflmHv.js",
+    "./assets/HomePage-D26vL6LD.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -902,7 +902,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "../monimentor-3d/src/three-objects/models/platform_overflow.glb?url": [
-    "./assets/HomePage-DslflmHv.js",
+    "./assets/HomePage-D26vL6LD.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -924,7 +924,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "../monimentor-3d/src/three-objects/models/rocket.glb?url": [
-    "./assets/HomePage-DslflmHv.js",
+    "./assets/HomePage-D26vL6LD.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -946,7 +946,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "../monimentor-3d/src/three-objects/models/telescope.glb?url": [
-    "./assets/HomePage-DslflmHv.js",
+    "./assets/HomePage-D26vL6LD.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -968,7 +968,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "../monimentor-3d/src/three-objects/models/text.glb?url": [
-    "./assets/HomePage-DslflmHv.js",
+    "./assets/HomePage-D26vL6LD.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -990,7 +990,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "../monimentor-3d/src/three-objects/moniAnimationManager.ts": [
-    "./assets/HomePage-DslflmHv.js",
+    "./assets/HomePage-D26vL6LD.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -1012,7 +1012,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "../monimentor-3d/src/three-objects/moniBlinkController.ts": [
-    "./assets/HomePage-DslflmHv.js",
+    "./assets/HomePage-D26vL6LD.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -1034,7 +1034,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "../monimentor-3d/src/three-objects/moniIdleBreakController.ts": [
-    "./assets/HomePage-DslflmHv.js",
+    "./assets/HomePage-D26vL6LD.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -1056,7 +1056,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "../monimentor-3d/src/three-objects/moniWorld.ts": [
-    "./assets/HomePage-DslflmHv.js",
+    "./assets/HomePage-D26vL6LD.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -1078,7 +1078,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "../monimentor-3d/src/three-objects/orbManager.ts": [
-    "./assets/HomePage-DslflmHv.js",
+    "./assets/HomePage-D26vL6LD.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -1100,7 +1100,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "../monimentor-3d/src/three-objects/useRocketController.ts": [
-    "./assets/HomePage-DslflmHv.js",
+    "./assets/HomePage-D26vL6LD.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -1122,7 +1122,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "../monimentor-3d/src/three-objects/visibilityRules.ts": [
-    "./assets/HomePage-DslflmHv.js",
+    "./assets/HomePage-D26vL6LD.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -1144,31 +1144,31 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "../monimentor-ui/packages/components/src/base/Button.vue": [
-    "./assets/Button-vTghjasR.js"
+    "./assets/Button-DZl1PuA0.js"
   ],
   "../monimentor-ui/packages/components/src/base/Button.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/Button-vTghjasR.js"
+    "./assets/Button-DZl1PuA0.js"
   ],
   "../monimentor-ui/packages/components/src/base/Button.vue?vue&type=style&index=0&scoped=51823b0c&lang.css": [],
   "../monimentor-ui/packages/components/src/base/GlassCard.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/GlassCard.vue_vue_type_script_setup_true_lang-CytzUvxm.js"
+    "./assets/GlassCard.vue_vue_type_script_setup_true_lang-viowB21b.js"
   ],
   "../monimentor-ui/packages/components/src/base/MoniLogo.vue?vue&type=script&setup=true&lang.ts": [],
   "index.html": [],
   "node_modules/@heroicons/vue/24/outline/esm/AcademicCapIcon.js": [
-    "./assets/AcademicCapIcon-m2zXENCH.js"
+    "./assets/AcademicCapIcon-BMT7Kujf.js"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/ArrowDownTrayIcon.js": [
-    "./assets/ArrowDownTrayIcon-LgRu_ttv.js"
+    "./assets/DownloadModal.vue_vue_type_script_setup_true_lang-Dw81gTjf.js"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/ArrowRightIcon.js": [
-    "./assets/ContactPage-wMxRNS0C.js"
+    "./assets/ArrowRightIcon-BchjCYeK.js"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/ArrowTopRightOnSquareIcon.js": [
-    "./assets/ArrowTopRightOnSquareIcon-B99EaTcx.js"
+    "./assets/ArrowTopRightOnSquareIcon-DTgViyhr.js"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/BoltIcon.js": [
-    "./assets/HomePage-DslflmHv.js",
+    "./assets/HomePage-D26vL6LD.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -1190,25 +1190,25 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/BookOpenIcon.js": [
-    "./assets/UserGroupIcon-Dhdmlpiu.js"
+    "./assets/BookOpenIcon-NrGRpbUg.js"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/BuildingLibraryIcon.js": [
-    "./assets/BuildingLibraryIcon-WP8154zC.js"
+    "./assets/BuildingLibraryIcon-V1MEr6bi.js"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/ChatBubbleBottomCenterTextIcon.js": [
-    "./assets/MediacoachPage-CpTCiQf2.js"
+    "./assets/MediacoachPage-PyNVkVA7.js"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/CheckCircleIcon.js": [
-    "./assets/CheckCircleIcon-B7kv_tT6.js"
+    "./assets/XMarkIcon-BIKBbpv3.js"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/ChevronRightIcon.js": [
-    "./assets/InstagramPage-C93DpaKb.js"
+    "./assets/InstagramPage-ZgPTkS9B.js"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/ClipboardDocumentCheckIcon.js": [
-    "./assets/ClipboardDocumentCheckIcon-B78KjU6L.js"
+    "./assets/ClipboardDocumentCheckIcon-C2ANVNXL.js"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/CurrencyEuroIcon.js": [
-    "./assets/AboutPage-B--GgL_T.js",
+    "./assets/AboutPage-BLZNgc8S.js",
     "./assets/monimentor-team-CYQ6NE3q.webp",
     "./assets/about-family-table-CqrddHA5.webp",
     "./assets/about-family-table-DxsHeyZ0.avif",
@@ -1217,29 +1217,26 @@
     "./assets/image-partners-D2LUc1La.webp"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/DevicePhoneMobileIcon.js": [
-    "./assets/DevicePhoneMobileIcon-DK7F4tPZ.js"
+    "./assets/DevicePhoneMobileIcon-bbdRzPTo.js"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/DocumentArrowDownIcon.js": [
-    "./assets/DownloadModal.vue_vue_type_script_setup_true_lang-HcUxrkNS.js"
-  ],
-  "node_modules/@heroicons/vue/24/outline/esm/DocumentCheckIcon.js": [
-    "./assets/SmartphoneChecklistSection.vue_vue_type_script_setup_true_lang-DeHfqoBQ.js"
+    "./assets/DownloadModal.vue_vue_type_script_setup_true_lang-Dw81gTjf.js"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/EnvelopeIcon.js": [
-    "./assets/EnvelopeIcon-BdscNrwK.js"
+    "./assets/EnvelopeIcon-BTxig-ma.js"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/HeartIcon.js": [
-    "./assets/HeartIcon-Dh6s2neo.js"
+    "./assets/HeartIcon-D1XmDHgZ.js"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/MoonIcon.js": [
-    "./assets/JGZPage-CHtuA22S.js"
+    "./assets/JGZPage-BjUwPGnn.js"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/PhoneIcon.js": [
-    "./assets/BlogPostPage-Dm4zJTMA.js",
+    "./assets/BlogPostPage-Ch9fzDRP.js",
     "./assets/BlogPostPage-CGdK4y-A.css"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/ScaleIcon.js": [
-    "./assets/AboutPage-B--GgL_T.js",
+    "./assets/AboutPage-BLZNgc8S.js",
     "./assets/monimentor-team-CYQ6NE3q.webp",
     "./assets/about-family-table-CqrddHA5.webp",
     "./assets/about-family-table-DxsHeyZ0.avif",
@@ -1248,17 +1245,17 @@
     "./assets/image-partners-D2LUc1La.webp"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/ShieldCheckIcon.js": [
-    "./assets/ShieldCheckIcon-CachFdb6.js"
+    "./assets/ShieldCheckIcon-CDVRBeqm.js"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/SparklesIcon.js": [
-    "./assets/SparklesIcon-6DEH3qRc.js"
+    "./assets/SparklesIcon-nAK4YhF3.js"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/UserCircleIcon.js": [],
   "node_modules/@heroicons/vue/24/outline/esm/UserGroupIcon.js": [
-    "./assets/UserGroupIcon-Dhdmlpiu.js"
+    "./assets/UserGroupIcon-55p5ArWs.js"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/UsersIcon.js": [
-    "./assets/AboutPage-B--GgL_T.js",
+    "./assets/AboutPage-BLZNgc8S.js",
     "./assets/monimentor-team-CYQ6NE3q.webp",
     "./assets/about-family-table-CqrddHA5.webp",
     "./assets/about-family-table-DxsHeyZ0.avif",
@@ -1267,7 +1264,7 @@
     "./assets/image-partners-D2LUc1La.webp"
   ],
   "node_modules/@heroicons/vue/24/outline/esm/XMarkIcon.js": [
-    "./assets/XMarkIcon-BlWN-2uX.js"
+    "./assets/XMarkIcon-BIKBbpv3.js"
   ],
   "node_modules/@intlify/core-base/dist/core-base.mjs": [],
   "node_modules/@intlify/message-compiler/dist/message-compiler.mjs": [],
@@ -2018,224 +2015,224 @@
   "node_modules/@vueuse/head/node_modules/@unhead/vue/dist/shared/vue.ziyDaVMR.mjs": [],
   "node_modules/@vueuse/head/node_modules/unhead/dist/index.mjs": [],
   "node_modules/fuse.js/dist/fuse.mjs": [
-    "./assets/FAQPage-CfGrHLPd.js"
+    "./assets/FAQPage-L5GHGMAQ.js"
   ],
   "node_modules/hookable/dist/index.mjs": [],
   "node_modules/klaro/dist/klaro.js": [
     "./assets/klaro-CZluPq7x.js"
   ],
   "node_modules/linkify-it/index.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/linkify-it/lib/re.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/lib/common/html_blocks.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/lib/common/html_re.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/lib/common/utils.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/lib/helpers/index.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/lib/helpers/parse_link_destination.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/lib/helpers/parse_link_label.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/lib/helpers/parse_link_title.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/lib/index.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/lib/parser_block.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/lib/parser_core.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/lib/parser_inline.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/lib/presets/commonmark.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/lib/presets/default.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/lib/presets/zero.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/lib/renderer.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/lib/ruler.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/lib/rules_block/blockquote.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/lib/rules_block/code.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/lib/rules_block/fence.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/lib/rules_block/heading.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/lib/rules_block/hr.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/lib/rules_block/html_block.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/lib/rules_block/lheading.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/lib/rules_block/list.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/lib/rules_block/paragraph.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/lib/rules_block/reference.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/lib/rules_block/state_block.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/lib/rules_block/table.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/lib/rules_core/block.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/lib/rules_core/inline.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/lib/rules_core/linkify.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/lib/rules_core/normalize.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/lib/rules_core/replacements.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/lib/rules_core/smartquotes.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/lib/rules_core/state_core.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/lib/rules_core/text_join.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/autolink.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/backticks.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/balance_pairs.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/emphasis.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/entity.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/escape.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/fragments_join.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/html_inline.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/image.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/link.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/linkify.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/newline.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/state_inline.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/strikethrough.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/lib/rules_inline/text.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/lib/token.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/node_modules/entities/lib/esm/decode.js": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/node_modules/entities/lib/esm/decode_codepoint.js": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/node_modules/entities/lib/esm/generated/decode-data-html.js": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/markdown-it/node_modules/entities/lib/esm/generated/decode-data-xml.js": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/mdurl/index.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/mdurl/lib/decode.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/mdurl/lib/encode.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/mdurl/lib/format.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/mdurl/lib/parse.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/punycode.js/punycode.es6.js": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/uc.micro/categories/Cc/regex.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/uc.micro/categories/Cf/regex.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/uc.micro/categories/P/regex.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/uc.micro/categories/S/regex.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/uc.micro/categories/Z/regex.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/uc.micro/index.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/uc.micro/properties/Any/regex.mjs": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "node_modules/vite-ssg/dist/index.mjs": [],
   "node_modules/vite-ssg/dist/shared/vite-ssg.C6pK7rvr.mjs": [],
@@ -2263,7 +2260,7 @@
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-BIXC-rAe.png"
   ],
   "src/assets/images/about-family-living.avif": [
-    "./assets/AboutPage-B--GgL_T.js",
+    "./assets/AboutPage-BLZNgc8S.js",
     "./assets/monimentor-team-CYQ6NE3q.webp",
     "./assets/about-family-table-CqrddHA5.webp",
     "./assets/about-family-table-DxsHeyZ0.avif",
@@ -2272,7 +2269,7 @@
     "./assets/image-partners-D2LUc1La.webp"
   ],
   "src/assets/images/about-family-living.webp": [
-    "./assets/AboutPage-B--GgL_T.js",
+    "./assets/AboutPage-BLZNgc8S.js",
     "./assets/monimentor-team-CYQ6NE3q.webp",
     "./assets/about-family-table-CqrddHA5.webp",
     "./assets/about-family-table-DxsHeyZ0.avif",
@@ -2281,7 +2278,7 @@
     "./assets/image-partners-D2LUc1La.webp"
   ],
   "src/assets/images/about-family-table.avif": [
-    "./assets/AboutPage-B--GgL_T.js",
+    "./assets/AboutPage-BLZNgc8S.js",
     "./assets/monimentor-team-CYQ6NE3q.webp",
     "./assets/about-family-table-CqrddHA5.webp",
     "./assets/about-family-table-DxsHeyZ0.avif",
@@ -2290,7 +2287,7 @@
     "./assets/image-partners-D2LUc1La.webp"
   ],
   "src/assets/images/about-family-table.webp": [
-    "./assets/AboutPage-B--GgL_T.js",
+    "./assets/AboutPage-BLZNgc8S.js",
     "./assets/monimentor-team-CYQ6NE3q.webp",
     "./assets/about-family-table-CqrddHA5.webp",
     "./assets/about-family-table-DxsHeyZ0.avif",
@@ -2299,7 +2296,7 @@
     "./assets/image-partners-D2LUc1La.webp"
   ],
   "src/assets/images/familie.png": [
-    "./assets/StickerPage-BUOlD53_.js",
+    "./assets/StickerPage-CXijpveT.js",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-DRxrfPuA.webp",
     "./assets/familie-DXWUOqNw.png",
@@ -2308,7 +2305,7 @@
     "./assets/website_images_monimentor_toekomst-q4ASVg7K.svg"
   ],
   "src/assets/images/image-partners.webp": [
-    "./assets/AboutPage-B--GgL_T.js",
+    "./assets/AboutPage-BLZNgc8S.js",
     "./assets/monimentor-team-CYQ6NE3q.webp",
     "./assets/about-family-table-CqrddHA5.webp",
     "./assets/about-family-table-DxsHeyZ0.avif",
@@ -2317,7 +2314,7 @@
     "./assets/image-partners-D2LUc1La.webp"
   ],
   "src/assets/images/monimentor-family.avif": [
-    "./assets/HomePage-DslflmHv.js",
+    "./assets/HomePage-D26vL6LD.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -2339,7 +2336,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "src/assets/images/monimentor-family.webp": [
-    "./assets/HomePage-DslflmHv.js",
+    "./assets/HomePage-D26vL6LD.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -2361,7 +2358,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "src/assets/images/monimentor-team.webp": [
-    "./assets/AboutPage-B--GgL_T.js",
+    "./assets/AboutPage-BLZNgc8S.js",
     "./assets/monimentor-team-CYQ6NE3q.webp",
     "./assets/about-family-table-CqrddHA5.webp",
     "./assets/about-family-table-DxsHeyZ0.avif",
@@ -2370,7 +2367,7 @@
     "./assets/image-partners-D2LUc1La.webp"
   ],
   "src/assets/images/screenshots/appstore-download.avif": [
-    "./assets/HomePage-DslflmHv.js",
+    "./assets/HomePage-D26vL6LD.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -2392,7 +2389,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "src/assets/images/screenshots/appstore-download.webp": [
-    "./assets/HomePage-DslflmHv.js",
+    "./assets/HomePage-D26vL6LD.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -2414,7 +2411,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "src/assets/images/screenshots/dashboard-insights.avif": [
-    "./assets/HomePage-DslflmHv.js",
+    "./assets/HomePage-D26vL6LD.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -2436,7 +2433,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "src/assets/images/screenshots/dashboard-insights.webp": [
-    "./assets/HomePage-DslflmHv.js",
+    "./assets/HomePage-D26vL6LD.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -2458,7 +2455,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "src/assets/images/screenshots/knikkerpot-filling.avif": [
-    "./assets/HomePage-DslflmHv.js",
+    "./assets/HomePage-D26vL6LD.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -2480,7 +2477,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "src/assets/images/screenshots/knikkerpot-filling.webp": [
-    "./assets/HomePage-DslflmHv.js",
+    "./assets/HomePage-D26vL6LD.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -2502,7 +2499,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "src/assets/images/screenshots/knikkerpot-overflow.avif": [
-    "./assets/HomePage-DslflmHv.js",
+    "./assets/HomePage-D26vL6LD.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -2524,7 +2521,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "src/assets/images/screenshots/knikkerpot-overflow.webp": [
-    "./assets/HomePage-DslflmHv.js",
+    "./assets/HomePage-D26vL6LD.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -2546,7 +2543,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "src/assets/images/screenshots/user-selection.avif": [
-    "./assets/HomePage-DslflmHv.js",
+    "./assets/HomePage-D26vL6LD.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -2568,7 +2565,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "src/assets/images/screenshots/user-selection.webp": [
-    "./assets/HomePage-DslflmHv.js",
+    "./assets/HomePage-D26vL6LD.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -2602,7 +2599,7 @@
     "./assets/aangesloten-bij-Netwerk-Mediawijsheid-BIXC-rAe.png"
   ],
   "src/assets/images/webp/familie.avif": [
-    "./assets/StickerPage-BUOlD53_.js",
+    "./assets/StickerPage-CXijpveT.js",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-DRxrfPuA.webp",
     "./assets/familie-DXWUOqNw.png",
@@ -2611,7 +2608,7 @@
     "./assets/website_images_monimentor_toekomst-q4ASVg7K.svg"
   ],
   "src/assets/images/webp/familie.webp": [
-    "./assets/StickerPage-BUOlD53_.js",
+    "./assets/StickerPage-CXijpveT.js",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-DRxrfPuA.webp",
     "./assets/familie-DXWUOqNw.png",
@@ -2620,7 +2617,7 @@
     "./assets/website_images_monimentor_toekomst-q4ASVg7K.svg"
   ],
   "src/assets/images/website_images_monimentor_Zelfstandig.svg": [
-    "./assets/StickerPage-BUOlD53_.js",
+    "./assets/StickerPage-CXijpveT.js",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-DRxrfPuA.webp",
     "./assets/familie-DXWUOqNw.png",
@@ -2629,7 +2626,7 @@
     "./assets/website_images_monimentor_toekomst-q4ASVg7K.svg"
   ],
   "src/assets/images/website_images_monimentor_connectie.svg": [
-    "./assets/StickerPage-BUOlD53_.js",
+    "./assets/StickerPage-CXijpveT.js",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-DRxrfPuA.webp",
     "./assets/familie-DXWUOqNw.png",
@@ -2638,7 +2635,7 @@
     "./assets/website_images_monimentor_toekomst-q4ASVg7K.svg"
   ],
   "src/assets/images/website_images_monimentor_toekomst.svg": [
-    "./assets/StickerPage-BUOlD53_.js",
+    "./assets/StickerPage-CXijpveT.js",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-DRxrfPuA.webp",
     "./assets/familie-DXWUOqNw.png",
@@ -2647,7 +2644,7 @@
     "./assets/website_images_monimentor_toekomst-q4ASVg7K.svg"
   ],
   "src/assets/videos/monimentor-ouder.mp4": [
-    "./assets/HomePage-DslflmHv.js",
+    "./assets/HomePage-D26vL6LD.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -2669,11 +2666,11 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "src/components/ActiviteitenAanmeldForm.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/BlogPostPage-Dm4zJTMA.js",
+    "./assets/BlogPostPage-Ch9fzDRP.js",
     "./assets/BlogPostPage-CGdK4y-A.css"
   ],
   "src/components/AndroidWaitlistModal.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/HomePage-DslflmHv.js",
+    "./assets/HomePage-D26vL6LD.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -2695,14 +2692,14 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "src/components/AppleAppStoreButton.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/AppleAppStoreButton.vue_vue_type_script_setup_true_lang-CFoY_AyA.js"
+    "./assets/AppleAppStoreButton.vue_vue_type_script_setup_true_lang-BmDG0WmT.js"
   ],
   "src/components/BlogShareBar.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/BlogPostPage-Dm4zJTMA.js",
+    "./assets/BlogPostPage-Ch9fzDRP.js",
     "./assets/BlogPostPage-CGdK4y-A.css"
   ],
   "src/components/DeviceVideoFrame.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/HomePage-DslflmHv.js",
+    "./assets/HomePage-D26vL6LD.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -2724,20 +2721,20 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "src/components/DownloadButton.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/DownloadButton.vue_vue_type_script_setup_true_lang-jbowfgZb.js"
+    "./assets/DownloadButton.vue_vue_type_script_setup_true_lang-BMI4X7Wh.js"
   ],
   "src/components/DownloadModal.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/DownloadModal.vue_vue_type_script_setup_true_lang-HcUxrkNS.js"
+    "./assets/DownloadModal.vue_vue_type_script_setup_true_lang-Dw81gTjf.js"
   ],
   "src/components/FAQItem.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/FAQPage-CfGrHLPd.js"
+    "./assets/FAQPage-L5GHGMAQ.js"
   ],
   "src/components/Footer.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/Footer.vue_vue_type_script_setup_true_lang-BGX3vB9W.js"
+    "./assets/Footer.vue_vue_type_script_setup_true_lang-CUCjOW-e.js"
   ],
   "src/components/LanguageSwitcher.vue?vue&type=script&setup=true&lang.ts": [],
   "src/components/MoniScene.vue": [
-    "./assets/HomePage-DslflmHv.js",
+    "./assets/HomePage-D26vL6LD.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -2759,7 +2756,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "src/components/MoniScene.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/HomePage-DslflmHv.js",
+    "./assets/HomePage-D26vL6LD.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -2781,7 +2778,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "src/components/MoniScene.vue?vue&type=style&index=0&scoped=2c395d43&lang.css": [
-    "./assets/HomePage-DslflmHv.js",
+    "./assets/HomePage-D26vL6LD.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -2804,7 +2801,7 @@
   ],
   "src/components/NavigationHeader.vue?vue&type=script&setup=true&lang.ts": [],
   "src/components/PhoneScreenshotFrame.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/HomePage-DslflmHv.js",
+    "./assets/HomePage-D26vL6LD.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -2826,7 +2823,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "src/components/RotatingQuotes.vue": [
-    "./assets/HomePage-DslflmHv.js",
+    "./assets/HomePage-D26vL6LD.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -2848,7 +2845,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "src/components/RotatingQuotes.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/HomePage-DslflmHv.js",
+    "./assets/HomePage-D26vL6LD.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -2870,7 +2867,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "src/components/RotatingQuotes.vue?vue&type=style&index=0&scoped=e6bfa89b&lang.css": [
-    "./assets/HomePage-DslflmHv.js",
+    "./assets/HomePage-D26vL6LD.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -2892,7 +2889,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "src/components/SectionSidebar.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/HomePage-DslflmHv.js",
+    "./assets/HomePage-D26vL6LD.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -2913,102 +2910,99 @@
     "./assets/appstore-download-EjIN3eJ6.webp",
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
-  "src/components/SmartphoneChecklistSection.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/SmartphoneChecklistSection.vue_vue_type_script_setup_true_lang-DeHfqoBQ.js"
-  ],
   "src/components/WaveSection.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/Footer.vue_vue_type_script_setup_true_lang-BGX3vB9W.js"
+    "./assets/Footer.vue_vue_type_script_setup_true_lang-CUCjOW-e.js"
   ],
   "src/config/pricing.ts": [
-    "./assets/PricingPage-BGrR184l.js"
+    "./assets/PricingPage-D2Eh2TDv.js"
   ],
   "src/data/blog/authors.ts": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "src/data/blog/index.ts": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "src/data/blog/posts/de-digitale-speeltuin-begeleiding-boven-verbod.en.md?raw": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "src/data/blog/posts/de-digitale-speeltuin-begeleiding-boven-verbod.nl.md?raw": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "src/data/blog/posts/de-eu-kids-act-waarom-deze-wet-jou-als-ouder-ontlast.en.md?raw": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "src/data/blog/posts/de-eu-kids-act-waarom-deze-wet-jou-als-ouder-ontlast.nl.md?raw": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "src/data/blog/posts/de-whatsapp-klasgroep-op-de-basisschool.en.md?raw": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "src/data/blog/posts/de-whatsapp-klasgroep-op-de-basisschool.nl.md?raw": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "src/data/blog/posts/digitale-opvoeding-makkelijker-doe-mee-aan-deze-mediawijsheidweek.en.md?raw": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "src/data/blog/posts/digitale-opvoeding-makkelijker-doe-mee-aan-deze-mediawijsheidweek.nl.md?raw": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "src/data/blog/posts/digitale-opvoeding-voor-de-eerste-telefoon.en.md?raw": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "src/data/blog/posts/digitale-opvoeding-voor-de-eerste-telefoon.nl.md?raw": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "src/data/blog/posts/hoe-moni-gebaren-leert-en-jij-je-kind-digitaal-begeleidt.en.md?raw": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "src/data/blog/posts/hoe-moni-gebaren-leert-en-jij-je-kind-digitaal-begeleidt.nl.md?raw": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "src/data/blog/posts/iedereen-heeft-het-verbonden-zonder-eigen-telefoon.en.md?raw": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "src/data/blog/posts/iedereen-heeft-het-verbonden-zonder-eigen-telefoon.nl.md?raw": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "src/data/blog/posts/kind-boos-als-tablet-weg-moet-schermtijdstress.en.md?raw": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "src/data/blog/posts/kind-boos-als-tablet-weg-moet-schermtijdstress.nl.md?raw": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "src/data/blog/posts/kleurwedstrijd-kleurplaat.en.md?raw": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "src/data/blog/posts/kleurwedstrijd-kleurplaat.nl.md?raw": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "src/data/blog/posts/roblox-herken-de-valkuilen-en-stel-veilige-digitale-grenzen.en.md?raw": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "src/data/blog/posts/roblox-herken-de-valkuilen-en-stel-veilige-digitale-grenzen.nl.md?raw": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "src/data/blog/posts/schermtijd-instellen-ipad-iphone-kinderen.en.md?raw": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "src/data/blog/posts/schermtijd-instellen-ipad-iphone-kinderen.nl.md?raw": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "src/data/blog/posts/van-schermpaniek-naar-digitale-rust-zo-bouw-je-weerbaarheid.en.md?raw": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "src/data/blog/posts/van-schermpaniek-naar-digitale-rust-zo-bouw-je-weerbaarheid.nl.md?raw": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "src/data/blog/posts/wanneer-een-eigen-telefoon-kabinetsrichtlijn-uitgelegd.en.md?raw": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "src/data/blog/posts/wanneer-een-eigen-telefoon-kabinetsrichtlijn-uitgelegd.nl.md?raw": [
-    "./assets/authors-BT32aAm5.js"
+    "./assets/authors-Cjk5nIRY.js"
   ],
   "src/data/blog/slugs.ts": [],
   "src/data/downloads.ts": [
-    "./assets/DownloadsPage-D_dn2xC3.js"
+    "./assets/DownloadsPage-BUsap0X2.js"
   ],
   "src/i18n/index.ts": [],
   "src/klaro-config.ts": [
@@ -3019,7 +3013,7 @@
   "src/locales/nl.json": [],
   "src/main.ts": [],
   "src/pages/AboutPage.vue": [
-    "./assets/AboutPage-B--GgL_T.js",
+    "./assets/AboutPage-BLZNgc8S.js",
     "./assets/monimentor-team-CYQ6NE3q.webp",
     "./assets/about-family-table-CqrddHA5.webp",
     "./assets/about-family-table-DxsHeyZ0.avif",
@@ -3028,7 +3022,7 @@
     "./assets/image-partners-D2LUc1La.webp"
   ],
   "src/pages/AboutPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/AboutPage-B--GgL_T.js",
+    "./assets/AboutPage-BLZNgc8S.js",
     "./assets/monimentor-team-CYQ6NE3q.webp",
     "./assets/about-family-table-CqrddHA5.webp",
     "./assets/about-family-table-DxsHeyZ0.avif",
@@ -3037,49 +3031,49 @@
     "./assets/image-partners-D2LUc1La.webp"
   ],
   "src/pages/BlogPage.vue": [
-    "./assets/BlogPage-C-yFhss3.js"
+    "./assets/BlogPage-gp24ZCdQ.js"
   ],
   "src/pages/BlogPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/BlogPage-C-yFhss3.js"
+    "./assets/BlogPage-gp24ZCdQ.js"
   ],
   "src/pages/BlogPostPage.vue": [
-    "./assets/BlogPostPage-Dm4zJTMA.js",
+    "./assets/BlogPostPage-Ch9fzDRP.js",
     "./assets/BlogPostPage-CGdK4y-A.css"
   ],
   "src/pages/BlogPostPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/BlogPostPage-Dm4zJTMA.js",
+    "./assets/BlogPostPage-Ch9fzDRP.js",
     "./assets/BlogPostPage-CGdK4y-A.css"
   ],
   "src/pages/BlogPostPage.vue?vue&type=style&index=0&lang.css": [
-    "./assets/BlogPostPage-Dm4zJTMA.js",
+    "./assets/BlogPostPage-Ch9fzDRP.js",
     "./assets/BlogPostPage-CGdK4y-A.css"
   ],
   "src/pages/CloudSurfersPage.vue": [
-    "./assets/CloudSurfersPage-CTlQJ3-T.js"
+    "./assets/CloudSurfersPage-BukZ2zrW.js"
   ],
   "src/pages/CloudSurfersPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/CloudSurfersPage-CTlQJ3-T.js"
+    "./assets/CloudSurfersPage-BukZ2zrW.js"
   ],
   "src/pages/ContactPage.vue": [
-    "./assets/ContactPage-wMxRNS0C.js"
+    "./assets/ContactPage-B8Li7Oui.js"
   ],
   "src/pages/ContactPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/ContactPage-wMxRNS0C.js"
+    "./assets/ContactPage-B8Li7Oui.js"
   ],
   "src/pages/DownloadsPage.vue": [
-    "./assets/DownloadsPage-D_dn2xC3.js"
+    "./assets/DownloadsPage-BUsap0X2.js"
   ],
   "src/pages/DownloadsPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/DownloadsPage-D_dn2xC3.js"
+    "./assets/DownloadsPage-BUsap0X2.js"
   ],
   "src/pages/FAQPage.vue": [
-    "./assets/FAQPage-CfGrHLPd.js"
+    "./assets/FAQPage-L5GHGMAQ.js"
   ],
   "src/pages/FAQPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/FAQPage-CfGrHLPd.js"
+    "./assets/FAQPage-L5GHGMAQ.js"
   ],
   "src/pages/HomePage.vue": [
-    "./assets/HomePage-DslflmHv.js",
+    "./assets/HomePage-D26vL6LD.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -3101,7 +3095,7 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "src/pages/HomePage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/HomePage-DslflmHv.js",
+    "./assets/HomePage-D26vL6LD.js",
     "./assets/HomePage-D2GmhG7d.css",
     "./assets/jar-DY-esj36.glb",
     "./assets/rocket-D6Rtk7R6.glb",
@@ -3123,43 +3117,49 @@
     "./assets/appstore-download-CLzx7qMg.avif"
   ],
   "src/pages/InstagramPage.vue": [
-    "./assets/InstagramPage-C93DpaKb.js"
+    "./assets/InstagramPage-ZgPTkS9B.js"
   ],
   "src/pages/InstagramPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/InstagramPage-C93DpaKb.js"
+    "./assets/InstagramPage-ZgPTkS9B.js"
   ],
   "src/pages/JGZPage.vue": [
-    "./assets/JGZPage-CHtuA22S.js"
+    "./assets/JGZPage-BjUwPGnn.js"
   ],
   "src/pages/JGZPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/JGZPage-CHtuA22S.js"
+    "./assets/JGZPage-BjUwPGnn.js"
   ],
   "src/pages/KleurplaatPage.vue": [
-    "./assets/KleurplaatPage-C3iINZay.js"
+    "./assets/KleurplaatPage-ylshpkcR.js"
   ],
   "src/pages/KleurplaatPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/KleurplaatPage-C3iINZay.js"
+    "./assets/KleurplaatPage-ylshpkcR.js"
   ],
   "src/pages/MediacoachPage.vue": [
-    "./assets/MediacoachPage-CpTCiQf2.js"
+    "./assets/MediacoachPage-PyNVkVA7.js"
   ],
   "src/pages/MediacoachPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/MediacoachPage-CpTCiQf2.js"
+    "./assets/MediacoachPage-PyNVkVA7.js"
+  ],
+  "src/pages/PartnersPage.vue": [
+    "./assets/PartnersPage-DyBZbIuH.js"
+  ],
+  "src/pages/PartnersPage.vue?vue&type=script&setup=true&lang.ts": [
+    "./assets/PartnersPage-DyBZbIuH.js"
   ],
   "src/pages/PricingPage.vue": [
-    "./assets/PricingPage-BGrR184l.js"
+    "./assets/PricingPage-D2Eh2TDv.js"
   ],
   "src/pages/PricingPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/PricingPage-BGrR184l.js"
+    "./assets/PricingPage-D2Eh2TDv.js"
   ],
   "src/pages/SchoolPage.vue": [
-    "./assets/SchoolPage-CYHLNr8w.js"
+    "./assets/SchoolPage-BXou9B9I.js"
   ],
   "src/pages/SchoolPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/SchoolPage-CYHLNr8w.js"
+    "./assets/SchoolPage-BXou9B9I.js"
   ],
   "src/pages/StickerPage.vue": [
-    "./assets/StickerPage-BUOlD53_.js",
+    "./assets/StickerPage-CXijpveT.js",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-DRxrfPuA.webp",
     "./assets/familie-DXWUOqNw.png",
@@ -3168,7 +3168,7 @@
     "./assets/website_images_monimentor_toekomst-q4ASVg7K.svg"
   ],
   "src/pages/StickerPage.vue?vue&type=script&setup=true&lang.ts": [
-    "./assets/StickerPage-BUOlD53_.js",
+    "./assets/StickerPage-CXijpveT.js",
     "./assets/familie-Ccgo9OsD.avif",
     "./assets/familie-DRxrfPuA.webp",
     "./assets/familie-DXWUOqNw.png",
@@ -3181,16 +3181,16 @@
   "src/style.css": [],
   "src/utils/domain-shim.ts": [],
   "src/utils/download.ts": [
-    "./assets/DownloadModal.vue_vue_type_script_setup_true_lang-HcUxrkNS.js"
+    "./assets/DownloadModal.vue_vue_type_script_setup_true_lang-Dw81gTjf.js"
   ],
   "src/utils/faq-synonyms.ts": [
-    "./assets/FAQPage-CfGrHLPd.js"
+    "./assets/FAQPage-L5GHGMAQ.js"
   ],
   "src/utils/lead-submission.ts": [
     "./assets/lead-submission-vmCn3UMc.js"
   ],
   "src/utils/seo.ts": [],
   "src/utils/wave-data.ts": [
-    "./assets/Footer.vue_vue_type_script_setup_true_lang-BGX3vB9W.js"
+    "./assets/Footer.vue_vue_type_script_setup_true_lang-CUCjOW-e.js"
   ]
 }
